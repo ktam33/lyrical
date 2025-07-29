@@ -1,0 +1,2584 @@
+#separator:tab
+#html:false
+姜	goeng 1 A surname
+濤	tou 4 billows; large waves
+慶	hing 3 to celebrate; to congratulate
+幸	hang 6 fortunate; lucky
+邂	haai 5 to run into somebody by chance
+逅	hau 6 to run into somebody by chance
+援	wun 4 to aid; to assist; to help
+報	bou 3 to repay; to requite; to recompense
+酬	cau 4 to reward; to repay
+打	daa 2 to hit; to strike; to slap; to beat
+急	gap 1 urgent; pressing; critical
+夏	haa 1 summer (season)
+處	cyu 2 to reside; to live; to dwell
+躲	do 2 to avoid; to evade
+瘋	fung 1 crazy; insane; mad
+堡	bou 2 fort; fortress
+壘	leoi 5 rampart, military wall
+造	zou 6 to make; to build; to manufacture
+烏	wu 1 crow; raven; rook
+托	tok 3 to hold in the hand
+邦	bong 1 nation; country; sovereign state
+肯	hang 2 to be willing to; to be ready to
+性	sing 3 nature; character; personality
+宣	syun 1 to declare; to announce; to proclaim
+洩	sit 3 to reveal; to divulge (eg. secrets)
+沮	zeoi 2 gloomy; glum; disheartened
+喪	song 1 to mourn; to be in mourning
+熟	suk 6 familiar with; well-acquainted with
+悉	sik 1 to know; to learn; to be informed of
+膀	pong 4 upper arm; shoulder
+緒	seoi 5 mental state
+涸	kok 3 (of bodies of water) dry
+源	jyun 4 source; origin; root
+島	dou 2 island
+燃	jin 4 to burn; to be alight
+闖	cong 2 to rush in; to burst in
+激	gik 1 drastic; radical; extreme
+勇	jung 5 brave
+堂	tong 4 hall; chamber; large room
+跳	tiu 3 to jump; to leap; to hop
+健	gin 6 strong; robust; vigorous
+康	hong 1 happy; healthy; strong
+煩	faan 4 agitated; restless; vexed; unhappy
+擾	jiu 2 to disturb; to trouble
+希	hei 1 to hope; to expect; to strive for
+抵	dai 2 to offset; to balance
+消	siu 1 to eliminate; to terminate; to eradicate
+滴	dik 6 to drip; to dribble
+箏	zang 1 zither
+藏	cong 4 to store; to lay
+模	mou 4 model; standard; example
+漫	maan 6 overflow (of water), brim over, flood
+除	ceoi 4 to exclude
+挫	co 3 to break (something); to crush; to smash; to push down
+折	zit 3 to break off; to snap; to pluck off
+厭	jim 3 to be fed up with; to grow bored of; to become tired of
+修	sau 1 to repair; to mend
+補	bou 2 to mend; to repair; to fix
+殘	caan 4 severe; cruel
+破	po 3 to ruin; to destroy
+悲	bei 1 sad; sorrowful
+鼓	gu 2 (music) drum
+舞	mou 5 dance (performance art); dancing
+紓	syu 1 loosen, relax, relieve
+減	gaam 2 to decrease; to subtract; to diminish
+恐	hung 2 to fear; to be afraid
+怖	bou 3 to fear; to be afraid
+料	liu 6 to oversee; to manage; to deal with
+糟	zou 1 awful; messy; terrible; in bad shape
+量	loeng 4 to measure
+彌	nei 4 to mend; to repair
+逃	tou 4 to escape; to run away
+煩	faan 4 to bother; to vex; to trouble
+惱	nou 5 to be angered; to be irritated
+蒼	cong 1 white; greyish white
+沿	jyun 4 to follow a course, go along
+途	tou 4 way; path; road
+熄	sik 1 to extinguish (light or fire); to go out
+曙	cyu 5 daybreak; dawn
+形	jing 4 form; shape; appearance
+狀	zong 6 form; appearance; state
+付	fu 6 to give; to deliver; to hand over
+孔	hung 2 hole; aperture; opening
+瘡	cong 1 sore; skin ulcer; boil
+壯	zong 3 strong; robust
+勢	sai 3 outward appearance of something
+壞	waai 6 rotten; spoiled
+抗	kong 3 to resist; to oppose
+硬	ngaang 6 hard
+撑	caang 1 to prop up, to support, to brace
+保	bou 2 to protect; to safeguard; to defend
+養	joeng 5 to raise; to rear; to bring up
+慕	mou 6 to admire; to adore
+縫	fung 4 to sew up; to stitch
+操	cou 3 conduct; behaviour
+歪	waai 1 slanted; inclined; askew; awry; crooked; lopsided
+偕	gaai 1 to accompany; together; in company
+漂	piu 1  to float; to drift
+亮	loeng 6 bright; brilliant; radiant
+魯	lou 5 foolish; stupid; rash
+莽	mong 5 rude, impertinent
+推	teoi 1 to push
+裝	zong 1 to hold; to store; to contain
+巨	geoi 6 huge; gigantic; enormous
+匠	zoeng 6 craftsman; artisan; workman
+骯	ong 1 dirty
+髒	zong 1 dirty; filthy; soiled; foul
+膠	gaau 1 glue; adhesive; gum; resin
+紙	zi 2 paper
+俊	zeon 3 good-looking; pretty; beautiful; handsome
+朗	long 5 clear; bright
+釘	deng 1 nail (spike-shaped fastener)
+爛	laan 6 (of fruits, etc.) rotten; spoiled; decayed
+同	tung 4 same; identical
+奔	ban 1 to run fast; to rush about
+往	wong 5 to go to; to head for
+邊	bin 1 edge; border; side
+跌	dit 3 to fall down
+宕	dong 6 stone quarry
+緊	gan 2 tense; tight; taut; tightly
+跨	kwaa 1 to step across
+宇	jyu 5 universe
+宙	zau 6 eon
+橫	waang 4 to move crosswise; to cross; to traverse; to stretch across
+越	jyut 6 (of time) to pass; to go through
+洪	hung 4 big; vast; grand
+荒	fong 1 wasteland; desert
+岸	ngon 5 beach; coast
+護	wu 6 to protect; to safeguard; to defend; to shelter
+航	hong 4 ship; boat
+互	wu 6 mutually; reciprocally
+狂	kwong 4 mad; insane; crazy
+暴	bou 6 violent; cruel; brutal; tyrannical
+歲	seoi 3 Classifier for age
+致	zi 3 to cause; to result in
+慌	fong 1 to feel nervous; to get flustered; to get flurried
+員	jyun 4 personnel; staff member
+藍	laam 4 blue
+剔	tik 1 checkmark
+誘	jau 5 to persuade; to entice; to tempt
+惑	waak 6 confused; puzzled
+等	dang 2 wait
+關	gwaan 1 to concern; to implicate; to relate to
+注	zyu 3 to concentrate; to pay attention
+追	zeoi 1 to chase after; to pursue (someone)
+在	zoi 6 to be at; to be in; to be located
+螢	jing 4 firefly
+幕	mok 6 curtain; screen; tent
+裡	leoi 5 (postpositional) in; inside
+牽	hin 1 to think about (someone); to be concerned about
+掛	gwaa 3 to hang; to suspend
+通	tung 1 to pass through; to travel through; to go through; or, to allow passage
+訊	seon 3 information; news
+被	bei 6 by
+限	haan 6 boundary; limit; line
+制	zai 3 to plan; to regulate
+必	bit 1 must; have to; shall
+怕	paa 3 to fear; to be afraid of
+封	fung 1 to close; to seal; to bind
+鎖	so 1 lock
+就	zau 6 then
+放	fong 3 to release; to free
+概	koi 3 general idea
+足	zuk 1 to satisfy; to fulfill
+證	zing 3 to prove; to testify; to verify
+實	sat 6 truth; fact; substance; reality
+情	cing 4 feeling; sentiment; emotion
+傷	soeng 1 wound; injury
+治	zi 6 to treat; to cure (disease)
+理	lei 5 to manage; to run; to handle
+誰	seoi 4 who
+知	zi 1 to know; to understand; to comprehend
+傳	cyun 4 to pass down; to hand down
+時	si 4 time; season
+動	dung 6 to move; to happen
+態	taai 3 condition; state
+定	ding 6 stable; steady; fixed
+直	zik 6 straight; linear; undeviating
+播	bo 3 to broadcast; to spread
+但	daan 6 but; however; yet; still
+清	cing 1 distinct; clear; apparent
+楚	co 2 clear; distinct
+終	zung 1 end; ending; termination
+止	zi 2 to stop; to halt
+交	gaau 1 to hand over; to turn in; to submit
+往	wong 5 past; previous
+更	gang 3 more; further; even more
+快	faai 3 pleased; happy
+樂	lok 6 joyful; happy; glad
+過	gwo 3 to cross; to pass; to go across; to pass through
+退	teoi 3 to step back; to move backwards
+出	ceot 1 to go out
+驚	geng 1 to fear; to be afraid
+訝	ngaa 2 to be surprised; to be astonished
+什	sam 6 miscellaneous; assorted
+反	faan 2 reverse; opposite; contrary; anti-
+效	haau 6 result; effect
+果	gwo 2 result
+隔	gaak 3 to separate; to partition
+籬	lei 4 fence made of bamboo or branches
+很	han 2 very; rather; quite
+想	soeng 2 to think
+搞	gaau 2 to make; to produce
+醉	zeoi 3 to become drunk; to become intoxicated
+喊	haam 3 to shout; to cry; to yell; to howl
+慰	wai 3 to comfort; to console; to calm
+獨	duk 6 alone; single; solitary
+別	bit 6 to distinguish; to differentiate; to discriminate
+麼	mo 1 A suffix for forming pronouns or adverbs (sam mo)
+期	kei 4 to hope; to wish; to expect
+待	doi 6 to wait
+分	fan 1 to divide; to separate
+幾	gei 2 how much; how many
+秒	miu 5 second
+視	si 6 to see; to look; to view
+節	zit 3 festival; celebration; holiday;
+未	mei 6 to have not; not ye
+提	tai 4 to mention; to nominate
+及	kap 6 to reach; to extend to
+每	mui 5 every; each
+晚	maan 5 night
+勉	min 5 to endeavor; to make an effort; to strive
+強	koeng 4 staunch; strong-willed
+全	cyun 4 whole; entire; all
+面	min 6 face
+離	lei 4 to leave, to depart
+線	sin 3 thread
+曾	cang 4 already; ever; once (in the past); previously
+犯	faan 6 to commit (crime), to violate
+錯	co 3 wrong; erroneous; incorrect
+懶	laan 5 lazy; indolent; slothful
+墊	zin 3 pad; cushion; mat
+底	dai 2 bottom; underneath; underside
+回	wui 4 to turn around
+復	fuk 6 to return
+掣	zai 3 button
+無	mou 4 Negation particle preceding verbs and adjectives. not
+廢	fai 3 to waste; to squander
+掉	diu 6 to drop; to fall
+蹤	zung 1 footprint; trace; track
+何	ho 4 what; which; why; how
+苦	fu 2 difficult; painful; hard
+低	dai 1 low (of height)
+盲	maang 4 blind
+目	muk 6 to look; to view; to see
+愛	oi 3 love
+痛	tung 3 to hurt; to cause pain
+著	zoek 3 Particle denoting the success or continuation of an action.
+蹉	co 1 to be frustrated; to be disheartened; to be disappointed
+跎	to 4 to be frustrated; to be disheartened; to be disappointed
+說	syut to say; to speak
+句	geoi 3 sentence; phrase
+再	zoi 3 again; once again
+見	gin 3 to see
+為	wai 6 for; to
+根	gan 1 base; basis; foundation
+本	bun 2 source; origin; root
+斷	tyun 5 to break; to snap
+聯	lyun 4 to connect; to join
+繫	hai 6 to tie; to fasten; to button up
+答	daap 3 to answer; to reply
+解	gai 3 to explain
+慢	maan 6 slow; sluggish
+遲	ci 4 late; tardy
+來	loi 4 to come; to arrive
+挽	waan 5 to pull back, to draw back
+留	lau 4 to stay
+疚	gau 3 guilt; sorrow
+從	cung 4 through; via; by
+懂	dung 2 to understand; to comprehend
+體	tai 2 to put oneself in someone else's position
+貼	tip 3 to be attached to
+憂	jau 1 grief; melancholy
+應	jing 1 should; ought to
+像	zoeng 6 to resemble; to be like
+隻	zek 3 Classifier for certain animals
+蝸	wo 1 terrestrial snail
+唯	wai 4 only
+讓	joeng 6 to allow; to let; to permit
+點	dim 2 a little; a bit; some
+發	faat 3 to generate; to produce
+現	jin 6 to appear; to manifest; to become visible
+慨	koi 2 to rue; to be sad
+陋	lau 6 plain; ugly
+習	zaap 6 habit; custom
+缺	kyut 3 imperfect; flawed
+改	goi 2 to change; to transform; to alter; to modify
+自	zi 6 self, oneself; one's own
+耐	noi 6 to bear; to endure
+賽	coi 3 competition; contest; race
+察	caat 3 to examine; to investigate; to notice
+覺	gok 3 to become aware; to dawn on; to awaken to
+忍	jan 5 to endure; to bear; to suffer
+仿	fong 2 to imitate
+佛	fat 6 Buddha
+痴	ci 1 foolish; stupid; dumb; silly
+呆	ngoi 4 dull-minded; simple; stupid
+空	hung 1 empty; hollow; void
+白	baak 6 white
+夾	gaap 3 to squeeze between; to pinch; to clamp; to hold between
+雜	zaap 6 miscellaneous; mixed
+慚	caam 4 ashamed; embarrassed
+愧	kwai 3 ashamed; guilty; conscience-stricken; mortified
+腦	nou 5 brain
+袋	doi 6 bag; sack; pouch; pocket
+才	coi 4 ability; gift; talent; capability
+洞	dung 6 thorough; penetrating
+悉	sik 1 to know; to learn; to be informed of
+醒	sing2 to sober up
+常	soeng 4 normal; general; common
+連	lin 4 to link; to join; to connect
+累	leoi 6 to involve; to implicate; to embroil; to entangle; to hinder
+由	jau 4 cause; reason
+借	ze 3 to lend
+最	zeoi 3 most
+量	loeng 4 to measure
+把	baa 2 to hold; to grasp; to take
+麗	lai 6 beautiful; lovely; pretty; fair; elegant
+諾	nok 6 to promise
+言	jin 4 to say; to speak; to talk
+裝	zong 1 to load; to stack; to cram; to fill
+載	zoi 3 to carry; to hold; to be loaded with
+長	coeng 4 long
+跑	paau 2 to run
+厭	jim 3 to be fed up with; to grow bored of; to become tired of
+倦	gyun 6 tired; weary
+饒	jiu 4 to forgive; to have mercy on
+恕	syu 3 to forgive; to pardon; to show mercy
+學	hok 6 to comprehend; to realise; to understand
+嘆	taan 3 to sigh
+息	sik 1 to breathe; to pant
+待	doi 6 to wait
+薄	bok 6 to approach
+孤	gu 1 alone; solitary
+獨	duk 6 alone; single; solitary
+地	dei 6 earth
+至	zi 3 extreme; most
+起	hei 2 to rise; to go up; to move up
+次	ci 3 order; sequence
+結	git 3 to end; to finish
+局	guk 6 part; component
+睬	coi2 to notice, to pay attention to
+鈍	deon 6 dull; blunt; not sharp
+寂	zik 6 lonely; solitary
+寞	mok 6 lonely; desolate
+痴	ci 1 foolish; stupid; dumb; silly
+堆	deoi 1 heap; pile; mound
+收	sau 1 to accept; to take in; to admit into
+於	jyu 1 (indicates time or place) in; at; on
+剪	zin 2 to cut (paper, etc.)
+碎	seoi 3 shattered; fragmented; shredded
+濃	nung 4 thick; concentrated
+蜜	mat 6 honey
+冷	laang 5 cold; cool
+默	mak 6 to be silent; to keep quiet; to keep still
+蒼	cong 1 blue; green
+載	zoi 3 to ride; to travel (by); to take
+昔	sik 1 former times; the past; long ago; ancient times
+唏	hei 1 (literary, onomatopoeia) to sigh; to sob
+噓	heoi 1 to sigh; to lament
+迷	mai 4 to get lost
+霧	mou 6 fog; mist
+漸	zim 6 to advance gradually
+散	saan 2 to become loose; to break apart; to fall apart
+逝	sai 6 to pass; to leave; to go off
+顯	hin 2 to appear; to manifest; to display
+崎	kei 4 (literary or Min Nan) steep; precipitous; rugged
+嶇	keoi 1 rugged; rough
+陰	jam 1 cloudy; overcast
+沖	cung 1 to pour water on; to rinse; to flush; to wash
+沉	cam 4 to sink; to submerge (into water)
+憔	ciu 4 (of person) wan and sallow
+悴	seoi 6 sad; distressed; despondent
+陪	pui 4 to keep someone company; to accompany; to go with
+寄	gei 3 to live away from home
+居	geoi 1 house; residence; dwelling
+傾	king 1 (Cantonese) to chat; to converse
+悔	fui 3 to repent; to show remorse; to regret
+消	siu 1 to disappear; to vanish; to die down; to settle down
+告	gou 3 to announce; to declare
+站	zaam 6 to stand
+樹	syu 6 tree
+氧	joeng 5 (chemistry) oxygen
+夕	zik 6 night; evening; dusk
+寥	liu 4 quiet; tranquil; still
+權	kyun 4 power; authority
+谷	guk 1 valley; gorge; ravine
+將	zoeng 1 will; going to
+族	zuk 6 clan; family clan; tribe
+戲	hei 3 to play; to amuse; to have fun
+位	wai 6 position; location
+巔	din 1 summit of mountain; mountain top; peak
+俯	fu 2 to look from above; to overlook; to look down
+瞰	ham 3 overlook
+喘	cyun 2 to pant; to gasp
+侮	mou 5 to insult, ridicule, disgrace
+辱	juk 6 disgrace; shame; discredit
+適	sik 1 to go; to proceed (to a place)
+宜	ji 4 appropriate; suitable; proper
+滯	zai 6 to hold back; to stay (to hinder); to encumber; to impede
+整	zing 2 to fix, to repair
+凌	ling 4 disorderly; messy
+團	tyun 4 group; collective; panel; team; organization
+圓	jyun 4 (mathematics) circle
+程	cing 4 stage of a journey
+愈	jyu 6 more and more; even more
+崖	ngaai 4 cliff; precipice
+園	jyun 4 garden; orchard
+彷	fong 2 to resemble; to be similar
+彿	fat 1 as if; as though
+揮	fai 1 to wipe away to disperse; to scatter
+墮	do 6 to fall; to sink
+播	bo 3 to broadcast; to spread
+區	keoi 1 area; district; region; ward
+嚴	jim 4 strict, rigorous, rigid
+苛	ho 1 harsh; severe; exacting
+尚	soeng 6 still; yet
+偷	tau 1 to steal; to snatch
+魂	wan 4 soul; spirit
+盤	pun 4 tray; plate; dish
+旋	syun 4 to revolve; to turn
+埋	maai 4 to bury; to secrete; to conceal
+藏	cong 4 to store; to lay
+滲	sam 3 to seep; to infiltrate
+拾	sap 6 to pick up
+輕	hing 1 gentle; light; soft
+喚	wun 6 to call; to summon
+醒	sing 2 to awaken; to wake up
+幸	hang 6 fortunate; lucky
+運	wan 6 fortune; luck; fate
+落	lok 6 to go down; to descend
+寞	mok 6 lonely; desolate
+欣	jan 1 happy; joyous; delighted
+燃	jin 4 to burn; to be alight
+熱	jit 6 hot; heated; having a high temperature
+困	kwan 3 to surround; to besiege
+折	zit 3 to break off; to snap; to pluck off
+領	ling 5 to understand
+略	loek 6 plan; strategy; summary; outline
+抉	kyut 3 to choose; to select
+擇	zaak 6 to select; to choose; to pick out
+諾	nok 6 to promise
+激	gik 1 to excite; to arouse; to incite; to irritate
+詩	si 1 poem; verse; ode; poetry
+篇	pin 1 piece of writing
+慕	mou 6 to admire; to adore
+艱	gaan 1 difficult; hard
+苦	fu 2 bitter
+陪	pui 4 to keep someone company; to accompany; to go with
+呼	fu 1 to breathe out; to exhale; to sigh
+夢	mung 6 dream
+伊	ji 1 (literary) this; that
+甸	din 6 suburbs of capital
+枕	zam 2 pillow
+差	caa 1 to differ from; to be different; dissimilar; incongruous
+寸	cyun 3 (units of measure) A cun or Chinese inch, a traditional unit of length of about 3 cm.
+糾	gau 2 to entwine; to wind
+纏	cin 4 to wind; to tie; to bind
+權	kyun 4 power; authority
+利	lei 6 benefit; advantage
+后	hau 6 king; ruler; emperor
+愫	sou 3 guileless, sincere, honest
+思	si 1 to think; to cogitate
+末	mut 6 final; the last; concluding; closing; terminal
+章	zoeng 1 chapter; section
+翻	faan 1 to reverse; to flip over; to turn over; to toss
+樣	joeng 6 appearance; form; shape
+終	zung 1 end; ending; termination
+極	gik 6 extremely; exceedingly; very
+敢	gam 2 to dare (to); to venture (to)
+奇	kei 4 strange; odd; weird; unusual
+沾	zim 1 to be stained with; to be contaminated by
+污	wu 1 unclean; dirty; filthy
+尾	mei 5 end
+猶	jau 4 to be like; to be just as
+碰	pung 3 to collide; to bump; to knock; to touch
+秘	bei 3 mysterious; abstruse; secret
+密	mat 6 dense; thick; close
+現	jin 6 present; current
+揭	kit 3 to raise
+曉	hiu 2 to know; to understand; to get
+承	sing 4 to continue; to carry on; to succeed
+歡	fun 1 happy; pleased; glad
+宵	siu 1 (Classical Chinese) night, evening
+飄	piu 1 to drift
+渺	miu 5 endlessly long; boundless; vast
+餘	jyu 4 to remain; to have left
+繞	jiu 2 to entwine
+愿	jyun 6 honest and prudent
+距	keoi 5 distance
+味	mei 6 taste; flavor
+跳	tiu 3 to jump; to leap; to hop
+搖	jiu 4 to wag; to swing; to wave
+球	kau 4 ball, globe, orb
+場	coeng 4 open space; field; market
+片	pin 3 film; TV play; photograph; record
+段	dyun 6 Classifier for a distance or a period of time.
+祈	kei 4 pray
+算	syun 3 to count; to calculate; to figure
+遠	jyun 5 distant; remote; far
+刻	hak 1 moment in time
+渴	hot 3 thirsty
+即	zik 1 though; although
+使	si 2 to let; to make; to cause to
+聚	zeoi 6 to congregate
+短	dyun 2 short (of distance)
+許	heoi 2 to allow; to permit
+遷	cin 1 to change; to shift; to transfer
+隨	ceoi 4 to accompany
+雖	seoi 1 although; even if; despite
+耗	hou 3 consume, use up
+損	syun 2 to reduce; to decrease; to cut; to diminish
+扭	nau 2 to wring
+轉	zyun 2 (transitive) to turn; to revolve
+熱	jit 6 hot; heated; having a high temperature
+暖	nyun 5 warm; toasty
+純	seon 4 pure, clean, simple
+站	zaam 6 to stand
+樹	syu 6 tree
+氧	joeng 5 (chemistry) oxygen
+夕	zik 6 night; evening; dusk
+寥	liu 4 quiet; tranquil; still
+權	kyun 4 power; authority
+谷	guk 1 valley; gorge; ravine
+將	zoeng 1 will; going to
+族	zuk 6 clan; family clan; tribe
+戲	hei 3 to play; to amuse; to have fun
+位	wai 6 position; location
+巔	din 1 summit of mountain; mountain top; peak
+俯	fu 2 to look from above; to overlook; to look down
+瞰	ham 3 overlook
+喘	cyun 2 to pant; to gasp
+侮	mou 5 to insult, ridicule, disgrace
+辱	juk 6 disgrace; shame; discredit
+適	sik 1 to go; to proceed (to a place)
+宜	ji 4 appropriate; suitable; proper
+滯	zai 6 to hold back; to stay (to hinder); to encumber; to impede
+整	zing 2 to fix, to repair
+凌	ling 4 disorderly; messy
+團	tyun 4 group; collective; panel; team; organization
+圓	jyun 4 (mathematics) circle
+程	cing 4 stage of a journey
+愈	jyu 6 more and more; even more
+崖	ngaai 4 cliff; precipice
+園	jyun 4 garden; orchard
+彷	fong 2 to resemble; to be similar
+彿	fat 1 as if; as though
+揮	fai 1 to wipe away to disperse; to scatter
+墮	do 6 to fall; to sink
+播	bo 3 to broadcast; to spread
+區	keoi 1 area; district; region; ward
+嚴	jim 4 strict, rigorous, rigid
+苛	ho 1 harsh; severe; exacting
+尚	soeng 6 still; yet
+偷	tau 1 to steal; to snatch
+魂	wan 4 soul; spirit
+盤	pun 4 tray; plate; dish
+旋	syun 4 to revolve; to turn
+埋	maai 4 to bury; to secrete; to conceal
+藏	cong 4 to store; to lay
+論	leon 6 to discuss; to reason; to debate; to argue
+振	zan 3 raise, excite, arouse action
+慰	wai 3 to comfort; to console; to calm
+解	gaai 2 to explain
+儘	zeon 2 utmost; extreme; furthest
+講	gong 2 to say; to talk; to speak
+淪	leon 4 to sink (into ruin), decline, fall
+利	lei 6 benefit; advantage
+轉	zyun 2 to turn; to revolve
+換	wun 6 to change; to swap; to switch; to substitute
+成	sing 4 to succeed
+抵	dai 2 (Cantonese) to deserve
+操	cou 1 to conduct
+照	ziu 3 to shine upon; to illuminate
+顧	gu 3 to regard; to concern
+溫	wan 1 tepid; mild; soft; tender; gentle
+柔	jau 4 gentle; pliant
+救	gau 3 to save; to rescu
+激	gik 1 drastic; radical; extreme
+忠	zung 1 loyal; devoted; faithful
+誠	sing 4 sincere, honest; true
+狗	gau 2 dog
+憂	jau 1 sad; grieved
+愁	sau 4 anxiety; sadness
+甜	tim 4 sweet
+蜜	mat 6 honey
+語	yu 3 speech; language
+告	gou 3 to announce; to declare
+訴	sou 3 to tell; to relate; to inform
+新	san 1 new; fresh
+透	tau 3 to penetrate; to pass through
+完	jyun 4 whole; complete
+務	mou 6 to seek; to pursue
+喝	hot 6 to shout; to call out
+采	coi 2 expression; spirit
+謂	wai 6 to say; to tell; to call
+搭	daap 3 to lay, to pile up
+檯	toi 4 table; desk
+怪	gwaai 3 to blame someone, to put the blame on
+虐	joek 6 to abuse; to maltreat
+讚	zaan 3 to praise; to commend; to eulogize
+徬	pong 4 to walk back and forth; to roam around
+徨	wong 4 to walk back and forth; to roam around
+刻	hak 1 moment in time
+彩	coi 2 luck; fortune
+認	jing 6 to recognize; to know; to understand; to acknowledge
+扮	baan 6 to act, to play
+矮	ai 2 (of stature) short
+傻	so 4 foolish; silly; stupid
+論	leon 6 to discuss; to reason; to debate; to argue
+限	haan 6 boundary; limit; line
+積	zik 1 to accumulate; to amass; to store; to gather
+愉	jyu 4 happy; pleased; delightful
+痕	han 4 mark; trace
+跡	zik 1 footprint; trace; mark
+關	gwaan 1 to concern; to implicate; to relate to
+注	zyu 3 to concentrate; to pay attention
+據	geoi 3 to occupy; to take possession of
+漫	maan 6 free, casual, unrestrained; impromptu
+奈	noi 6 to bear; to stand; to endure
+設	cit 3 to plan; to design
+張	zoeng 1 to stretch; to open up; to spread
+畢	bat 1 to end; to finish; to conclude
+服	fuk 6 to submit; to agree; to accept; to obey
+則	zak 1 rule; law; regulation
+爭	zang 1 to contend
+吵	caau 2 to argue; to dispute
+慣	gwaan 3 to be accustomed to; to be used to
+諒	loeng 6 to forgive; to sympathise
+纏	cin 4 to wind; to tie; to bind
+綿	min 4 soft, downy
+番	faan 1 Classifier for the number of times an action has been performed: turn; time
+義	ji 6 right conduct; righteousness; justice; morality
+衝	cung 1 to go straight ahead; to rush; to charge; to dash
+沖	cung 1 to pour water on; to rinse; to flush; to wash
+淡	taam 5 (of food) bland; tasteless
+渡	dou 6 (figuratively) to pull through (difficult times)
+劫	gip 3 disaster; calamity; catastrophe
+慘	caam 2 miserable; pitiful; wretched
+褊	bin 2 (literary) narrow-minded; lacking in experience
+袒	taan 2 bare; to strip oneself naked to the waist
+謬	mau 6 false; wrong; erroneous
+鬥	dau 3 to fight, to struggle
+裝	zong 1 style of dress
+妥	to 5 appropriate; suitable
+協	hip 3 to cooperate; to work together; to collaborate
+善	sin 6 good, virtuous, charitable, kind
+試	si 3 to test; to try; to experiment
+遷	cin 1 to ascend; to go up (to)
+就	zau 6 to comply; to follow; to accept
+悟	ng 6 to realize; to become aware; to awaken; to apprehend
+價	gaa 3 price; cost
+值	zik 6 price
+溝	kau 1 ditch; drain; narrow waterway
+齣	ceot 1 Classifier for films and TV shows.
+誇	kwaa 1 to boast; to exaggerate
+侶	leoi 5 companion
+偏	pin 1 partial; biased; prejudiced; unjust
+仗	zoeng 3 war; battle
+決	kyut 3 to decide; to determine
+擇	zaak 6 to select; to choose; to pick out
+輪	leon 4 to take turns
+構	kau 3 to fabricate; to make up
+劇	kek 6 theatrical work; play; opera; drama
+哀	oi 1 grief; sorrow
+廝	si 1 mutually
+守	sau 2 to defend; to protect; to guard; to conserve; to watch
+隱	jan 2 hidden; concealed
+憂	jau 1 grief; melancholy
+恐	hung 2 to fear; to be afraid
+怕	paa 3 to fear; to be afraid of; to dread
+既	gei 3 already
+究	gau 3 to reach the end or limit; to exhaust
+祝	zuk 1 to offer good wishes
+邂	haai 5 to run into somebody by chance (usually pleasantly); to encounter coincidentally
+逅	hau 6 to run into somebody by chance (usually pleasantly); to encounter coincidentally
+志	zi 3 will; determination; aspiration; ambition
+認	jing 6 to recognize; to know; to understand; to acknowledge
+兼	gim 1 to do two or more things simultaneously; to hold two or more posts at the same time
+俏	ciu 3 pretty; handsome; smart
+郎	long 4 (historical) an official's title
+君	gwan 1 sovereign; monarch; ruler; chief; prince; lord
+敬	ging 3 to respect; to honor
+軒	hin 1 high; lofty; airy
+揸	zaa 1 to drive a vehicle
+箭	zin 3 arrow; rocket
+帶	daai 3 to take; to bring along; to carry
+歲	seoi 3 age
+般	bun 1 sort; kind; class
+趣	ceoi 3 interest; delight
+戚	cik 1 relative
+冧	lam 1 to topple over; to fall over
+崩	bang 1 to collapse
+翻	faan 1 to reverse; to flip over; to turn over; to toss
+睇	tai 2 to look; to see; to view; to watch
+乜	mat 1 anything; everything
+稱	cing 3 satisfactory
+鹹	haam 4 salty; briny
+聚	zeoi 6 to congregate
+鐘	zung 1 clock
+靚	leng 3 pretty; beautiful
+皆	gaai 1 all; every; everybody
+癲	din 1 crazy; nuts; mad
+甘	gam 1 sweet
+傻	so 4 foolish; silly; stupid
+猩	sing 1 gorilla
+若	joek 6 if; supposing; assuming
+左	zo 2 left (direction)
+島	dou 2 island
+假	gaa 2 forged; artificial; false
+戲	hei 3 theatrical play; show; theater; opera
+麗	lai 6 beautiful; lovely; pretty; fair; elegant
+碎	seoi 3 shattered; fragmented; shredded
+侶	leoi 5 companion
+透	tau 3 to penetrate; to pass through
+請	cing 2 to ask for; to request
+窩	wo 1 nest
+佔	zim 3 to occupy; to possess
+據	geoi 3 to occupy; to take possession of
+星	sing 1 star; planet; heavenly body
+伴	bun 6 to accompany
+癡	ci 1 foolish; stupid; dumb; silly
+眼	ngaan 5 (anatomy) eye
+眶	hong 1 eye socket
+漸	zim 6 to advance gradually
+引	jan 5 to pull, draw out, attract
+消	siu 1 to disappear; to vanish; to die down; to settle down
+棄	hei 3 to abandon; to discard; to reject
+吹	ceoi 1 to blow
+送	sung 3 to see someone off
+凍	dung 3 cold; (of weather) chilly
+漠	mok 6 desert
+始	ci 2 to begin; to start
+寂	zik 6 lonely
+寥	liu 4 lonely
+愁	sau 4 to worry about; to be anxious
+各	gok 3 each; every
+堆	deoi 1 heap; pile; mound
+突	dat 6 suddenly; abruptly; unexpectedly
+夜	je 6 night
+深	sam 1 (of distance) deep
+奔	ban 1 to run fast; to rush about
+波	bo 1 (Cantonese) ball
+後	hau 6 behind; rear; back
+望	mong 6 to see; to watch (especially from a distance) quotations ▼
+凡	faan 4 ordinary; commonplace
+找	zaau 2 to look for; to seek
+根	gan 1 base; basis; foundation
+蒂	tai 3 peduncle or stem of plants
+永	wing 5 perpetual; eternal; permanent; forever
+枯	fu 1 (of muscle) withered; decayed
+萎	wai 2 to wither; to wilt
+醉	zeoi 3 to become drunk; to become intoxicated
+者	ze 2 (agent suffix) -er; -ist; one who ...; person involved in; the things which
+滿	mun 5 full; filled; packed
+瀉	se 3 to pour out; to flow rapidly; to pour down
+編	pin 1 to write; to compose; to author; to compile; to edit
+寫	se 2 to write (with a pen, brush, etc.); to write down
+懼	geoi 6 to fear; to be afraid
+斜	ce 4 tilted; sloping; inclined; oblique; slanting
+然	jin 4 so; thus; in this manner; like this
+財	coi 4 wealth; valuables; riches; money
+滋	zi 1 taste
+味	mei 6 taste, flavor
+聽	ting 1 to listen; to hear; to listen to
+尋	cam 4 to seek; to search; to look for
+覓	mik 6 to hunt for; to search for; to seek
+與	jyu 5 and (used to connect two nouns)
+重	cung 5 heavy
+聚	zeoi 6 to congregate
+程	cing 4 procedure; process; course
+跟	gan 1 to follow
+平	ping 4 level; even; flat
+靜	zing 6 quiet; silent; devoid of noise
+旅	leoi 5 journey; trip
+並	bing 6 Used before a negative for emphasis; actually; in fact
+驚	ging 1 to fear; to be afraid
+動	dung 6 to move; to touch (emotionally)
+魄	paak 3 soul; spirit
+境	ging 2 condition; situation
+需	seoi 1 to need; to require
+當	dong 1 just; just at (a time or place); at or in the very same
+競	ging 6 to contend; to vie; to compete
+逐	zuk 6 to chase; to pursue
+躺	tong 2 to lie; to recline
+於	jyu 1 (indicates time or place) in; at; on
+寫	se 2 to write (with a pen, brush, etc.); to write down
+意	ji 3 thought; idea; opinion; mind
+迴	wui 4 to revolve; to rotate
+腸	coeng 4 (figuratively) heart; emotions
+盪	dong 6 to cleanse; to wash away
+姓	sing 3 surname; family name; clan name
+氏	si 6 clan; family; lineage; hereditary house
+成	sing 4 to finish; to complete
+故	gu 3 old; of the past
+此	ci 2 (literary) this
+憂	jau 1 grief; melancholy
+求	kau 4 to beg; to request; to implore
+淡	daam 6 indifferent; cold
+經	ging 1 to go through; to experience
+謂	wai 6 to say; to tell; to call
+閒	haan 4 not busy; idle
+話	waa 6 speech;talk
+細	sai 3 (literary, Cantonese, Hakka, Min) small; tiny; little
+盡	zeon 6 to end; to finish
+昏	fan 1 dusk; nightfall; twilight; dark
+髮	faat 3 (anatomy) hair
+亦	jik 6 also; too; likewise
+得	dak 1 to get; to obtain; to gain, to acquire
+青	cing 1 young; adolescent
+信	seon 3 trust; confidence; faith
+荒	fong 1 wasteland, desert
+合	hap 6 to join; to combine; to unite; to bring together
+老	lou 5 old; aged; elderly
+竟	ging 2 finally, after all, at last
+擁	jung 2 to embrace; to hug someone
+怎	zam 2 how; why
+童	tung 4 child
+對	deoi 3 pair
+邊	bin 1 edge; border; side
+抱	pou 5 to hug; to embrace
+怨	jyun 3 to resent; to hate
+累	leoi 5 to pile up; to heap up; to mount up; to accumulate
+束	cuk 1 to bind; to tie up
+縛	bok 3 to tie, to bind
+熟	suk 6 (of fruits, etc.) ripe
+負	fu 6 to carry (on the back); to bear (a burden or responsibility)
+淚	leoi 6 tear; teardrop
+犧	hei 1 sacrifice
+牲	saang 1 sacrificial animal
+挽	waan 5 to pull back, to draw back
+救	gau 3 to aid; to support
+餘	jyu 4 to remain; to have left
+爭	zaang 1 to dispute; to fight
+取	ceoi 2 to get; to obtain
+資	zi 1 money; fund; wealth; capital
+格	gaak 3 (literary, or in compounds) special property; personality; character
+獻	hin 3 to offer, to present
+奉	fung 6 to offer (tribute)
+纏	cin 4 to wind; to tie; to bind
+允	wan 5 fair; just; equitable; even-handed; impartial
+受	sau 6 to bear; to stand
+困	kwan 3 to surround; to besiege
+虧	kwai 1 to lose; to suffer losses
+欠	him 3 to owe
+釋	sik 1 to explain; to elucidate
+須	seoi 1 must; have to; should
+佔	zim 3 to occupy; to possess
+霎	saap 3 instant; moment
+堂	tong 4 class; lesson
+駕	gaa 3 to drive; to sail; to fly
+至	zi 3 to reach; to arrive
+撞	zong 6 to hit; to bump against; to strike; to run into; to collide
+悄	ciu 2 quiet; silent
+落	lok 6 to fall; to drop
+久	gau 2 (of time) long
+爾	ji 5 (literary) this; that
+旁	pong 4 side; beside; close by
+聖	sing 3 holy; sacred
+誕	daan 3 birth; birthday
+思	si 1 to think; to cogitate
+鄉	hoeng 1 countryside; country; rural area
+鴛	jyun 1 male mandarin duck
+鴦	joeng 1 female mandarin duck
+像	zoeng 6 to resemble; to be like
+閉	bai 3 to shut; to close
+睛	zing 1 eyeball
+稀	hei 1 sparse
+薄	bok 6 thin (not thick); flimsy
+則	zak 1 Classifier for news, writings, stories, or narratives: item
+聞	man 4 news; message
+皺	zau 3 wrinkle; crease; fold
+眉	mei 4 eyebrow
+遙	jiu 4 distant; far away
+期	kei 4 to arrange a time; to engage; to arrange to meet
+窗	coeng 1 window
+墨	mak 6 Chinese ink or ink in general
+適	sik 1 fitting; proper; suitable; appropriate
+季	gwai 3 season of the year
+慣	gwaan 3 to be accustomed to; to be used to
+備	bei 6 to prepare
+周	zau 1 week
+搬	bun 1 to move (house)
+景	ging 2 bright; luminous
+觀	gun 1 sight; view; perspective
+隨	ceoi 4 to follow
+飄	piu 1 to drift
+蕩	dong 6 to sway; to swing
+端	dyun 1 beginning; start
+疑	ji 4 to doubt; to question
+遷	cin 1 to ascend; to go up (to)
+唸	nim 6 to read aloud
+借	ze 3 to lend
+故	gu 3 old; of the past
+親	can 1 intimate; bosom; closely acquainted; beloved; dear
+臉	lim 5 (anatomy) face
+溺	nik 6 to drown
+氛	fan 1 atmosphere; miasma; vapor
+追	zeoi 1 to chase after; to pursue (someone)
+打	daa 2 to hit; to strike; to slap
+煙	jin 1 smoke; mist; vapour
+音	jam 1 sound; voice; tone
+陽	joeng 4 sun
+黃	wong 4 yellow (colour)
+奮	fan 5 to arouse; to stimulate
+望	mong 6 to see; to watch (especially from a distance)
+遼	liu 4 distant; far
+闊	fut 3 broad; wide
+放	fong 3 to release; to free; to liberate; to let out; to let go
+負	fu 6 load, burden, to rely on
+君	gwan 1 sovereign; monarch; ruler; chief; prince; lord
+盼	paan 3 to hope for; to long for; to expect; to look forward to
+伴	bun 6 to accompany
+享	hoeng 2 to enjoy
+審	sam 2 to examine; to investigate
+慎	san 6 prudent; cautious; careful
+夜	je 6 night
+靜	zing 6 quiet; silent; devoid of noise
+神	san 6 spirit; soul; mind
+輕	hing 1 easy; simple; relaxed
+鬆	sung 1 to loosen; to relax
+繁	faan 4 complicated
+囂	hiu 1 loud; noisy
+市	si 5 city; town
+空	hung 1 empty; hollow; void
+泛	faan 3 superficial; non-specific
+迷	mai 4 to get lost
+擔	daam 3 to bear; to shoulder; to undertake
+習	zaap 6 habit; custom
+慣	gwaan 3 to be accustomed to; to be used to
+晏	aan 3 late; near the end of a period of time
+晝	zau 3 daytime; day; daylight
+掩	jim 2 to cover; to conceal; to hide
+蓋	koi 3 to cover; to conceal
+瓦	ngaa 5 earthenware; earthenware pottery
+礫	lik 1 gravel; pebbles; potsherds
+偏	pin 1 inclined on one side; slanting; askew
+依	ji 1 to rely on; to depend on
+靈	ling 4 soul; spirit
+撕	si 1 to shred; to tear
+塵	can 4 dust; dirt; ashes; cinders
+埃	oi 1 fine dust, dirt
+遺	wai 4 to lose; to lose track of
+蕩	dong 6 to sway; to swing
+淃	gyun 6 haven
+暗	am 3 dark (without light); dim
+聚	zeoi 6 to congregate
+散	saan 2 to become loose; to break apart; to fall apart
+教	gaau 3 to teach; to instruct
+導	dou 6 to direct; to guide; to lead; to conduct
+鋪	pou 1 to spread out; to arrange
+泳	wing 6 to swim
+兒	ji 4 child
+忐	taan 2 perturbed; nervous; uneasy; fidgety
+忑	tik 1 perturbed; nervous; uneasy; fidgety
+嘴	zeoi 2 (anatomy) mouth
+須	seoi 1 must; have to; should
+遊	jau 4 to travel; to tour
+歷	lik 6 to experience; to go through; to undergo
+冒	mou 6 to risk; to brave; to face
+險	him 2 danger; hazard; peril; risk
+烙	lok 3 to brand; to mark on livestock with hot metallic object
+臨	lam 4 to be faced with; to be confronted by
+趣	ceoi 3 interest; delight
+禱	tou 2 to pray
+般	bun 1 sort; kind; class
+偕	gaai 1 to accompany; together; in company
+換	wun 6 to change; to swap; to switch; to substitute
+患	waan 6 to contract (an illness); to gain; to suffer from; to be afflicted with
+病	beng 6 illness; sickness; disease
+偏	pin 1 partial; biased; prejudiced; unjust
+熱	jit 6 hot; heated; having a high temperature
+淚	leoi 6 tear; teardrop
+賦	fu 3 to bestow upon; to give
+興	hing 1 to thrive; to prosper; to flourish
+與	jyu 5 to agree; to allow; to permit
+更	gang 3 more; further; even more
+便	bin 6 even if; even though
+哭	huk 1 to weep; to cry; to wail
+若	joek 6 like; as if
+滄	cong 1 (literary) vast (of water)
+桑	song 1 mulberry tree
+史	si 1 history
+怕	paa 3 to fear; to be afraid of
+根	gan 1 base; basis; foundation
+撫	fu 2 to console; to comfort
+摸	mo 2 to touch; to feel (with the hand); to caress
+刺	ci 3 a pointed structure which is able to pierce something (spike, spine, thorn, etc.)
+灼	coek 3 to burn
+極	gik 6 extreme; of the highest degree; utmost; furthest; final
+致	zi 3 to cause; to result in
+難	naan 4 difficult; hard; troublesome
+真	zan 1 true; genuine; real; actual
+總	zung 2 overall; altogether
+將	zoeng 1 will; going to
+瑣	so 2 petty; trivial; insignificant
+堅	gin 1 resolute
+持	ci 4 to sustain; to support
+智	zi 3 wisdom; knowledge; intelligence
+結	git 3 to end; to finish
+束	cuk 1 end
+始	ci 2 to begin; to start
+許	heoi 2 to allow; to permit
+鍾	zung 1 to concentrate one's love or attention
+害	hoi 6 to harm; to maim; to injure
+諷	fung 3 to satirise; to mock; to ridicule
+愉	jyu 4 happy; pleased; delightful
+釋	sik 1 to release
+懷	waai 4 to harbor in one's mind; to keep in mind
+覆	fuk 1 to return
+捱	ngaai 4 to suffer
+涯	ngaai 4 limit; boundary; margin
+首	sau 2 (anatomy) head
+罷	baa 6 to cease; to finish; to stop
+憾	ham6 regret
+單	daan 1 single; individual; solitary
+身	san 1 (anatomy) body
+加	gaa 1 to add; to put in
+否	fau 2 nay; no; negative
+精	zing 1 clear; bright
+彩	coi 2 variegated colors; rich and bright colors
+續	zuk 6 to continue; to carry on
+複	fuk 1 to repeat; to double; to overlap
+識	sik 1 to know; to realise; to be aware
+竟	ging 2 to finish; to end
+已	ji 5 already; have done something
+先	sin 1 first; ahead of time; before; beforehand
+鼓	gu 2 (music) drum
+捨	se 2 to abandon
+勇	jung 5 brave
+放	fong 3 to release; to free; to liberate; to let out; to let go
+志	zi 3 will; determination; aspiration; ambition
+找	zaau 2 to look for; to seek
+順	seon 6 to follow; to go along with
+序	zeoi 6 order; sequence
+遇	jyu 6 to meet; to come across; to encounter
+漫	maan 4 free, casual, unrestrained; impromptu
+步	bou 6 to walk; to stroll
+從	cung 4 to follow; to come after
+容	jung 4 to allow; to permit
+算	syun 3 to count; to calculate; to figure
+記	gei 3 to keep in mind; remember
+媲	bei 2 to compare
+麻	maa 4 numb; senseless
+純	seon 4 pure, clean, simple
+熟	suk 6 familiar with; well-acquainted with
+派	paai 3 to hand out; to distribute
+凝	jing 4 to focus; to concentrate
+伴	bun 6 companion
+臉	lim 5 (anatomy) face
+奏	zau 3 (literary, or in compounds) beat; meter; rhythm
+搖	jiu 4 to wag; to swing; to wave
+盪	dong 6 to toss; to swing; to rock
+寂	zik 6 still; silent; quiet
+寞	mok 6 lonely; desolate
+散	saan 2 natural and restrained; at ease
+丁	ding 1 robust; vigorous
+寡	gwaa 2 alone; friendless
+拆	caak 3 to take apart; to dismantle
+交	gaau 1 to hand over; to turn in; to submit
+結	git 3 knot; tie
+網	mong 5 net; web
+佔	zim 3 to occupy; to possess
+朗	long 5 clear; bright
+泥	nai 4 dirt
+數	sou 2 to count; to enumerate
+腳	goek 3 (anatomy) foot
+印	jan 3 trace; mark; sign
+現	jin 6 to appear; to manifest; to become visible
+裂	lit 6 to crack; to break open
+痕	han 4 mark; trace
+修	sau 1 to repair; to mend
+補	bou 2 to mend; to repair; to fix
+嵌	ham 6 to embed; to imbed; to fix deeply and firmly
+聲	sing 1 sound; noise; voice
+音	jam 1 sound; voice; tone
+軟	jyun 5 soft; flexible; pliable
+禁	gam 1 to bear; to endure
+興	hing 1 to thrive; to prosper; to flourish
+沉	cam 4 to sink; to submerge (into water)
+默	mak 6 to be silent; to keep quiet; to keep still
+呼	fu 1 to breathe out; to exhale; to sigh
+訪	fong 2 to visit
+俯	fu 2 to look from above; to overlook; to look down
+瞰	ham 3 to overlook (a city, surroundings, etc.); to look down at; to get a bird's-eye view
+顆	fo 2 Classifier for small round objects
+幽	jau 1 hidden; concealed
+嶺	ling 5 mountain ridge
+乾	gon 1 dry; moistureless; waterless; arid
+罐	gun 3 can; jar; tin
+汽	hei 3 steam, vapor, gas
+息	sik 1 to breathe; to pant
+懶	laan 5 lazy; indolent; slothful
+沿	jyun 4 to follow a course, go along
+亮	loeng 6 bright; brilliant; radiant
+街	gaai 1 street
+燈	dang 1 lamp; light; lantern (for illumination)
+撫	fu 2 to stroke; to caress
+綻	zaan 6 to burst open, to split
+冀	kei 3 to look forward to; to hope for; to wish
+浮	fau 4 to float
+雲	wan 4 cloud
+幻	waan 6 mystical; mysterious
+變	bin 3 to change (by itself); to transform
+案	on 3 law case; case
+領	ling 5 to lead; to guide
+雪	syut 3 snow
+觀	gun 1 to observe; to watch; to view; to see
+泡	paau 1 bubble
+影	ying 2 shadow
+共	gung 6 together
+鳴	ming 4 to cry (of birds, animals and insects)
+種	zung 2 kind; sort; type
+謙	him 1 humble
+創	cong 3 to found; to create; to establish
+種	zung 3 to grow; to plant; to cultivate
+組	zou 2 group; team
+鐵	tit 3 iron
+宿	sau 3 constellation
+土	tou 2 earth; soil
+勁	ging 6 powerful; strong
+吸	kap 1 to suck (in)
+逐	zuk 6 to chase; to pursue
+速	cuk 1 speedy; quick; fast
+確	kok 3 real; true
+候	hau 6 to wait for; to await
+耳	ji 5 ear
+緲	miu 5 fleeting
+甘	gam 1 to be willing to
+掌	zoeng 2 palm of hand
+遍	pin 3 Classifier for occurrences of events.
+斗	dau 2 A dipper or cup-like object
+任	jam 6 to indulge; to be self-indulgent; to allow
+揮	fai 1 to squander
+罷	baa 6 to cease; to finish; to stop
+咎	gau 3 fault; defect; error; mistake
+料	liu 6 to anticipate; to predict; to foresee; to expect
+恆	hang 4 constant; regular; persistent
+毋	mou 4 do not, don't
+庸	jung 4 to need
+浮	fau 4 to float
+掠	loek 6 to sweep through
+漩	syun 4 eddy, whirlpool
+渦	wo 4 whirlpool; eddy; vortex
+剎	saat 3 brief moment; short moment
+泛	faan 3 to spread out; to be suffused with
+遺	wai 4 to forget; to fail to remember
+憾	ham 6 to regret; to pity
+曉	hiu 2 dawn; daybreak
+釋	sik 1 to release
+謙	him 1 humble; modest
+逆	jik 6 opposite
+超	ciu 1 super-; hyper-; ultra-
+撥	but 6 to distribute; to allocate (resources, staff, etc); to set aside (money)
+春	ceon 1 spring (season)
+勤	kan 4 industrious; diligent; attentive
+勞	lou 4 to toil; to do manual labour
+忙	mong 4 busy; bustling
+展	zin 2 to exhibit; to display
+緣	jyun 4 lucky chance; fate; serendipity
+預	jyu 6 beforehand
+趁	can 3 to take advantage of (time, opportunity, etc); to avail oneself of
+疫	jik 6 epidemic; plague; pestilence
+症	zing 3 disease; illness
+猖	coeng 1 rampant; running wild; unchecked; unrestrained
+獗	kyut 3 rampant; running wild; unchecked; unrestrained
+秋	cau 1 autumn; fall
+邀	jiu 1 to solicit; to seek
+約	joek 3 to make an appointment; to arrange
+洛	lok 3 Luo River, a tributary of the Yellow River.
+磯	gei 1 (of waves) to pound against a rock
+瑙	nou 5 second part of Danube
+休	jau 1 to rest; to relax
+充	cung 1 to fill
+電	din 6 electricity
+親	can 1 intimate; bosom; closely acquainted; beloved; dear
+暱	nik 1 intimate, close, familiar
+豁	kut 3 open; clear; open-minded
+免	min 5 to release; to set free
+異	ji 6 to distinguish; to separate
+扭	nau 2 to twist; to wring
+曲	kuk 1 not straight; bent
+溫	wan 1 warm (of temperature)
+柔	jau 4 gentle; pliant
+接	zip 3 to receive
+尷	gaam 1 embarrassed
+尬	gaai 3 embarrassed
+吞	tan 1 to swallow
+讀	duk 6 to read aloud; to read out
+計	gai 3 to calculate; to count
+提	tai 4 to carry; to lift
+阻	zo 2 to impede, to hinder, to block, to obstruct
+止	zi 2 to stop; to halt
+台	toi 1 lines (of an actor or performer)
+詞	ci 4 lines (of an actor or performer)
+若	joek 6 if; supposing; assuming
+誼	ji 4 friendship
+恐	hung 2 to fear; to be afraid
+易	ji 6 easy; simple; not difficult
+洗	sai 2 to wash; to rinse
+守	sau 2 to defend; to protect; to guard; to conserve; to watch
+良	loeng 4 good
+置	zi 3 to establish; to set up; to install
+演	jin 2 to perform; to act; to put on
+另	ling 6 in addition, besides
+笨	ban 6 stupid; foolish; silly; slow-witted
+搞	gaau 2 to do (usually bad things)
+表	biu 2 external; outside; superficial
+謬	mau 6 false; wrong; erroneous
+題	tai 4 question; quiz; problem
+狠	han 2 vicious, cruel
+厚	hau 5 thick
+皮	pei 4 skin; hide; fur; leather
+謙	him 1 humble
+拼	ping 3 to be ready to risk one's life; to go all out; to disregard
+命	ming 6 life; existence; state of living
+恙	joeng 6 illness; ailment
+偶	ngau 5 idol
+遇	jyu 6 to meet; to come across; to encounter
+也	ya 4 also; too; as well
+重	cung 5 heavy
+要	jiu 1 to demand; to ask; to request
+這	ze 2 this; these
+樣	joeng 6 appearance; form; shape
+豁	kut 3 open; clear; open-minded
+達	daat 6 to thoroughly understand; to understand
+又	jau 6 again; once more
+專	zyun 1 specific
+著	zyu 3 to write; to compose
+書	syu 1 book
+感	gam 2 feeling; thought; sensation; emotion
+給	kap 1 for; for the benefit of
+糟	zou 1 awful; messy; terrible; in bad shape
+蹋	taap 3 to tread on; to stamp
+都	dou 1 as well; also; too
+活	wut 6 to live; to exist
+該	goi 1 should; ought to; need to; have to
+寬	fun 1 wide; broad
+恕	syu 3 to forgive; to pardon; to show mercy
+便	bin 6 then
+痊	cyun 4 to recover (from illness)
+癒	jyu 6 to heal; to get well; to recover
+瘀	jyu 2 bruise
+比	bei 2 to compare; to contrast
+較	gaau 3 to compare
+新	san 1 new; fresh
+舊	gau 6 old; former; past
+計	gai 3 to calculate; to count
+贏	jing 4 to win; to triumph
+或	waak 6 or
+輸	syu 1 to lose; to be beaten; to be defeated
+拒	keoi 5 to ward; to refuse; to resist
+絕	zyut 6 to break off; to cut off; to sever
+同	tung 4 together; with each other
+住	zyu 6 to live; to dwell; to reside
+苦	fu 2 bitter
+某	mau 5 certain; particular (person or thing)
+前	cin 4 past; previous; former
+度	dou 6 degree; level; measure
+道	dou 6 way; path; road
+賀	ho 6 to congratulate
+惜	sik 1 pity; regret
+笑	siu 3 to laugh; to smile
+得	dak 1 to get; to obtain; to gain, to acquire
+寧	ning 4 peaceful; tranquil; serene; at peace
+願	jyun 6 request, wish
+破	po 3 to ruin; to destroy
+卻	koek 3 but; yet; however
+懦	no 6 cowardly; weak
+弱	joek 6 weak; feeble
+還	waan 4 to return to a place; to go back to a place
+委	wai 2 to cast aside
+屈	wat 1 to bend; to flex
+努	nou 5 to exert; to strive; to make an effort
+誰	seoi 4 who; whom
+爭	zaang 1 to dispute; to fight
+安	on 1 calm; peaceful; tranquil; quiet
+慰	wai 3 to comfort; to console; to calm
+獎	zoeng 2 prize; reward
+非	fei 1 not be; is not; not
+很	han 2 very; rather; quite
+念	nim 6 to miss; to long for; to think of; to recall
+善	sin 6 good, virtuous, charitable, kind
+良	loeng 4 good
+背	bui 3 to betray; to be disloyal
+叛	bun 6 rebel; betray
+法	fat 2 method; way; solution
+扮	baan 6 to dress up, to disguise oneself
+沒	mut 6 not have; there is not; to be without
+原	jyun 4 to forgive; to pardon
+諒	loeng 6 to forgive; to sympathise
+偉	wai 5 extraordinary; magnificent; great; robust
+如	jyu 4 to be like; as; as if; as though
+像	zoeng 6 statue; figure; sculpture
+那	naa 5 that; those
+去	heoi 3 to leave; to depart from
+失	sat 1 to lose; to lose track of; to mislay
+戀	lyun 2 love
+彷	fong 2 to imitate
+似	ci 5 to be like; to be similar to; to resemble
+臟	zong 6 internal organs; viscera
+拳	kyun 4 fist
+顧	gu 3 to regard; to concern
+形	jing 4 form; shape; appearance
+象	zoeng 6 symbol; emblem
+繼	gai 3 to continue; to maintain; to carry on; to follow
+續	zuk 6 to continue; to carry on
+高	gou 1 tall; high
+估	gu 2 to estimate (an amount)
+勉	min 5 to endeavor; to make an effort; to strive
+強	koeng 4 strong; powerful; energetic
+開	hoi 1 to open; to unlatch; to unfasten
+其	kei 4 that; those
+實	sat 6 truth; fact; substance; reality
+幫	bong 1 to help; to assist; to aid
+助	zo 6 to help; to aid; to assist
+只	zi 3 only; just; simply; merely
+倒	dou 2 to fall; to fall over; to fall down
+數	sou 2 to count; to enumerate
+剩	sing 6 extra; leftover
+餘	jyu 4 to remain; to have left
+憶	jik 1 memory
+痛	tung 3 to hurt; to cause pain
+恨	han 6 to resent; to hate
+而	ji 4 then
+受	sau 6 to receive; to accept
+傷	soeng 1 wound; injury
+趁	can 3 to take advantage of
+仍	jing 4 frequently; repeatedly
+氣	hei 3 air; gas
+能	nang 4 can; to be able to; to be capable of
+夠	gau 3 to be enough; to be sufficient; to reach or achieve a desired level
+證	zing 3 to prove; to testify; to verify
+相	soeng 1 mutually; reciprocally; towards each other; one another
+儲	cyu 4 to store; to reserve; to save money
+蓄	cuk 1 to store up; to stockpile; to accumulate; to hoard
+勒	lak 6 to rein in; to restrain
+停	ting 4 to stop; to halt
+仙	sin 1 fairy; celestial being
+境	ging 2 place; area; region
+逝	sai 6 to pass
+煙	jin 1 smoke; mist; vapour
+霞	haa 4 the light and clouds at sunrise and sunset; mist; rosy clouds
+換	wun 6 to change; to swap; to switch; to substitute
+號	hou 6 number
+省	saang 2 to omit; to leave out
+擔	daam 1 to bear; to shoulder; to undertake
+濟	zai 3 to help; to aid; to relieve
+奧	ou 3 difficult to understand
+運	wan 6 to transport; to carry; to ship
+突	dat 6 suddenly; abruptly; unexpectedly
+件	gin 6 document; letter
+擱	gok 3 to place; to put; to lay down
+誤	ng 6 incorrect
+韶	siu 4 splendid; beautiful
+華	waa 4 brilliance; magnificence
+毫	hou 4 fine hair
+保	bou 2 to protect; to safeguard; to defend
+壽	sau 6 old age; long life
+侶	leoi 5 companion
+京	ging 1 capital city
+即	zik 1 even if; even though
+使	si 2 if
+熱	jit 6 hot; heated; having a high temperature
+初	co 1 original; first; primary
+正	zing 3 right; proper; correct
+撮	cyut 3 to gather up; to collect together; to assemble
+合	hap 6 to join; to combine; to unite; to bring together
+隨	ceoi 4 to follow
+浪	long 6 wave
+費	fai 3 to lavish; to squander; to waste; to lose
+景	ging 2 scenery; view
+敬	ging 3 to respect; to honor
+巧	haau 2 opportune; coincidental
+側	zak 1 to lean to one side; to incline; to slant
+把	baa 2 to hold; to grasp; to take
+握	ak 1 to hold in the hand; to grip
+錦	gam 2 bright and beautiful
+繡	sau 3 with rich and bright colors
+程	cing 4 rules; regulations
+否	fau 2 nay; no; negative
+掃	sou 3 to clean with a broom; to sweep clean
+辯	bin 6 to debate; to argue; to discuss
+證	zing 3 to prove; to testify; to verify
+資	zi 1 qualifications; certificate
+格	gaak 3 special property; personality; character
+疑	ji 4 to doubt; to question
+逆	jik 6 to oppose; to resist
+拼	ping 1 to accompany; to follow
+肯	hang 2 willing
+憧	cung 1 to long for; to yearn for; to look forward to
+憬	ging 2 to long for; to yearn for; to look forward to
+簽	cim 1 to sign; to endorse
+馨	hing 1 fragrant, aromatic
+店	dim 3 shop; store
+遊	jau 4 to wander; to roam
+剩	sing 6 to be left; to remain
+呂	leoi 5 (anatomy) spine
+暖	nyun 5 warm; toasty
+謂	wai 6 to say; to tell; to call
+溶	jung 4 to dissolve
+擦	caat 3 to wipe; to scour; to scrub
+肩	gin 1 to shoulder
+領	ling 5 to lead; to guide
+料	liu 6 to anticipate; to predict; to foresee; to expect
+聲	sing 1 sound; noise; voice
+披	pei 1 to drape over one's shoulders; to wrap around
+戴	daai 3 to put on; to wear
+寒	hon 4 cold; wintry; chilly
+送	sung 4 to see someone off
+暖	nyun 5 warm; toasty
+親	can 1 intimate; bosom; closely acquainted; beloved; dear
+舒	syu 1 to open up; to unfold; to stretch out
+亂	lyun 6 disorderly; chaotic
+照	ziu 3 to shine upon; to illuminate
+宣	syun 1 to declare; to announce; to proclaim
+存	cyun 4 (literary) to exist
+源	jyun 4 source; origin; root
+行	haang 4 (Cantonese) to navigate
+削	soek 3 (ciu 3?) to pare with a knife; to peel with a knife; to scrape off the surface; to slice
+眷	gyun 3 relatives
+斷	dyun 6 to break; to snap
+條	tiu 4 strip; slip
+件	gin 6 document; letter
+擔	daam 1 to bear; to shoulder; to undertake
+種	zung 2 kind; sort; type
+辛	san 1 hard; laborious; toilsome
+酸	syun 1 sour; tart
+講	gong 2 (Cantonese) to say; to talk; to speak
+謝	ze 6 to thank; to express gratitude to
+完	jyun 4 whole; complete
+尊	zyun 1 to respect; to revere; to venerate
+界	gaai 3 boundary
+雙	soeng 1 two; double; twin
+令	ling 4 to make (someone do something); to cause; to allow
+昨	zok 3 yesterday
+閃	sim 2 to dodge; to evade
+亮	loeng 6 bright; brilliant; radiant
+激	gik 1 to excite; to arouse; to incite
+慶	hing 3 to celebrate
+祝	zuk 1 to wish
+整	zing 2 to fix, to repair
+球	kau 4 ball, globe, orb
+億	jik 1 hundred million
+影	jing 2 shadow
+使	si 2 to order to do
+奔	ban 1 to run fast; to rush about
+向	hoeng 3 to face
+唱	coeng 3 to sing
+皺	zau 3 wrinkle; crease; fold
+眉	mei 4 eyebrow
+約	joek 3 to make an appointment; to arrange
+死	sei 2 to die
+嬉	hei 1 enjoy
+戲	hei 3 to play; to amuse; to have fun
+游	jau 4 to swim
+嫌	jim 4 to be sick of; to be tired of; to be fed up with
+煽	sin 3 to incite; to instigate; to provoke
+奉	fung 6 to offer (tribute)
+獻	hin 3 to offer, to present
+憑	pang 4 to lean on
+宜	ji 4 appropriate; suitable; proper
+性	sing 3 sex; gender
+俗	zuk 6 vulgar; unrefined; common; popular; vernacular
+套	tou 3 case; cover; wrapper; envelope
+歌	go 1 song; tune
+詞	ci 4 word; term
+惻	cak 1 sad; sorrowful; grieved
+膚	fu 1 superficial; shallow
+淺	cin 2 shallow; not deep
+吧	baa 6 Emphatic final particle; used at the end of a sentence to
+叫	giu 3 to be called
+萬	maan 6 myriad, ten thousand
+誓	sai 6 swear, pledge
+摩	mo 1 to rub; to scour; to grind
+輪	leon 4 wheel
+呼	fu 1 to breathe out; to exhale; to sigh
+漫	maan 4 overflow (of water), brim over, flood
+血	hyut 3 blood
+拋	paau 1 throw away, abandon, reject
+銀	ngan 4 silver
+河	ho 4 river, especially a smaller river, creek, or stream
+垃	laap 6 garbage
+圾	saap 3 garbage; rubbish; trash; waste; refuse; junk
+捨	se 2 to abandon
+丁	ding 1 robust; vigorous
+贈	zang 6 to give as a present; to present with
+眼	ngaan 5 eye
+抱	pou 5 to hug; to embrace
+渴	hot 3 thirsty
+簡	gaan 2 simple; uncomplicated
+算	syun 3 to count; to calculate; to figure
+作	zok 3 to compose; to write
+棄	hei 3 to abandon; to discard; to reject
+附	fu 6 to add; to augment; to increase; to raise; to boost
+賣	maai 6 to sell
+首	sau 2 classifier for songs and poems.
+峰	fung 1 peak; summit
+容	jung 4 to allow; to permit
+浸	zam 3 to soak; to sit in water (or liquid)
+呵	ho 1 to shout; to cry out
+欠	him 3 to yawn
+絕	zyut 6 to break off; to cut off; to sever
+溶	jung 4 to dissolve; to disintegrate chemically into a solution by immersion into a liquid or gas
+小	siu 2 small, tiny, little
+姑	gu 1 woman
+娘	noeng 4 woman, especially a young girl
+清	cinq 1 clear; clean
+早	zou 2 early
+起	hei 2 to rise; to go up; to move up
+床	cong 4 bed
+提	tai 4 to carry; to lift
+著	zoek 3 Particle indicating the continuation of an action or a state
+花	faa 1 flower
+籃	laam 4 basket
+上	soeng 6 on; above
+市	si 5 market
+場	coeng 4 field; market
+穿	cyun 1 to pass through; to cross
+過	gwo 3 to cross; to pass; to go across; to pass through
+大	daai 6 of great size; big; large; huge
+街	gaai 1 street
+走	zau 2 to go; to walk; to go on foot
+盡	zeon 6 to end; to finish
+巷	hong 6 alley; lane; tunnel
+賣	maai 6 to sell
+聲	sing 1 sound; noise; voice
+唱	coeng 3 to sing
+兒	ji 4 child
+真	zan 1 true; genuine; real; actua
+美	mei 5 beautiful; pretty; attractive; good-looking
+香	hoeng 1 fragrant; fragrance
+沒	mut 6 not have; there is not; to be without
+有	jau 5 to have; to possess
+人	jan 4 person; people
+買	maai 5 to buy
+怎	zam 2 how; why
+麼	mo 1 A suffix for forming pronouns or adverbs
+樣	joeng 6 appearance; form; shape
+满	mun 6 full
+空	hung 1  empty; hollow; void
+錢	cin 4 cash; money
+囊	nong 4 bag; sack; pouch; pocket
+回	wui 4 to return; to go back
+家	gaa 1 family; household
+見	gin 3 to see
+爹	de 1 father; dad
+假	gaa 2 to disguise; to fake; to pretend
+設	cit 3 to plan; to design
+切	cai 3 all; every; everything; anything
+做	zou 6 to do; to perform
+接	zip 3 to come near to; to be close to; to come into contact
+觸	zuk 1 to touch; to come in contact with
+騎	ke 4 to ride (a horse, bike, etc.)
+倆	loeng 5 two; pair
+懷	waai 4 to miss; to long for
+緊	gan 2 tense; tight; taut; tightly
+貼	tip 3 to paste to; to stick on
+背	bui3 (anatomy) back
+抱	pou 5 to heft in the arms; to carry
+捨	se 2 to abandon
+些	se 1 a little; a bit (a small amount)
+茫	mong 4 vast; boundless; widespread
+荒	fong 1 wasteland, desert
+野	je 5 countryside; field; outskirts; wilderness
+孩	haai 4 child; youngster; baby
+兒	ji 4 child
+伏	fuk 6 to wait for
+爸	baa 1 (colloquial) father; dad
+肩	gin 1 shoulders
+膊	bok 3 arm; upper arm
+總	zung 2 overall; altogether
+常	soeng 4 normal; general; common
+推	teoi 1 to push
+卸	se 3 to unload; to remove
+任	jam 6 no matter how; regardless of
+間	gaan 1 within a definite time period or place
+冷	laang 5 cold; cool
+酷	huk 6 cruel; brutal; savage
+幸	hang 6 fortunate; lucky
+福	fuk 1 blessing; happiness; prosperity
+雖	seoi 1 although; even if; despite
+演	jin 2 to perform; to act; to put on
+色	sik 1 theatrical role
+虛	heoi 1 empty; hollow
+待	doi 6 to wait
+套	tou 3 Classifier for a set of objects (books, furniture, rooms, etc).
+疼	tung 4 painful; aching; sore
+便	bin 6 convenient; handy
+哪	naa 5 any
+遙	jiu 4 distant; far away
+斜	ce 4 tilted; sloping; inclined; oblique; slanting
+朝	ziu 1 morning
+走	zau 2 to leave; to go away
+堅	gin 1 strong; firm
+壯	zong 3 strong; robust
+介	gaai 3 to lie between
+護	wu 6 to protect; to safeguard; to defend; to shelter
+靠	kaau 3 to depend on; to rely on
+施	si 1 to set up; to put in place; to establish
+怨	jyun 3 to resent; to hate
+壞	waai 6 rotten; spoiled
+承	sing 4 to continue; to carry on; to succeed
+受	sau 6 to receive; to accept
+狂	kwong 4 mad; insane; crazy
+攔	laan 4 to obstruct; to impede; to bar; to hinder
+偏	pin 1 inclined on one side; slanting; askew
+飲	jam 2 to keep in the heart
+泣	jap 1 to weep; to sob
+凍	dung 3 cold; chilly
+嗎	maa 1 Final interrogative particle, forming yes/no questions.
+褸	lau 1 coat
+磨	mo 4 to grind; to sharpen
+襟	kam 1 front of a garment
+連	lin 4 to link; to join; to connect
+調	diu 6 to transfer; to move; to shift
+職	zik 1 duty; profession
+選	syun 2 to choose; to pick; to select
+送	sung 3 to see someone off
+疤	baa 1 scar
+瓣	faan 6 petal
+鋪	pou 1 to spread out; to arrange
+墳	fan 4 grave; mound
+害	hoi 6 to harm; to maim; to injure
+若	joek 6 like; as if
+嫁	gaa 3 to marry; to become married to
+彼	bei 2 that; those
+需	seoi 1 to need; to require
+代	doi 6 to replace; to take the place of
+價	gaa 3 price; cost
+靠	kaau 3 to depend on; to rely on
+接	zip 3 to come near to; to be close to; to come into contact
+沿	jyun 4 to follow a course, go along
+浪	long 6 to stroll
+遊	jau 4 to travel; to tour
+淚	leoi 6 tear; teardrop
+流	lau 4 to flow
+憑	pang 4 to lean on
+富	fu 3 abundant; ample
+士	si 6 suffix for a virtuous, knowledgeable or skilled person: commendable person
+私	si 1 self; personal; private
+悲	bei 1 sad; sorrowful
+哀	oi 1 to lament; to mourn
+假	gaa 2 to disguise; to fake; to pretend
+設	cit 3 to set up; to arrange
+虛	heoi 1 empty; hollow
+構	kau 3 to fabricate; to make up
+試	si 3 to test; to try; to experiment
+管	gun 2 slender tubular hollow object; pipe; tube
+它	taa 1 third-person singular pronoun for inanimate objects; it
+染	jim 5 to dye
+污	wu 1 unclean; dirty; filthy
+眸	mau 4 pupil of eye
+塵	can 4 dust; dirt; ashes; cinders
+硬	ngaang 6 hard
+隨	ceoi 4 to follow
+緣	jyun 4 lucky chance; luck or lot by which people are brought together; predestined relationship; fate; serendipity; luck or lot by which people are brought together; predestined relationship; fate; serendipity
+拋	paau 1 throw away, abandon, reject
+逃	tou 4 to escape; to run away
+絕	zyut 6 to break off; to cut off; to sever
+罕	hon 2 rare; scarce
+往	wong 5 to go to; to head for
+繞	jiu 2 to entwine
+周	zau 1 week
+化	faa 3 to change; to transform
+烏	wu 1 no; not
+節	zit 3 festival; celebration; holiday;
+穿	cyun 1 to penetrate; to pierce
+敢	gam 2 bold; brave; daring
+撫	fu 2 to stroke; to caress
+髮	faat 3 (anatomy) hair
+端	dyun 1 end; tip
+姿	zi 1 manner; carriage; bearing
+汽	hei 3 steam, vapor, gas
+取	ceoi 2 to get; to obtain
+規	kwai 1 rule; regulation; customs; law
+勸	hyun 3 to encourage; to recommend
+腕	wun 2 wrist
+劃	waak 6 scratch
+損	syun 2 to harm; to cause destruction to; to damage
+歲	seoi 3 Classifier for age (of a person or animal): year old
+算	syun 3 to regard as; to consider
+短	dyun 2 short (of time); brief
+歸	gwai 1 to return (to a place); to come back to
+里	lei 5 li (a unit of distance equal to half a kilometre in modern Mainland China)
+預	jyu 6 beforehand
+忘	mong 4 to forget
+掉	diu 6 to drop; to fall
+怨	jyun 3 hatred; enmity; resentment
+櫻	jing 1 cherry
+轉	zyun 1 to turn; to revolve
+旅	leoi 5 journey; trip
+遙	jiu 4 distant; far away
+遠	jyun 5 distant; remote; far
+嫌	jim 4 to be sick of; to be tired of; to be fed up with
+陳	can 4 old
+贈	zang 6 to give as a present; to present with
+解	gaai 2 to loosen; to unfasten; to untie
+咒	zau 3 to curse, to damn
+溢	jat 6 to overflow; to brim over
+進	zeon 3 to advance; to move forward
+冬	dung 1 winter
+體	tai 2 body
+顫	zin 3 to shake; to vibrate; to tremble
+抖	dau 2 to shake; to tremble
+微	mei 4 tiny; small; trifling
+徐	ceoi 4 slowly; quietly; calmly
+送	sung 4 to see someone off
+妝	zong 1 woman's personal adornments, makeup and dress
+趟	tong 3 to take a journey
+管	gun 2 Classifier for tube-shaped objects.
+擴	kwong 3 to expand; to enlarge; to stretch
+桃	tou 4 peach (fruit)
+泛	faan 6 to float on water; to drift
+讓	joeng 6 to allow; to let; to permit
+欣	jan 1 happy; joyous; delighted
+賞	soeng 2 to present as a gift; to bestow; to grant
+姿	zi 1 manner; carriage; bearing
+采	coi 2 expression; spirit; complexion
+凌	ling 4 to rise high; to go up; to climb over; to traverse
+晨	san 4 dawn; morning; daybreak
+播	bo 3 to broadcast; to spread
+傾	king 1 to chat; to converse
+優	jau 1 excellent; superior
+雅	ngaa 5 elegant; graceful; refined
+粉	fan 2 powder
+舞	mou 5 to dance (move rhythmically)
+曲	kuk 1 song
+協	hip 3 to cooperate; to work together; to collaborate
+奏	zau 3 to play a musical instrument; to give an instrumental performance
+樂	ngok 6 music; tune; melody; song
+支	zi 1 to support; to bear; to sustain
+配	pui 3 to match
+官	gun 1 government official, public servant
+灰	fui 1 dust; ash
+踢	tek 3 to kick
+繪	kui 3 to draw; to sketch; to paint
+盧	lou 4 A surname
+巧	haau 2 ingenious; skillful
+炸	zaa 3 to fry in oil
+蟹	haai 5 crab
+餃	gaau 2 stuffed dumpling
+酥	sou 1 flaky pastry; shortbread
+蠔	hou 4 oyster
+饅	maan 6 chinese steamed bun; maantou
+蛋	daan 6 egg
+丸	jyun 4 small round object; ball; pellet
+湯	tong 1 broth; stock
+麻	maa 4 numb; senseless
+辣	laat 6 spicy
+瑞	seoi 6 auspicious omen
+翼	jik 6 wing
+葉	jip 6 leaf; petal
+沙	saa 1 sand
+嗲	de 2 coy; acting spoiled or flirtatious
+豬	zyu 1 pig; hog; swine
+皮	pei 4 skin
+雜	zaap 6 miscellaneous; mixed
+百	baak 3 hundred
+白	baak 6 white
+灼	coek 3 to broil
+潤	jeon 6 wet; moist; damp
+拼	ping 3 to accompany; to follow
+招	ziu 1 poster; signboard
+牌	paai 4 brand; trademark
+乾	gon 1 dry; moistureless
+炒	caau 2 to stir fry; to saute
+豉	si 6 fermented bean
+皇	wong 4 emperor; sovereign; ruler; superior
+星	sing 1 star; planet; heavenly body
+洲	zau 1 continent
+瑤	jiu 4 fine; precious
+柱	cyu 5 pillar; post; column
+金	gam 1 gold
+銀	ngan 4 silver
+燜	mun 6 simmer, cook over slow fire
+蝦	haa 1 shrimp; prawn; lobster
+廣	gwong 2 broad; wide; extensive; vast
+燴	wui 6 ragout, cook, braise
+滑	waat 6 to slip; to slide
+潮	ciu 4 trendy; popular
+菇	gu 1 mushroom
+伊	ji 1 this; that
+拆	caak 3 to take apart; to dismantle
+秘	bei 3 secret; undisclosed; confidential
+製	zai 3 to make; to manufacture; to produce
+鮑	baau 6 abalone
+窩	wo 1 nest
+揚	joeng 4 to spread; to make known
+素	sou 3 vegetarian
+富	fu 3 rich; wealthy
+貴	gwai 3 expensive; costly
+福	fuk 1 blessing; happiness; prosperity; good fortune
+叉	caa 1 fork
+燒	siu 1 to burn
+脆	ceoi 3 crisp; crispy
+叻	lek 1 smart; clever; capable; good
+瘦	sau 3 thin; slender; skinny
+粥	zuk 1 congee; rice gruel; porridge
+荔	lai 6 part one of lychee
+灣	waan 4 bay; gulf
+艇	teng 5 small boat; dugout; punt
+滾	gwan 2 to boil
+羅	lo 4 net for catching birds
+漢	hon 3 man; guy; bloke
+齋	zaai 1 vegetarian diet
+蔥	cung 1 green onion; spring onion
+檸	ning 4 lemon
+檬	mung 4 lemon
+奶	naai 5 milk
+阿	aa 3 prefix used in front of name to express familiarity
+綠	luk 6 green
+蜂	fung 1 honey bee
+糖	tong 4 sugar
+珍	zan 1 treasure
+冰	bing 1 ice
+桃	tou 4 peach
+枝	zi 1 branch; twig
+蘋	ping 4 apple
+桔	gat 1 tangerine
+健	gin 6 strong; robust; vigorous
+怡	ji 4 cheerful; happy; joyous
+碧	bik 1 green jade
+維	wai 4 to tie; to fasten; to tie up
+泡	paau 1 bubble
+礦	kwong 3 mineral; ore
+泉	cyun 4 springwater
+賦	fu 3 to bestow upon; to give
+派	paai 3 to hand out; to distribute
+費	fai 3 to cost; to spend; to expend
+思	si 1 to think; to cogitate
+燄	jim 6 flame
+獎	zoeng 2 reward; prize
+賞	soeng 2 award; reward
+燭	zuk 1 candle; taper
+裏	leoi 5 in; inside
+童	tung 4 child
+侍	si 6 to wait upon; to serve
+應	jing 1 should; ought to
+靜	zing 1 quiet; silent; devoid of noise
+打	daa 2 to hit; to strike; to slap; to beat
+烊	joeng 4 to smelt
+逛	gwaang 6 to stroll; to roam; to wander
+歸	gwai 1 to return (to a place); to come back to
+純	seon 4 genuine; honest; simple
+靈	ling 4 soul; spirit
+魂	wan 4 soul; spirit
+霎	saap 3 instant; moment
+赤	cek 3 empty; bare
+柱	chu 5 pillar; post; column
+寧	ning 4 peaceful; tranquil; serene; at peace
+佳	gaai 1 good, auspicious
+蝴	wu 4 butterfly
+蝶	dip 6 butterfly
+襯	can 3 to match (of clothes)
+偷	tau 1 to steal; to snatch
+窺	kwai 1 to peep
+急	gap 1 rapid; quick
+璧	bik 1 jade annulus
+露	lou 6 dew
+底	dai 2 bottom; underneath; underside
+藴	wan 5 accumulate; to hold in store; to contain
+襲	zaap 6 to attack; to raid
+優	jau 1 excellent; superior
+雅	ngaa 5 elegant; graceful; refined
+婚	fan 1 to marry; to get married
+針	zam 1 needle
+刺	ci 3 a pointed structure which is able to pierce something (spike, spine, thorn, etc.)
+繡	sau 3 to embroider
+悠	jau 4 leisurely
+悶	mun 6 bored
+透	tau 3 to penetrate; to pass through
+廂	soeng 1 wing; side room; theater box
+登	dang 1 to publish; to run (a story, an ad, etc.)
+樓	lau 4 building (of two or more stories)
+攜	kwai 4 to carry; to bear
+雙	soeng 1 two; double; twin
+步	bou 6 to walk; to stroll
+霧	mou 6 fog; mist
+趕	gon 2 to drive someone away; to chase away
+攤	taan 1 to spread something out; to lay out
+牌	paai 4 board; plate
+詩	si 1 poem; verse; ode; poetry
+微	mei 4 tiny; small; trifling
+焚	fan 4 to burn
+訂	deng 3 to arrange
+淺	cin 2 shallow; not deep
+酌	zoek 3 to pour an alcoholic beverage
+醺	fan 1 to be drunk; to intoxicate with alcohol
+演	jin 2 to perform; to act; to put on
+識	sik 1 to know; to realise; to be aware
+區	keoi 1 area; district; region; ward
+挑	tiu 1 to pick; to select; to choose
+惜	sik 1 to cherish; to adore; to value greatly; to love dearly
+優	jau 1 excellent; superior
+點	dim 2 point; aspect
+尊	zyun 1 to respect; to revere; to venerate
+被	bei 6 by
+竊	sit 3 to steal
+取	ceoi 2 to get; to obtain
+據	geoi 3 to occupy; to take possession of
+辛	san 1 hard; laborious; toilsome
+擺	baai 2 to get rid of; to break free from; to push aside
+脫	tyut 3 to take off (clothes); to peel off; to strip
+討	tou 3 to discuss
+迫	bik 1 to coerce; to force; to compel
+封	fung 1 to close; to seal; to bind
+捐	gyun 1 to donate
+拓	tok 3 to open up; to develop; to expand
+剛	gong 1 strong
+秀	sau 3 beautiful; elegant; graceful
+某	mau 5 certain; particular (person or thing)
+展	zin 2 to exhibit; to display
+習	zaap 6 to become familiar with; to be used to
+守	sau 2 to defend; to protect; to keep watch
+綴	zeoi 3 to decorate
+拖	to 1 to drag; to tow; to haul
+居	geoi 1 house; residence; dwelling
+專	zyun 1 exclusively; specially
+施	si 1 to set up; to put in place; to establish
+脂	zi 1 fat; grease; lard
+粉	fan 2 powder
+坦	taan 2 honest; frank
+率	seot 6 frank, straightforward
+沮	zeoi 2 gloomy; glum; disheartened
+喪	song 1 to mourn; to be in mourning
+兇	hung 1 fierce; ferocious
+悍	hon 6 vigorous; valiant
+決	kyut 3 to decide; to determine
+棄	hei 3 to abandon; to discard; to reject
+墊	din 3 to put something under something else to raise or balance it
+戰	zin 3 war; battle; fight
+障	zoeng 3 obstacle; barrier; impediment
+礙	ngoi 6 to obstruct; to hinder; to block; to deter
+斑	baan 1 spot; stripe
+峰	fung 1 peak; summit
+縱	zung 3 even if; even though
+午	ng 5 noon
+載	zoi 3 to carry; to hold; to be loaded with
+霜	soeng 1 frost
+替	tai 3 to substitute for; to displace
+擋	dong 2 to ward off; to block
+避	bei 6 to avoid; to escape; to dodge
+陰	jam 1 cloudy; overcast; gloomy
+晴	cing 4 (of weather) clear; fine; cloudless
+怨	jyun 3 to resent; to hate
+幼	jau 3 infant; young child
+稚	zi 6 young; infantile; immature
+勝	sing 3 to surpass; to prevail over; to outdo
+確	kok 3 real; true
+此	ci 2 (literary) this
+拯	cing 2 to rescue; to save; to aid
+類	leoi 6 class; group; kind; category
+掙	zaang 1 to struggle to get free
+扎	zaat 3 to tie; to fasten; to bundle
+扣	kau 3 to detain; to arrest
+泣	jap 1 to weep; to sob
+批	pai 1 to cut (into thin slices), peel, or shape with a knife or blade
+評	ping 4 to comment on; to discuss; to debate
+干	gon 1 to concern; to be implicated in; implication
+擾	jiu 2 to disturb; to trouble
+敏	man 5 quick
+欺	hei 1 to cheat; to deceive
+晨	san 4 dawn; morning; daybreak
+曦	hei 1 (literary) sunshine; dawn sunlight
+撐	caang 1 to prop up; to support
+殼	hok 3 shell; husk; hull; skin; casing
+驟	zaau 6 suddenly; abruptly
+索	sok 3 (literary) alone; solitary
+魄	bok 6 sound of falling
+塔	taap 3 tower
+玩	wun 6 to enjoy; to appreciate
+紛	fan 1 to disturb; to perturb
+隕	wan 5 to fall
+病	beng 6 illness; sickness; disease
+蔓	maan 6 to spread; to extend
+延	jin 4 to prolong
+仰	joeng 5 to raise the head to look
+豐	fung 1 abundant; bountiful; plenty
+倔	gwat 6 stubborn; obstinate
+烽	fung 1 signal fire
+侵	cam 1 to invade; to encroach
+忌	gei 6 to avoid; to abstain from
+諱	wai 5 to avoid; to regard as taboo
+窮	kung 4 poor; destitute; impoverished
+禮	lai 5 ritual; rite; ceremony
+雛	co 4 infant; toddler
+柳	lau 5 willow
+躊	cau 4 to walk back and forth
+躇	cyu 4 to walk back and forth
+媚	mei 6 charming; attractive
+叢	cung 4 bush; shrub; thicket; grove
+丘	jau 1 mound; hill
+卓	coek 3 outstanding; profound; brilliant; lofty
+賢	jin 4 virtuous; good; clever; wise; worthy
+朵	do 2 Classifier for flowers, clouds, etc.
+喊	haam 3 to cry; to sob; to weep
+嘞	laa 3 (Cantonese) final particle used for polite refusal
+唧	zik 1 to spurt; to squirt; to pump
+嘢	je 5 thing; matter; stuff
+咁	gam 3 so, to such an extent
+攬	laam 5 to grasp, to take hold of
+錫	sek 3 to cherish, to kiss
+返	faan 2 to return; to give back
+啖	daam 6 Classifier for mouthfuls of thing
+塊	faai 3 piece; chunk; lump; part
+嘅	ge 3 Possessive particle: -'s; of
+巾	gan 1 a square item of cloth; towel; kerchief
+滴	dik 6 to drip; to dribble
+吋	cyun 3 inch
+鼻	bei 6 (anatomy) nose
+涕	tai 3 nasal mucus; snot; snivel
+哋	dei 6 (Cantonese, Pinghua) Plural marker for pronouns
+搏	bok 3 to struggle; to wrestle; to work hard; to strive
+噉	gam 2 this
+咪	mai 1 (imperative) don't
+旱	hon 6 drought; dry spell; aridness
+潤	jeon 6 wet; moist; damp
+濕	sap 1 wet; damp; moist; humid
+腫	zung 2 to be swollen; to swell
+係	hai 6 (formal or Cantonese, Hakka) to be
+敷	fu 1 to spread; to diffuse
+唔	m 4 (Cantonese, Teochew, Hakka) not (negator)
+悲	bei 1 sad; sorrowful
+嗌	aai 3 (Cantonese) to shout; to yell; to say something loudly
+枱	toi 4 table; desk
+爆	baau 3 to burst; to explode
+呢	ne 1 Sentence-final particle indicating a reciprocal question
+嚟	lei 4 to come; to arrive
+冇	mou 5 to not have; to not exist
+藥	joek 6 medicine; drug; pharmaceutical
+汪	wong 1 (of bodies of water) vast and deep
+靚	leng 3 (regional, including Cantonese, Hakka, Pinghua) pretty; beautiful
+整	zing 3 to fix; to repair
+哂	saai 3 (Cantonese, dialectal Hakka) Verbal aspect marker for full extent.
+率	seot 6 frank, straightforward
+哈	haa 1 (onomatopoeia) sound of laughter: ha
+灘	taan 1 beach
+摯	zi 3 sincere; earnest
+洋	joeng 4 multitudinous; vast
+捽	zeot 1 (Cantonese, Hakka) to rub
+璀	ceoi 2 radiant
+燦	caan 3 vivid; illuminating
+餐	caan 1 meal
+屋	uk 1 house
+灑	saa 1 to sprinkle; to splash
+叱	cik 1 to scold; to shout at; to bawl out
+吒	caak 1 to roar; to shout angrily; to yell
+岩	ngaam 4 cliff
+含	ham 4 to hold or keep in the mouth
+俾	bei 2 (literary) to make; to cause; to enable
+讚	zaan 3 to praise; to commend; to eulogize
+縱	zung 3 even if; even though
+使	si to let; to make; to cause to
+陌	mak 6 street; path; road
+論	leon 6 to discuss; to reason; to debate; to argue
+航	hong 4 to sail; to navigate
+雷	leoi 4 lightning
+玩	waan 4 to play with; to toy with
+越	jyut 6 more; -er
+緬	min 5 distant, remote
+識	sik 1 to know; to realise; to be aware
+遷	cin 1 to ascend; to go up (to)
+視	si 6 to see; to look; to view
+煉	lin 6 to smelt; to refine
+演	jin 2 to develop; to evolve
+兌	deoi 3 to exchange
+衷	cung 1 inner feelings; heart; from the bottom of one's heart
+周	zau 1 everywhere
+賢	jin 4 virtuous; good; clever; wise; worthy
+殼	hok 3 shell; husk; hull; skin; casing
+恥	ci 2 shame; disgrace; humiliation
+棍	gwan 3 stick, cudgel
+機	gei 1 cause; reason
+蒞	lei 6 to manage
+蹟	zik 1 remains; ruin; vestige
+製	zai 3 to make; to manufacture; to produce
+裝	zong 1 outfit; clothes; clothing
+飾	sik 1 ornament; decorations; adornments
+灌	gun 3 to irrigate; to water
+溉	koi 3 to water, irrigate, flood
+參	caam 1 to join
+維	wai 4 to link; to connect
+護	wu 6 to protect; to safeguard; to defend; to shelter
+輩	bui 3 generation
+岸	ngon 6 bank; shore; coast
+誠	sing 4 sincere, honest; true
+懇	han 2 sincere; earnest; cordial
+忿	fan 6 to be angry; to be indignant; to hate
+管	gun 2 to administer; to manage; to control; to be in charge
+佈	bou 3 to announce; to proclaim
+胎	toi 1 fetus; unborn child
+睬	coi 2 to notice, to pay attention to; to heed
+載	zoi 3 to carry; to hold; to be loaded with
+憐	lin 4 to pity; to sympathize
+班	baan 1 group; party; class
+哼	hang 1 to hum; to croon
+排	paai 4 row; rank; line
+恤	seot 1 to misgive
+衫	saam 1 shirt; top
+褲	fu 3 pants; trousers
+倍	pui 5 Classifier for the number of times a value is multiplied: times; -fold
+閱	jyut 6 to read; to peruse
+覽	laam 5 to look at; to view; to inspect; to perceive
+牆	coeng 4 wall
+拿	naa 4 to take; to hold; to grasp
+逛	gwaang 6 to stroll; to roam; to wande
+相	soeng 3 photo; picture; photograph
+簿	bou 6 register; account book; notebook
+拍	paak 3 to take; to shoot (a picture, a video, etc.)
+妒	dou 3 to be jealous or envious of; to envy
+忌	gei 6 to be jealous; to envy; to hate
+模	mou 4 model; standard; example
+歷	lik 6 to experience; to go through; to undergo
+仍	jing 4 to continue; to be done repeatedly
+挑	tiu 1 to provoke; to incite
+妖	jiu 2 abnormal or bizarre thing or phenomenon
+魔	mo 4 devil; demon; evil spirit
+蓋	koi 3 to cover; to conceal
+踏	daap 6 to step on; to trample; to tread on
+惡	ok 3 fierce; hostile; ferocious
+疑	ji 4 to doubt; to question
+慮	leoi 6 be concerned, worry about
+尖	zim 1 sharp; having a sharp tip; pointy
+幽	jau 1 to imprison
+禁	gam 1 to bear; to endure
+睡	seoi 6 to sleep
+房	fong 4 room
+況	fong 3 condition; situation
+探	taam 3 to search; to explore
+猜	caai 1 to guess; to suppose; to conjecture
+狀	zong 6 form; appearance; state
+挫	co 3 to break (something); to crush; to smash; to push down
+喪	song 1 corpse; dead body
+內	noi 6 inside; interior; internal; inner
+外	ngoi 6 out; outside; external
+惦	dim 3 to keep thinking about; to miss
+毒	duk 6 poison; toxin; venom; bane
+異	ji 6 different; other
+獸	sau 3 beast; animal
+置	zi 3 to put; to place; to plant
+鍊	lin 6 to smelt; to refine
+眠	min 4 to sleep
+匙	si 4 key
+勞	lou 4 to toil; to do manual labour
+縛	bok 3 to tie up; to bind; to truss
+機	gei 1 machine; apparatus; device
+憐	lin 4 to pity; to sympathize
+危	ngai 4 dangerous
+連	lin 4 to link; to join; to connect
+調	tiu 4 to adjust; to regulate
+辦	baan 6 to deal with; to handle; to manage; to take care of
+犯	faan 6 to commit (crime); to violate
+賤	zin 6 mean; base; despicable; obnoxious
+徒	tou 4 in vain; unsuccessfully; to no avail
+透	tau 3 to penetrate; to pass through
+婚	fan 1 to marry; to get married
+飛	fei 1 to fly
+票	piu 3 ticket; coupon
+駱	lok 3 first character of camel
+駝	to 4 second character of camel
+勝	sing 1 to be able to bear; to be able to withstand
+鏡	geng 3 mirror
+舉	geoi 2 to raise; to lift up
+杯	bui 1 drinkware; cup; glass; mug
+酒	zau 3 alcoholic beverages in general; alcoholic drink
+潔	git 3 clean; pure; innocent
+遺	wai 4 to lose; to lose track of
+腫	zung 2 to be swollen; to swell
+瘤	lau 4 tumor
+摘	zaak 6 to pluck; to pick (flowers, fruits, leaves etc.)
+除	ceoi 4 to take off (clothes); to peel off; to strip
+醫	ji 1 medicinal; medicine
+院	jyun 6 institution; academy
+換	wun 6 to change; to swap; to switch; to substitute
+煞	saat 3 to stop; to halt
+陀	to 4 steep bank; rough terrain
+羨	sin 6 to envy; to admire
+圈	hyun 1 circle; ring; loop
+機	gei 1 machine; apparatus; device
+捕	bou 6 to catch; to seize; to arrest
+捉	zuk 1 to grasp; to hold; to clutch
+啡	fe 1 coffee
+斟	zam 1 to pour (a drink) into drinkware
+護	wu 6 to protect; to safeguard; to defend; to shelter
+粒	lap 1 Classifier for small, round objects: granule, grain, particle, piece
+糖	tong 4 sweets; candy; lollies; confectionery
+圍	wai 4 to surround; to encircle; to corral
+享	hoeng 2 to enjoy
+恬	tim 4 quiet; calm; tranquil; peaceful
+瞬	seon 3 instant; moment; blink of an eye
+跖	zek 3 sole of the foot
+曆	lik 6 calendar
+須	seoi 1 must; have to; should
+註	zyu 3 to annotate; to comment
+驟	zaau 6 sudden; abrupt
+倚	ji 2 to lean on; to lean against
+鄭	zeng 1 surname
+鄭	zeng 1 A surname Ronald Cheng 鄭中基
+特	dak 6 bull; ox Mike Tseng 曾比特
+靖	zing 6 stable; peaceful; tranquil Angela Hui 許靖韻
+韻	wan 6 sweet music; melodious tune Angela Hui 許靖韻
+奕	jik 6 great; grand Phil Lam 林奕匡
+匡	hong 1 to correct; to rectify Phil Lam 林奕匡
+卓	coek 3 tall and erect Ian Chan 陳卓賢
+賢	jin 4 virtuous; good; clever; wise; worthy Ian Chan 陳卓賢
+祥	coeng 4 good luck, good omen, auspicious George Lam 林子祥
+凱	hoi 2 triumphant; victorious Jace Chan 陳凱詠
+詠	wing 6 to sing; to hum; to chant Jace Chan 陳凱詠
+劉	lau 4 a surname Wilfred Lau 劉浩龍
+浩	hou 6 grand; vast; great Wilfred Lau 劉浩龍
+軒	hin 1 high; lofty; airy Hins Cheung 張敬軒
+周	zau 1 to circle; to encircle Endy Chow 周國賢
+梁	loeng 4 a surname Edmond Leung 梁漢文
+迅	seon 3 quick; rapid Eason Chan 陳奕迅
+姜	goeng 1 a surname Keung To 姜濤
+濤	tou 4 billows; large waves Keung To 姜濤
+蘇	sou 1 to reap grass William So 蘇永康
+麟	leon 4 big deer Alan Tam 譚詠麟
+岑	sam 4 A surname Yoyo Sham 岑寧兒
+寧	ning 4 peaceful; tranquil; serene; at peace Yoyo Sham 岑寧兒
+郭	gwok 3 outer city wall Aaron Kwok 郭富城
+江	gong 1 A surname Anson Kong 江𤒹生
+𤒹	jip 6 (literary, of a flame) bright; magnificent; glorious Anson Kong 江𤒹生
+膽	daam 2 (figurative) guts; courage; bravery; strength; nerve
+聊	liu 4 for the time being; tentatively
+淒	cai 1 miserable; sorrowful; sad
+群	kwan 4 group; crowd; flock; herd; pack
+近	kan 5 near; close
+塌	taap 3 to collapse; to fall down; to cave in
+徹	cit 3 to penetrate; to pierce; to pervade
+乎	fu 4 in; at; on
+抬	toi 4 to lift; to heave
+肝	gon 1 liver
+膽	daam 2 gallbladder
+幻	waan 6 illusion; fantasy; mirage
+拼	ping 3 to accompany; to follow
+矛	maau 4 spear; lance
+盾	teon 5 shield
+暫	zaam 6 temporarily; tentatively; for the time being
+睏	kwan 3 sleepy; tired
+腔	hong 1 cavity; hollow in body
+卑	bei 1 low; inferior
+驚	ging 1 to fear; to be afraid
+李	lei 5 plum (tree and fruit)
+微	mei 4 tiny; small; trifling
+郵	jau 4 postal; mail
+寄	gei 3 to send mail; to post
+疲	pei 4 weary; tired; exhausted
+達	daat 6 to achieve; to attain
+搵	wan 2 to search; to look for
+盒	hap 6 box; case
+勁	ging 3 vigor; energy; strength
+物	mat 6 thing, matter
+粒	lap 1 Classifier for small, round objects
+款	fun 2 money (of certain kind)
+零	ling 4 zero
+鬼	gwai 2 ghost; apparition; spirit
+寒	hon 4 cold; wintry; chilly
+搣	mit 1 to break apart with the fingers
+婆	po 2 old woman
+使	sai 2 need to [do something]; have to
+銅	tung 4 copper
+鑼	lo 4 gong
+餸	sung 3 a dish served to accompany rice
+豪	hou 4 great; extraordinary
+殺	saat 3 to kill; to murder
+碌	luk 1  to roll
+震	zan 3 to tremble; to shake; to jolt; to quake
+罪	zeoi 6 crime; vice
+塑	sok 3 plastic
+判	pun 3 to judge
+允	wan 5 fair; just; equitable; even-handed; impartial
+責	zaak 3 to blame; to reproach
+指	zi 2 to point; to point out; to aim
+賄	kui 2 to bribe
+瞓	fan 3 to sleep
+斤	gan 1 a unit of weight
+貨	fo 3 goods; commodities; products
+豈	hei 2 how; how can it be that (used in rhetorical questions)
+負	fu 6 to carry (on the back); to bear (a burden or responsibility)
+聞	man 4 to smell; to detect; to get a sniff at
+拷	haau 2 to interrogate, chiefly by torture; to extract confession
+紀	gei 2 rule; discipline
+錄	luk 6 to record; write down
+匆	cung 1 hasty; hurried
+敗	baai 6 to fail
+栽	zoi 1 to cultivate; to plant; to grow
+梭	so 1 go to and fro
+逗	dou 4 to stay; to remain; to stop
+漆	cat 1 varnish; lacquer; paint
+廝	si 1 mutually; with each other
+焦	ziu 1 burned; scorched
+廳	teng 1 hall; large room
+鬱	wat 1 depressed; gloomy; moody
+璃	lei 4 second character of glass
+確	kok 3 real; true
+撲	pok 3 to beat; to strike
+嚮	hoeng 3 to turn toward; to approach
+噸	deon 1 Classifier for metric ton.
+湧	jung 1 to rush out like water; to gush
+羈	gei 1 to restrain; to hold; to control
+鄙	pei 2 mean; ignoble
+眾	zung 3 masses; people; multitude; crowd; everyone
+輛	loeng 6 Classifier for wheeled vehicles
+崔	ceoi 1 high, lofty, towering
+促	cuk 1 hurried; urgent
+臂	bei 3 (anatomy) arm
+箍	ku 1 to bind; to encircle
+膚	fu 1 skin
+肌	gei 1 muscle; flesh
+殞	wan 5 to die; to perish
+石	sek 6 stone; rock
+進	zeon 3 to advance; to move forward
+功	gung 1 achievement; merit; good result
+標	biu 1 mark; symbol; label; sign; emblem
+枉	wong 2 in vain; to no avail; for naught
+瘋	fung 1 mentally unstable; crazy; insane; mad
+誤	ng 6 incorrect
+沈	cam 6 to sink; to submerge (into water)
+罕	hon 2 rare; scarce
+訪	fong 2 to visit
+掘	gwat 6 to dig; to excavate
+率	leot 6 rate; frequency
+異	ji 6 different; other
+芒	mong 4 ray; beam (of light)
+橋	kiu 4 bridge
+寵	cung 2 favour; love
+管	gun 2 to concern oneself with; to interfere with
+寶	bou 2 treasure; riches; valuables; precious thing
+陷	ham 6 fault; defect; drawback
+笨	ban 6 stupid; foolish; silly; slow-witted
+拙	zyut 3 stupid; clumsy
+環	waan 4 circle; ring; hoop
+炫	jyun 6 to show off; to boast
+耀	jiu 6 to shine; to sparkle
+啞	aa 2 mute; dumb (unable to speak)
+堪	ham 1 may; can; to be capable of; to be able to
+尚	soeng 6 still; yet
+毫	hou 4 slightest bit; least amount
+睡	seoi 6 to sleep
+喝	hot 3 to drink
+盈	jing 4 to fill; to be full of; to be filled with
+啤	be 1 beer
+瀉	se 3 to pour out; to flow rapidly; to pour down
+酒	zau 2 alcoholic beverages in general; alcoholic drink
+吧	baa 6 indicate a suggested action: why don't you ...; let us ...
+轟	gwang 1 to rumble; to explode; to blast
+烈	lit 6 fiery; blazing; intense
+甘	gam 1 willingly; readily
+宗	zung 1 main purpose
+旨	zi 2 intention; purpose; aim
+啟	kai 2 to open
+齒	ci 2 to utter; to mention
+詳	coeng 4 detailed; complete; thorough
+勵	lai 6 to encourage
+志	zi 3 will; determination; aspiration; ambition
+番	faan 1 Classifier for different kinds of things: kind; type
+熬	ngou 4 to cook something on slow fire; to extract something using heat
+創	cong 1 to injure; to harm; to damage
+垮	kwaa 1 to collapse; to fall
+類	leoi 6 Classifier for types of things: type, kind, sort
+潮	ciu 4 trendy; popular
+示	si 6 to show; to reveal; to indicate; to notify; to instruct
+擠	zai 1 to crowd together tightly; to squeeze
+幅	fuk 1 Classifier for textiles and pictures
+盛	sing 6 flourishing; prosperous
+馳	ci 4 to speed; to gallop
+駛	sai 2 to drive (a vehicle); to sail (a vessel); to fly (an aircraft)
+擎	king 4 to prop up; to hold up; to lift up
+攜	kwai 4 to carry; to bear
+曠	kwong 3 broad; vast; extensive
+暴	bou 6 violent; cruel; brutal; tyrannical
+曬	saai 3 (of the sun) to shine on
+遮	ze 1 to block; to obstruct
+料	liu 6 to anticipate; to predict; to foresee; to expect
+部	bou 6 part; division; section
+珍	zan 1 treasure
+垂	seoi 4 to suspend; to hang (down); bend (down)
+叮	ding 1 to advise; to urge; to repeat what one says to make sure
+囑	zuk 1 to enjoin; to urge; to instruct
+檳	ban 1 second character in champagne
+添	tim 1 to add; to increase; to supplement; to fill
+霄	siu 1 sky; heaven
+辰	san 4 time; day; season
+韻	wan 6 sweet music; melodious tune
+窘	gwan 6 embarrassed
+預	jyu 6 beforehand, in advance
+臨	lam 6 to be faced with; to be confronted by
+際	zai 3 border; boundary; juncture
+既	gei 3 already
+淪	leon 4 ripple; small waves
+憫	man 5 to sympathize; to pity; to feel compassion for
+遷	cin 1 to change; to shift; to transfer
+宣	syun 1 (literary or in compounds) to declare; to announce; to proclaim
+洩	sit 3 to reveal; to divulge (eg. secrets)
+準	zeon 2 accurate; exact
+齒	ci 2 to utter; to mention
+把	baa 2 to hold; to grasp; to take
+附	fu 6 to add; to augment; to increase; to raise; to boost
+草	cou 2 herbaceous plant; herb; weed; wort; grass; forb
+浸	zam 3 to soak; to sit in water (or liquid)
+翁	jung 1 elderly man
+婦	fu 5 married woman
+飾	sik 1 ornament; decorations; adornments
+返	faan 2 to return (to); to come or go back (to)
+筆	bat 1 writing brush
+尖	zim 1 sharp; having a sharp tip; pointy
+箱	soeng 1 (large) box; chest; trunk
+投	tau 4 to put in; to drop
+煮	zyu 2 to boil; to cook
+翻	faan 1 to flip over; to turn over; to reverse; to toss
+頁	jip 6 page
+搜	sau 1 to seek; to look for
+教	gau 1 to teach; to instruct
+藝	ngai 1 art
+術	seot 6 art; craft; skill; technique
+竭	kit 3 to dry up; to drain
+惑	waak 6 confused; puzzled; deluded
+替	tai 3 to substitute for; to displace
+汗	hon 6 sweat; perspiration
+燎	liu 4 torch
+搏	bok 3 to come to blows
+勝	sing 1 to be able to bear; to be able to withstand
+枉	wong 2 bent; crooked
+迎	jing 4 to receive; to welcome; to greet; to meet
+耀	jiu 6 to shine; to sparkle
+瑩	jing 4 lustrous and transparent
+屬	suk 6 to belong to
+刪	saan 1 to delete
+絲	si 1 trace; tiny bit
+趕	gon 2 to overtake; to catch up with
+客	haak 3 guest; visitor
+煩	fan 2 to annoy; to bother
+諸	zyu 1 many; each; every; all
+奇	kei 4 strange; odd; weird; unusual
+騷	sou 1 to harass; to bother; to annoy; to disturb; to agitate
+絡	lok 3 to enmesh; to wrap around
+川	cyun 1 river; stream; brook
+鰥	gwaan 1 widower
+絆	bun 6 to hinder; to restrain
+淡	taam 5 bland; tasteless
+藉	ze 6 even if
+遺	wai 4 to lose; to lose track of
+頑	waan 4 obstinate; stubborn; recalcitran
+告	gou 3 to report to
+式	sik 1 ritual; ceremony
+喪	song 1 mourning; funeral ceremony
+抽	cau 1 to draw lots
+懇	han 2 sincere; earnest; cordial
+巉	caam 4 precipitous; steep
+納	naap 6 to accept; to take on
+稜	ling 4 arris; edge; corner
+獲	wok 6 to catch
+凸	dat 6 protruding; sticking out
+凹	nap 1 concave; hollow; sunken; dented
+瑕	haa 4 flaw; blemish
+諧	haai 4 to harmonize; to coordinate; to fit together
+鄰	leon 4 neighbor; neighborhood
+鎮	zan 3 to press down; to suppress; to repress; to subdue
+邪	ce 4 wrong; evil; depraved; vicious; perverse; heterodox
+頹	teoi 4 dejected; depressed; down; listless
+潘	pun 1 (Greek mythology) Pan
+拉	laai 1 to pull; to drag; to tug
+蓋	goi 3 cover; cap; lid  koi 3 to cover; to conceal
+禮	lai 5 gift
+揀	gaan 2 to choose; to pick
+控	hung 3 to control; to take charge of
+譜	pou 2 register; list; table
+罕	hon 2 rare; scarce
+荊	ging 1 chaste tree (Vitex); redbud (Cercis)
+棘	gik 1 thorny bush; bramble
+帳	zoeng 3 tent; curtain
+壯	zong 3 strong; robust
+揮	fai 1 to direct; to command
+棒	paang 5 stick; club; truncheon
+碼	maa 5 digit; number; code
+降	gong 3 to fall; to drop; to descend; to come down
+徒	tou 4 bare; plain
+挑	tiu 1 to pick; to select; to choose
+碰	pung 3 to collide; to bump; to knock; to touch
+瞬	seon 3 instant; moment; blink of an eye
+邪	ce 4 wrong; evil; depraved; vicious; perverse; heterodox
+頹	teoi 4 dejected; depressed; down; listless
+潘	pun 1 (Greek mythology) Pan
+拉	laai 1 to pull; to drag; to tug
+蓋	goi 3 cover; cap; lid  koi 3 to cover; to conceal
+禮	lai 5 gift
+揀	gaan 2 to choose; to pick
+控	hung 3 to control; to take charge of
+譜	pou 2 register; list; table
+罕	hon 2 rare; scarce
+荊	ging 1 chaste tree (Vitex); redbud (Cercis)
+棘	gik 1 thorny bush; bramble
+帳	zoeng 3 tent; curtain
+壯	zong 3 strong; robust
+揮	fai 1 to direct; to command
+棒	paang 5 stick; club; truncheon
+碼	maa 5 digit; number; code
+降	gong 3 to fall; to drop; to descend; to come down
+徒	tou 4 bare; plain
+挑	tiu 1 to pick; to select; to choose
+碰	pung 3 to collide; to bump; to knock; to touch
+瞬	seon 3 instant; moment; blink of an eye
+達	daat 6 to reach; to arrive at
+掙	zaang 1 to earn; to make
+勝	sing 1 to be able to bear; to be able to withstand
+取	ceoi 2 to select; to choose
+消	siu 1 to disappear; to vanish; to die down; to settle down
+系	hai 6 to belong to; to be part of; to fall under; to be categorised as; to be classified as
+蜉	fau 4 first character in mayfly (fau 4 jau 4)
+蝣	jau 4 second character in mayfly (fau 4 jau 4)
+廻	wui 4 to revolve; to rotate
+垢	gau 3 filth; dirt
+拗	aau 3 to defy; to disobey
+准	zeon 2 to allow; to grant; to permit
+罵	maa 6 to curse; to swear
+撤	cit 3 to take away; to remove; to clear away
+押	aat 6 to arrest; to detain; to guard; to take into custody
+醜	cau 2 ugly; homely; hideous
+嘲	zaau 1 to ridicule; to deride; to scorn; to jeer at
+恍	fong 2 seemingly, as if
+惚	fat 1 absent-minded; confused
+謊	fong 1 lie; untruth
+射	se 6 to shoot (an arrow); to fire
+處	cyu 2 to reside; to live; to dwell
+緩	wun 6 to postpone; to delay; to have a pause
+執	zap 1 to pick up
+迷	mai 4 to get lost
+究	gau 3 to reach the end or limit; to exhaust
+抑	jik 1 to repress; to suppress; to restrain; to restrict
+揹	bui 3 to carry on the back
+一	yat 1 one
+下	haa 6 below; under; next
+不	bat 1 not
+世	sai 3 world; generation
+中	zung 1 middle; center
+了	liu 5 completed action marker
+事	si 6 affair; matter; thing
+二	ji 6 two
+今	gam 1 today; now
+以	ji 5 using; by means of
+你	nei 5 you
+個	go 3 classifier for people or items
+們	mun 4 plural marker for pronouns
+儍	so 4 foolish; silly
+償	soeng 4 to repay; to compensate
+到	dou 3 to arrive; to reach
+十	sap 6 ten
+可	ho 2 can; may; able to
+喜	hei 2 to be happy; joy
+多	do 1 many; much
+布	bou 3 cloth; fabric
+心	sam 1 heart
+我	ngo 5 I; me
+篤	duk 1 to poke; to jab
+日	jat 6 day; sun
+明	ming 4 bright; clear
+是	si 6 is; are; am
+用	jung 6 to use
+的	dik 1 (possessive particle)
+脊	zek 3 back (of body)
+裸	lo 2 naked; bare
+路	lou 6 road; path
+力	lik6 power; strength; ability
+七	cat1 seven
+天	tin1 day; sky
+手	sau2 hand
+方	fong1 method; way; plan
+看	hon3 to look at; to watch; to observe
+之	zi1 of; 's (possessive particle)
+好	hou2 good; well; proper
+鋼	gong1 steel
+駁	bok3 to refute; to contradict
+怯	hip6 timid; cowardly
+騙	pin3 to deceive; to cheat; to trick
+子	zi2 child; son; a suffix for nouns
+瞞	maan4 to deceive; to hide; to conceal
+他	taa1 he; him; other
+技	gei6 skill; technique
+黑	hak1 black; dark
+逼	bik1 to force; to compel; to press
