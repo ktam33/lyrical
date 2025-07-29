@@ -50,12 +50,12 @@ export async function POST(request: NextRequest) {
     const timeoutPromise = new Promise((_, reject) => {
       setTimeout(() => {
         clearInterval(heartbeatInterval);
-        reject(new Error('OpenAI API call timed out after 90 seconds'));
-      }, 90000);
+        reject(new Error('OpenAI API call timed out after 180 seconds'));
+      }, 180000);
     });
     
     const completionPromise = openai.chat.completions.create({
-      model: "gpt-4",
+      model: "gpt-4.1",
       messages: [
         {
           role: "system",

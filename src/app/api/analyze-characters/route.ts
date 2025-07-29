@@ -73,20 +73,20 @@ export async function POST(request: NextRequest) {
     });
     
     const completionPromise = openai.chat.completions.create({
-      model: "gpt-4",
+      model: "gpt-4.1",
       messages: [
         {
           role: "system",
-          content: `You are a Cantonese language expert. Given a set of Chinese characters and their context from song lyrics, provide definitions that best align with the song's meaning.
+          content: `You are a Cantonese language expert. Given a set of Chinese characters and their context from song lyrics, provide definitions that best align with character as used in the song lyrics.
           
           For each character, provide:
           1. A contextually appropriate definition that fits the song's theme
-          2. A reasonable Cantonese pronunciation (romanized)
+          2. A reasonable Cantonese pronunciation (romanized). Use the Jyutping romanization system. 
           
           Return the result as a JSON array where each object has:
           - "character": the Chinese character
           - "pronunciation": romanized Cantonese pronunciation  
-          - "definition": contextually appropriate definition
+          - "definition": definition that best matches the usage of the character in the song
           
           Example format:
           [
