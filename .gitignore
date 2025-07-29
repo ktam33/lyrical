@@ -18,6 +18,9 @@ dist/
 .env.test.local
 .env.production.local
 
+# Claude Code directory
+.claude/
+
 # IDE and Editor files
 .vscode/
 .idea/
