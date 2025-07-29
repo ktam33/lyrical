@@ -1,12 +1,111 @@
-## Description
-This is a web app that translates Cantonese song lyrics. 
-1. Given a set of song lyrics, it sends those lyrics to a OpenAI gpt model to get a translation. This translation should favor translating in a way that captures the meaning of the overall song rather than a literal translation. 
-1. It will output the translation to the screen. It will interleave the original Chinese line with the translated line. 
-1. The application has a list of Chinese characters in a database represented by the Cantonese.txt text file
-    - The first two lines are headers
-    - The remaining lines has a character followed by a definition
-1.  The application will then go through each character of the provided lyrics and compare against the set of characters in the database. 
-1. For each new character, generate new line that can be inserted into the database. Do not actually insert the line.
-    - If the word has multiple meanings, choose the meaning that best aligns with the song
-    - The way that this should work is that after generating the list of all new characters, issue an LLM call to generate the new lines. 
-1. Output the set of new lines to the screen. 
+# Cantonese Lyrics Translator
+
+A web application that provides contextual translation of Cantonese song lyrics and identifies new characters for dictionary expansion.
+
+## Features
+
+### 🎵 **Contextual Translation**
+- Translates Cantonese lyrics using OpenAI GPT-4
+- Focuses on capturing the overall meaning and emotional essence rather than literal word-for-word translation
+- Displays original and translated lines in an interleaved format
+
+### 📚 **Character Database Integration**
+- Maintains a comprehensive database of Cantonese characters (`Cantonese.txt`)
+- Database format: tab-separated file with character, pronunciation, and definition
+- Automatically compares input lyrics against existing character database
+
+### 🔍 **New Character Discovery**
+- Identifies characters not present in the current database
+- Generates contextually appropriate definitions for new characters
+- Provides copy-ready output for easy database expansion
+- Definitions are tailored to align with the song's theme and context
+
+## Tech Stack
+
+- **Frontend**: React with Next.js 14 (App Router)
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **AI Integration**: OpenAI GPT-4 API
+- **Database**: Text file (tab-separated format)
+
+## Quick Start
+
+### Prerequisites
+- Node.js 18+
+- OpenAI API key
+
+### Installation
+
+1. **Clone and install dependencies:**
+   ```bash
+   npm install
+   ```
+
+2. **Set up environment variables:**
+   ```bash
+   cp .env.example .env.local
+   ```
+   
+   Add your OpenAI API key to `.env.local`:
+   ```
+   OPENAI_API_KEY=your_openai_api_key_here
+   ```
+
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser:**
+   Navigate to `http://localhost:3000`
+
+## Usage
+
+1. **Input**: Paste Cantonese song lyrics into the text area
+2. **Translate**: Click "Translate Lyrics" to get contextual English translation
+3. **Analyze**: Review the character analysis showing:
+   - Interleaved original and translated lines
+   - List of new characters not in the database
+   - Suggested definitions for new characters
+4. **Expand**: Copy the suggested character definitions to add to your database
+
+## Project Structure
+
+```
+├── Cantonese.txt              # Character database
+├── src/
+│   ├── app/
+│   │   ├── api/
+│   │   │   ├── translate/     # Translation API endpoint
+│   │   │   └── analyze-characters/ # Character analysis API
+│   │   ├── page.tsx           # Main application page
+│   │   └── layout.tsx         # Root layout
+│   ├── components/            # React components
+│   ├── types/                 # TypeScript interfaces
+│   └── utils/
+│       └── database.ts        # Database utility functions
+├── package.json
+└── README.md
+```
+
+## Character Database Format
+
+The `Cantonese.txt` file uses this format:
+```
+#separator:tab
+#html:false
+字    pronunciation definition
+愛    oi3 love; affection
+心    sam1 heart; mind; feelings
+```
+
+## Contributing
+
+1. Ensure your OpenAI API key is configured
+2. Test translations with various Cantonese lyrics
+3. Review suggested character definitions for accuracy
+4. Add new characters to the database as needed
+
+## License
+
+This project is for educational and research purposes.
