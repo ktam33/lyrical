@@ -83,7 +83,7 @@ export async function POST(request: NextRequest) {
     });
 
     // Race between the API call and timeout
-    const completion = await Promise.race([completionPromise, timeoutPromise]);
+    const completion = await Promise.race([completionPromise, timeoutPromise]) as any;
     clearInterval(heartbeatInterval);
 
     const openaiEndTime = Date.now();

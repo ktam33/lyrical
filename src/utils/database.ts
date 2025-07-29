@@ -11,7 +11,7 @@ export async function loadCantoneseDatabase(): Promise<Map<string, CantoneseChar
   }
 
   console.log('🟢 [DATABASE] Loading database from file...');
-  const filePath = path.join(process.cwd(), 'Cantonese.txt');
+  const filePath = path.join(process.cwd(), 'data', 'Cantonese.txt');
   console.log('🟢 [DATABASE] File path:', filePath);
   
   try {

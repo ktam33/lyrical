@@ -110,7 +110,7 @@ ${songContext ? `Additional context: ${songContext}` : ''}`
     });
 
     // Race between the API call and timeout
-    const completion = await Promise.race([completionPromise, timeoutPromise]);
+    const completion = await Promise.race([completionPromise, timeoutPromise]) as any;
 
     const openaiEndTime = Date.now();
     console.log(`🟡 [CHARACTER API] OpenAI API call completed in ${openaiEndTime - openaiStartTime}ms`);

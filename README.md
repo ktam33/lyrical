@@ -10,7 +10,7 @@ A web application that provides contextual translation of Cantonese song lyrics 
 - Displays original and translated lines in an interleaved format
 
 ### 📚 **Character Database Integration**
-- Maintains a comprehensive database of Cantonese characters (`Cantonese.txt`)
+- Maintains a comprehensive database of Cantonese characters (`data/Cantonese.txt`)
 - Database format: tab-separated file with character, pronunciation, and definition
 - Automatically compares input lyrics against existing character database
 
@@ -72,7 +72,8 @@ A web application that provides contextual translation of Cantonese song lyrics 
 ## Project Structure
 
 ```
-├── Cantonese.txt              # Character database
+├── data/
+│   └── Cantonese.txt          # Character database
 ├── src/
 │   ├── app/
 │   │   ├── api/
@@ -90,7 +91,7 @@ A web application that provides contextual translation of Cantonese song lyrics 
 
 ## Character Database Format
 
-The `Cantonese.txt` file uses this format:
+The `data/Cantonese.txt` file uses this format:
 ```
 #separator:tab
 #html:false
