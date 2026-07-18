@@ -80,7 +80,7 @@ export async function POST(request: NextRequest) {
           content: `You are a Cantonese language expert. Given a set of Chinese characters and their context from song lyrics, provide definitions that best align with the character as used in the song lyrics.
 
           For each character, provide:
-          1. A standard common definition of the character that best matches how it is used in the song.
+          1. A standard common definition of the character that best matches how it is used in the song. Do not relate directly to song passages. 
           2. A reasonable Cantonese pronunciation (romanized). Use the Jyutping romanization system.
 
           Return the result as a JSON array where each object has:

@@ -1,15 +1,18 @@
 'use client';
 
-import { useState } from 'react';
-
 interface LyricsInputProps {
+  lyrics: string;
+  onLyricsChange: (lyrics: string) => void;
   onSubmit: (lyrics: string) => void;
   loading: boolean;
 }
 
-export default function LyricsInput({ onSubmit, loading }: LyricsInputProps) {
-  const [lyrics, setLyrics] = useState('');
-
+export default function LyricsInput({
+  lyrics,
+  onLyricsChange,
+  onSubmit,
+  loading,
+}: LyricsInputProps) {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (lyrics.trim()) {
@@ -30,7 +33,7 @@ export default function LyricsInput({ onSubmit, loading }: LyricsInputProps) {
           <textarea
             id="lyrics"
             value={lyrics}
-            onChange={(e) => setLyrics(e.target.value)}
+            onChange={(e) => onLyricsChange(e.target.value)}
             placeholder="Paste your Cantonese lyrics here..."
             className="w-full h-64 p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-blue-500 resize-none text-gray-900"
             disabled={loading}
