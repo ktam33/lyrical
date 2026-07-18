@@ -4,6 +4,14 @@ export interface CantoneseCharacter {
   definition: string;
 }
 
+export interface Entry {
+  id: number;
+  character: string;
+  jyutping: string;
+  definition: string;
+  source: string | null;
+}
+
 export interface TranslationResult {
   originalLine: string;
   translatedLine: string;

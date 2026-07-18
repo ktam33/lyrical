@@ -1,13 +1,7 @@
 import path from 'path';
 import Database from 'better-sqlite3';
-
-export interface Entry {
-  id: number;
-  character: string;
-  jyutping: string;
-  definition: string;
-  source: string | null;
-}
+import { Entry } from '@/types';
+import { ENTRIES_DEFAULT_PAGE_SIZE } from '@/utils/constants';
 
 let db: Database.Database | null = null;
 
@@ -35,7 +29,7 @@ export interface ListEntriesResult {
 export function listEntries({
   search = '',
   page = 1,
-  pageSize = 50,
+  pageSize = ENTRIES_DEFAULT_PAGE_SIZE,
 }: ListEntriesOptions = {}): ListEntriesResult {
   const database = getDb();
   const trimmedSearch = search.trim();
@@ -68,15 +62,17 @@ export function listEntries({
   return { entries, total: total.count, page, pageSize };
 }
 
+export function getAllEntries(): Entry[] {
+  const database = getDb();
+  return database.prepare('SELECT * FROM entries ORDER BY id').all() as Entry[];
+}
+
 export function getEntryById(id: number): Entry | undefined {
   const database = getDb();
   return database.prepare('SELECT * FROM entries WHERE id = ?').get(id) as Entry | undefined;
 }
 
-export function updateEntry(
-  id: number,
-  fields: { character: string; jyutping: string; definition: string; source: string | null }
-): Entry | undefined {
+export function updateEntry(id: number, fields: Omit<Entry, 'id'>): Entry | undefined {
   const database = getDb();
   const { character, jyutping, definition, source } = fields;
   database

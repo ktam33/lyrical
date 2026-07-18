@@ -1,5 +1,5 @@
 import { CantoneseCharacter } from '@/types';
-import { findEntriesByCharacter, listEntries } from '@/utils/db';
+import { findEntriesByCharacter, getAllEntries } from '@/utils/db';
 
 let charactersCache: Map<string, CantoneseCharacter> | null = null;
 
@@ -12,26 +12,14 @@ export async function loadCantoneseDatabase(): Promise<Map<string, CantoneseChar
   console.log('🟢 [DATABASE] Loading database from sqlite...');
 
   charactersCache = new Map();
-  let offset = 0;
-  const pageSize = 500;
-
-  // Page through the table so a later duplicate row for the same character
-  // overwrites an earlier one, matching the original flat-file behavior.
-  for (;;) {
-    const page = Math.floor(offset / pageSize) + 1;
-    const { entries } = listEntries({ page, pageSize });
-    if (entries.length === 0) break;
-
-    for (const entry of entries) {
-      charactersCache.set(entry.character, {
-        character: entry.character,
-        pronunciation: entry.jyutping,
-        definition: entry.definition,
-      });
-    }
-
-    offset += entries.length;
-    if (entries.length < pageSize) break;
+  // A later duplicate row for the same character overwrites an earlier one,
+  // matching the original flat-file behavior.
+  for (const entry of getAllEntries()) {
+    charactersCache.set(entry.character, {
+      character: entry.character,
+      pronunciation: entry.jyutping,
+      definition: entry.definition,
+    });
   }
 
   console.log('✅ [DATABASE] Database loaded successfully:', {

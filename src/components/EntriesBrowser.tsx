@@ -1,14 +1,8 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-
-interface Entry {
-  id: number;
-  character: string;
-  jyutping: string;
-  definition: string;
-  source: string | null;
-}
+import { Entry } from '@/types';
+import { ENTRIES_DEFAULT_PAGE_SIZE } from '@/utils/constants';
 
 interface ListResponse {
   entries: Entry[];
@@ -17,7 +11,7 @@ interface ListResponse {
   pageSize: number;
 }
 
-const PAGE_SIZE = 50;
+const PAGE_SIZE = ENTRIES_DEFAULT_PAGE_SIZE;
 
 export default function EntriesBrowser() {
   const [search, setSearch] = useState('');
