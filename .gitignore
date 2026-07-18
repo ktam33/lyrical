@@ -81,3 +81,7 @@ pids
 # Miscellaneous
 *.tgz
 *.tar.gz
+
+# sqlite runtime journal files (data/lyrical.db itself is committed)
+data/*.db-shm
+data/*.db-wal

@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import Link from 'next/link';
 import LyricsInput from '@/components/LyricsInput';
 import TranslationDisplay from '@/components/TranslationDisplay';
 import CharacterAnalysis from '@/components/CharacterAnalysis';
@@ -105,6 +106,9 @@ export default function Home() {
           <p className="text-gray-600 text-lg">
             Translate Cantonese song lyrics and discover new characters
           </p>
+          <Link href="/entries" className="inline-block mt-3 text-blue-600 hover:underline">
+            Browse dictionary entries &rarr;
+          </Link>
         </div>
 
         <div className="space-y-6">
