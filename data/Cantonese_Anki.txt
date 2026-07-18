@@ -1,0 +1,2699 @@
+#separator:tab
+#html:false
+#deck column:1
+Cantonese::姜濤 - Dear My Friend	姜	goeng 1 ginger				
+Cantonese::姜濤 - Dear My Friend	濤	tou 4 billows; large waves				
+Cantonese::姜濤 - Dear My Friend	慶	hing 3 to celebrate; to congratulate				
+Cantonese::姜濤 - Dear My Friend	幸	hang 6 fortunate; lucky				
+Cantonese::姜濤 - Dear My Friend	邂	haai 5 to run into somebody by chance				
+Cantonese::姜濤 - Dear My Friend	逅	hau 6 to run into somebody by chance				
+Cantonese::姜濤 - Dear My Friend	援	wun 4 to aid; to assist; to help				
+Cantonese::姜濤 - Dear My Friend	報	bou 3 to repay; to requite; to recompense				
+Cantonese::姜濤 - Dear My Friend	酬	cau 4 to reward; to repay				
+Cantonese::姜濤 - Dear My Friend	打	daa 2 to hit; to strike; to slap; to beat				
+Cantonese::姜濤 - Dear My Friend	急	gap 1 urgent; pressing; critical				
+Cantonese::姜濤 - Dear My Friend	夏	haa 1 summer (season)				
+Cantonese::姜濤 - Dear My Friend	處	cyu 2 to reside; to live; to dwell				
+Cantonese::姜濤 - Dear My Friend	躲	do 2 to avoid; to evade				
+Cantonese::姜濤 - Dear My Friend	瘋	fung 1 crazy; insane; mad				
+Cantonese::姜濤 - Dear My Friend	堡	bou 2 fort; fortress				
+Cantonese::姜濤 - Dear My Friend	壘	leoi 5 rampart, military wall				
+Cantonese::姜濤 - Dear My Friend	造	zou 6 to make; to build; to manufacture				
+Cantonese::姜濤 - Dear My Friend	烏	wu 1 crow; raven; rook				
+Cantonese::姜濤 - Dear My Friend	托	tok 3 to hold in the hand				
+Cantonese::姜濤 - Dear My Friend	邦	bong 1 nation; country; sovereign state				
+Cantonese::姜濤 - Dear My Friend	肯	hang 2 to be willing to; to be ready to				
+Cantonese::姜濤 - Dear My Friend	性	sing 3 nature; character; personality				
+Cantonese::姜濤 - Dear My Friend	宣	syun 1 to declare; to announce; to proclaim				
+Cantonese::姜濤 - Dear My Friend	洩	sit 3 to reveal; to divulge (eg. secrets)				
+Cantonese::姜濤 - Dear My Friend	沮	zeoi 2 gloomy; glum; disheartened				
+Cantonese::姜濤 - Dear My Friend	喪	song 1 to mourn; to be in mourning				
+Cantonese::姜濤 - Dear My Friend	熟	suk 6 familiar with; well-acquainted with				
+Cantonese::姜濤 - Dear My Friend	悉	sik 1 to know; to learn; to be informed of				
+Cantonese::姜濤 - Dear My Friend	膀	pong 4 upper arm; shoulder				
+Cantonese::姜濤 - Dear My Friend	緒	seoi 5 mental state				
+Cantonese::姜濤 - Dear My Friend	涸	kok 3 (of bodies of water) dry				
+Cantonese::姜濤 - Dear My Friend	源	jyun 4 source; origin; root				
+Cantonese::姜濤 - Dear My Friend	島	dou 2 island				
+Cantonese::姜濤 - Dear My Friend	燃	jin 4 to burn; to be alight				
+Cantonese::姜濤 - Dear My Friend	闖	cong 2 to rush in; to burst in				
+Cantonese::姜濤 - Dear My Friend	激	gik 1 drastic; radical; extreme				
+Cantonese::姜濤 - Dear My Friend	勇	jung 5 brave				
+Cantonese::姜濤 - Dear My Friend	堂	tong 4 hall; chamber; large room				
+Cantonese::姜濤 - Dear My Friend	跳	tiu 3 to jump; to leap; to hop				
+Cantonese::姜濤 - Dear My Friend	健	gin 6 strong; robust; vigorous				
+Cantonese::姜濤 - Dear My Friend	康	hong 1 happy; healthy; strong				
+Cantonese::姜濤 - Dear My Friend	煩	faan 4 agitated; restless; vexed; unhappy				
+Cantonese::姜濤 - Dear My Friend	擾	jiu 2 to disturb; to trouble				
+Cantonese::姜濤 - Dear My Friend	希	hei 1 to hope; to expect; to strive for				
+Cantonese::姜濤 - Dear My Friend	抵	dai 2 to offset; to balance				
+Cantonese::姜濤 - Dear My Friend	消	siu 1 to eliminate; to terminate; to eradicate				
+Cantonese::姜濤 - Dear My Friend	滴	dik 6 to drip; to dribble				
+Cantonese::姜濤 - Dear My Friend	箏	zang 1 zither				
+Cantonese::姜濤 - Dear My Friend	藏	cong 4 to store; to lay				
+Cantonese::姜濤 - Dear My Friend	模	mou 4 model; standard; example				
+Cantonese::姜濤 - Dear My Friend	漫	maan 6 overflow (of water), brim over, flood				
+Cantonese::Dear Jane - 銀河修理員	除	ceoi 4 to exclude				
+Cantonese::Dear Jane - 銀河修理員	挫	co 3 to break (something); to crush; to smash; to push down				
+Cantonese::Dear Jane - 銀河修理員	折	zit 3 to break off; to snap; to pluck off				
+Cantonese::Dear Jane - 銀河修理員	厭	jim 3 to be fed up with; to grow bored of; to become tired of				
+Cantonese::Dear Jane - 銀河修理員	修	sau 1 to repair; to mend				
+Cantonese::Dear Jane - 銀河修理員	補	bou 2 to mend; to repair; to fix				
+Cantonese::Dear Jane - 銀河修理員	殘	caan 4 severe; cruel				
+Cantonese::Dear Jane - 銀河修理員	破	po 3 to ruin; to destroy				
+Cantonese::Dear Jane - 銀河修理員	悲	bei 1 sad; sorrowful				
+Cantonese::Dear Jane - 銀河修理員	鼓	gu 2 (music) drum				
+Cantonese::Dear Jane - 銀河修理員	舞	mou 5 dance (performance art); dancing				
+Cantonese::Dear Jane - 銀河修理員	紓	syu 1 loosen, relax, relieve				
+Cantonese::Dear Jane - 銀河修理員	減	gaam 2 to decrease; to subtract; to diminish				
+Cantonese::Dear Jane - 銀河修理員	恐	hung 2 to fear; to be afraid				
+Cantonese::Dear Jane - 銀河修理員	怖	bou 3 to fear; to be afraid				
+Cantonese::Dear Jane - 銀河修理員	料	liu 6 to oversee; to manage; to deal with				
+Cantonese::Dear Jane - 銀河修理員	糟	zou 1 awful; messy; terrible; in bad shape				
+Cantonese::Dear Jane - 銀河修理員	量	loeng 4 to measure				
+Cantonese::Dear Jane - 銀河修理員	彌	nei 4 to mend; to repair				
+Cantonese::Dear Jane - 銀河修理員	逃	tou 4 to escape; to run away				
+Cantonese::Dear Jane - 銀河修理員	煩	faan 4 to bother; to vex; to trouble				
+Cantonese::Dear Jane - 銀河修理員	惱	nou 5 to be angered; to be irritated				
+Cantonese::Dear Jane - 銀河修理員	蒼	cong 1 white; greyish white				
+Cantonese::Dear Jane - 銀河修理員	沿	jyun 4 to follow a course, go along				
+Cantonese::Dear Jane - 銀河修理員	途	tou 4 way; path; road				
+Cantonese::Dear Jane - 銀河修理員	熄	sik 1 to extinguish (light or fire); to go out				
+Cantonese::Dear Jane - 銀河修理員	曙	cyu 5 daybreak; dawn				
+Cantonese::Dear Jane - 銀河修理員	形	jing 4 form; shape; appearance				
+Cantonese::Dear Jane - 銀河修理員	狀	zong 6 form; appearance; state				
+Cantonese::Dear Jane - 銀河修理員	付	fu 6 to give; to deliver; to hand over				
+Cantonese::Dear Jane - 銀河修理員	孔	hung 2 hole; aperture; opening				
+Cantonese::Dear Jane - 銀河修理員	瘡	cong 1 sore; skin ulcer; boil				
+Cantonese::Dear Jane - 銀河修理員	壯	zong 3 strong; robust				
+Cantonese::Dear Jane - 銀河修理員	勢	sai 3 outward appearance of something				
+Cantonese::Dear Jane - 銀河修理員	壞	waai 6 rotten; spoiled				
+Cantonese::Dear Jane - 銀河修理員	抗	kong 3 to resist; to oppose				
+Cantonese::Dear Jane - 銀河修理員	硬	ngaang 6 hard				
+Cantonese::Dear Jane - 銀河修理員	撑	caang 1 to prop up, to support, to brace				
+Cantonese::Dear Jane - 銀河修理員	保	bou 2 to protect; to safeguard; to defend				
+Cantonese::Dear Jane - 銀河修理員	養	joeng 5 to raise; to rear; to bring up				
+Cantonese::Dear Jane - 銀河修理員	慕	mou 6 to admire; to adore				
+Cantonese::Dear Jane - 銀河修理員	縫	fung 4 to sew up; to stitch				
+Cantonese::Dear Jane - 銀河修理員	操	cou 3 conduct; behaviour				
+Cantonese::Dear Jane - 銀河修理員	歪	waai 1 slanted; inclined; askew; awry; crooked; lopsided				
+Cantonese::Dear Jane - 銀河修理員	偕	gaai 1 to accompany; together; in company				
+Cantonese::Dear Jane - 銀河修理員	漂	piu 1  to float; to drift				
+Cantonese::Dear Jane - 銀河修理員	亮	loeng 6 bright; brilliant; radiant				
+Cantonese::Dear Jane - 銀河修理員	魯	lou 5 foolish; stupid; rash				
+Cantonese::Dear Jane - 銀河修理員	莽	mong 5 rude, impertinent				
+Cantonese::Dear Jane - 銀河修理員	推	teoi 1 to push				
+Cantonese::Dear Jane - 銀河修理員	裝	zong 1 to hold; to store; to contain				
+Cantonese::Dear Jane - 銀河修理員	巨	geoi 6 huge; gigantic; enormous				
+Cantonese::Dear Jane - 銀河修理員	匠	zoeng 6 craftsman; artisan; workman				
+Cantonese::Dear Jane - 銀河修理員	骯	ong 1 dirty				
+Cantonese::Dear Jane - 銀河修理員	髒	zong 1 dirty; filthy; soiled; foul				
+Cantonese::Dear Jane - 銀河修理員	膠	gaau 1 glue; adhesive; gum; resin				
+Cantonese::Dear Jane - 銀河修理員	紙	zi 2 paper				
+Cantonese::Dear Jane - 銀河修理員	俊	zeon 3 good-looking; pretty; beautiful; handsome				
+Cantonese::Dear Jane - 銀河修理員	朗	long 5 clear; bright				
+Cantonese::Dear Jane - 銀河修理員	釘	deng 1 nail (spike-shaped fastener)				
+Cantonese::Dear Jane - 銀河修理員	爛	laan 6 (of fruits, etc.) rotten; spoiled; decayed				
+Cantonese::Dear Jane - 銀河修理員	同	tung 4 same; identical				
+Cantonese::Dear Jane - 銀河修理員	奔	ban 1 to run fast; to rush about				
+Cantonese::Dear Jane - 銀河修理員	往	wong 5 to go to; to head for				
+Cantonese::Dear Jane - 銀河修理員	邊	bin 1 edge; border; side				
+Cantonese::Dear Jane - 銀河修理員	跌	dit 3 to fall down				
+Cantonese::Dear Jane - 銀河修理員	宕	dong 6 stone quarry				
+Cantonese::Dear Jane - 銀河修理員	緊	gan 2 tense; tight; taut; tightly				
+Cantonese::Dear Jane - 銀河修理員	跨	kwaa 1 to step across				
+Cantonese::Dear Jane - 銀河修理員	宇	jyu 5 universe				
+Cantonese::Dear Jane - 銀河修理員	宙	zau 6 eon				
+Cantonese::Dear Jane - 銀河修理員	橫	waang 4 to move crosswise; to cross; to traverse; to stretch across				
+Cantonese::Dear Jane - 銀河修理員	越	jyut 6 (of time) to pass; to go through				
+Cantonese::Dear Jane - 銀河修理員	洪	hung 4 big; vast; grand				
+Cantonese::Dear Jane - 銀河修理員	荒	fong 1 wasteland; desert				
+Cantonese::Dear Jane - 銀河修理員	岸	ngon 5 beach; coast				
+Cantonese::Dear Jane - 銀河修理員	護	wu 6 to protect; to safeguard; to defend; to shelter				
+Cantonese::Dear Jane - 銀河修理員	航	hong 4 ship; boat				
+Cantonese::Dear Jane - 銀河修理員	互	wu 6 mutually; reciprocally				
+Cantonese::Dear Jane - 銀河修理員	狂	kwong 4 mad; insane; crazy				
+Cantonese::Dear Jane - 銀河修理員	暴	bou 6 violent; cruel; brutal; tyrannical				
+Cantonese::Dear Jane - 銀河修理員	歲	seoi 3 Classifier for age				
+Cantonese::Dear Jane - 銀河修理員	致	zi 3 to cause; to result in				
+Cantonese::Dear Jane - 銀河修理員	慌	fong 1 to feel nervous; to get flustered; to get flurried				
+Cantonese::Dear Jane - 銀河修理員	員	jyun 4 personnel; staff member				
+Cantonese::陳凱詠 x 林家謙 - 隔離	藍	laam 4 blue				
+Cantonese::陳凱詠 x 林家謙 - 隔離	剔	tik 1 checkmark				
+Cantonese::陳凱詠 x 林家謙 - 隔離	誘	jau 5 to persuade; to entice; to tempt				
+Cantonese::陳凱詠 x 林家謙 - 隔離	惑	waak 6 confused; puzzled				
+Cantonese::陳凱詠 x 林家謙 - 隔離	等	dang 2 wait				
+Cantonese::陳凱詠 x 林家謙 - 隔離	關	gwaan 1 to concern; to implicate; to relate to				
+Cantonese::陳凱詠 x 林家謙 - 隔離	注	zyu 3 to concentrate; to pay attention				
+Cantonese::陳凱詠 x 林家謙 - 隔離	追	zeoi 1 to chase after; to pursue (someone)				
+Cantonese::陳凱詠 x 林家謙 - 隔離	在	zoi 6 to be at; to be in; to be located				
+Cantonese::陳凱詠 x 林家謙 - 隔離	螢	jing 4 firefly				
+Cantonese::陳凱詠 x 林家謙 - 隔離	幕	mok 6 curtain; screen; tent				
+Cantonese::陳凱詠 x 林家謙 - 隔離	裡	leoi 5 (postpositional) in; inside				
+Cantonese::陳凱詠 x 林家謙 - 隔離	牽	hin 1 to think about (someone); to be concerned about				
+Cantonese::陳凱詠 x 林家謙 - 隔離	掛	gwaa 3 to hang; to suspend				
+Cantonese::陳凱詠 x 林家謙 - 隔離	通	tung 1 to pass through; to travel through; to go through; or, to allow passage				
+Cantonese::陳凱詠 x 林家謙 - 隔離	訊	seon 3 information; news				
+Cantonese::陳凱詠 x 林家謙 - 隔離	被	bei 6 by				
+Cantonese::陳凱詠 x 林家謙 - 隔離	限	haan 6 boundary; limit; line				
+Cantonese::陳凱詠 x 林家謙 - 隔離	制	zai 3 to plan; to regulate				
+Cantonese::陳凱詠 x 林家謙 - 隔離	必	bit 1 must; have to; shall				
+Cantonese::陳凱詠 x 林家謙 - 隔離	怕	paa 3 to fear; to be afraid of				
+Cantonese::陳凱詠 x 林家謙 - 隔離	封	fung 1 to close; to seal; to bind				
+Cantonese::陳凱詠 x 林家謙 - 隔離	鎖	so 1 lock				
+Cantonese::陳凱詠 x 林家謙 - 隔離	就	zau 6 then				
+Cantonese::陳凱詠 x 林家謙 - 隔離	放	fong 3 to release; to free				
+Cantonese::陳凱詠 x 林家謙 - 隔離	概	koi 3 general idea				
+Cantonese::陳凱詠 x 林家謙 - 隔離	足	zuk 1 to satisfy; to fulfill				
+Cantonese::陳凱詠 x 林家謙 - 隔離	證	zing 3 to prove; to testify; to verify				
+Cantonese::陳凱詠 x 林家謙 - 隔離	實	sat 6 truth; fact; substance; reality				
+Cantonese::陳凱詠 x 林家謙 - 隔離	情	cing 4 feeling; sentiment; emotion				
+Cantonese::陳凱詠 x 林家謙 - 隔離	傷	soeng 1 wound; injury				
+Cantonese::陳凱詠 x 林家謙 - 隔離	治	zi 6 to treat; to cure (disease)				
+Cantonese::陳凱詠 x 林家謙 - 隔離	理	lei 5 to manage; to run; to handle				
+Cantonese::陳凱詠 x 林家謙 - 隔離	誰	seoi 4 who				
+Cantonese::陳凱詠 x 林家謙 - 隔離	知	zi 1 to know; to understand; to comprehend				
+Cantonese::陳凱詠 x 林家謙 - 隔離	傳	cyun 4 to pass down; to hand down				
+Cantonese::陳凱詠 x 林家謙 - 隔離	時	si 4 time; season				
+Cantonese::陳凱詠 x 林家謙 - 隔離	動	dung 6 to move; to happen				
+Cantonese::陳凱詠 x 林家謙 - 隔離	態	taai 3 condition; state				
+Cantonese::陳凱詠 x 林家謙 - 隔離	定	ding 6 stable; steady; fixed				
+Cantonese::陳凱詠 x 林家謙 - 隔離	直	zik 6 straight; linear; undeviating				
+Cantonese::陳凱詠 x 林家謙 - 隔離	播	bo 3 to broadcast; to spread				
+Cantonese::陳凱詠 x 林家謙 - 隔離	但	daan 6 but; however; yet; still				
+Cantonese::陳凱詠 x 林家謙 - 隔離	清	cing 1 distinct; clear; apparent				
+Cantonese::陳凱詠 x 林家謙 - 隔離	楚	co 2 clear; distinct				
+Cantonese::陳凱詠 x 林家謙 - 隔離	終	zung 1 end; ending; termination				
+Cantonese::陳凱詠 x 林家謙 - 隔離	止	zi 2 to stop; to halt				
+Cantonese::陳凱詠 x 林家謙 - 隔離	交	gaau 1 to hand over; to turn in; to submit				
+Cantonese::陳凱詠 x 林家謙 - 隔離	往	wong 5 past; previous				
+Cantonese::陳凱詠 x 林家謙 - 隔離	更	gang 3 more; further; even more				
+Cantonese::陳凱詠 x 林家謙 - 隔離	快	faai 3 pleased; happy				
+Cantonese::陳凱詠 x 林家謙 - 隔離	樂	lok 6 joyful; happy; glad				
+Cantonese::陳凱詠 x 林家謙 - 隔離	過	gwo 3 to cross; to pass; to go across; to pass through				
+Cantonese::陳凱詠 x 林家謙 - 隔離	退	teoi 3 to step back; to move backwards				
+Cantonese::陳凱詠 x 林家謙 - 隔離	出	ceot 1 to go out				
+Cantonese::陳凱詠 x 林家謙 - 隔離	驚	geng 1 to fear; to be afraid				
+Cantonese::陳凱詠 x 林家謙 - 隔離	訝	ngaa 2 to be surprised; to be astonished				
+Cantonese::陳凱詠 x 林家謙 - 隔離	什	sam 6 miscellaneous; assorted				
+Cantonese::陳凱詠 x 林家謙 - 隔離	反	faan 2 reverse; opposite; contrary; anti-				
+Cantonese::陳凱詠 x 林家謙 - 隔離	效	haau 6 result; effect				
+Cantonese::陳凱詠 x 林家謙 - 隔離	果	gwo 2 result				
+Cantonese::陳凱詠 x 林家謙 - 隔離	隔	gaak 3 to separate; to partition				
+Cantonese::陳凱詠 x 林家謙 - 隔離	籬	lei 4 fence made of bamboo or branches				
+Cantonese::陳凱詠 x 林家謙 - 隔離	很	han 2 very; rather; quite				
+Cantonese::陳凱詠 x 林家謙 - 隔離	想	soeng 2 to think				
+Cantonese::陳凱詠 x 林家謙 - 隔離	搞	gaau 2 to make; to produce				
+Cantonese::陳凱詠 x 林家謙 - 隔離	醉	zeoi 3 to become drunk; to become intoxicated				
+Cantonese::陳凱詠 x 林家謙 - 隔離	喊	haam 3 to shout; to cry; to yell; to howl				
+Cantonese::陳凱詠 x 林家謙 - 隔離	慰	wai 3 to comfort; to console; to calm				
+Cantonese::陳凱詠 x 林家謙 - 隔離	獨	duk 6 alone; single; solitary				
+Cantonese::陳凱詠 x 林家謙 - 隔離	別	bit 6 to distinguish; to differentiate; to discriminate				
+Cantonese::陳凱詠 x 林家謙 - 隔離	麼	mo 1 A suffix for forming pronouns or adverbs (sam mo)				
+Cantonese::陳凱詠 x 林家謙 - 隔離	期	kei 4 to hope; to wish; to expect				
+Cantonese::陳凱詠 x 林家謙 - 隔離	待	doi 6 to wait				
+Cantonese::陳凱詠 x 林家謙 - 隔離	分	fan 1 to divide; to separate				
+Cantonese::陳凱詠 x 林家謙 - 隔離	幾	gei 2 how much; how many				
+Cantonese::陳凱詠 x 林家謙 - 隔離	秒	miu 5 second				
+Cantonese::陳凱詠 x 林家謙 - 隔離	視	si 6 to see; to look; to view				
+Cantonese::陳凱詠 x 林家謙 - 隔離	節	zit 3 festival; celebration; holiday;				
+Cantonese::陳凱詠 x 林家謙 - 隔離	未	mei 6 to have not; not ye				
+Cantonese::陳凱詠 x 林家謙 - 隔離	提	tai 4 to mention; to nominate				
+Cantonese::陳凱詠 x 林家謙 - 隔離	及	kap 6 to reach; to extend to				
+Cantonese::陳凱詠 x 林家謙 - 隔離	每	mui 5 every; each				
+Cantonese::陳凱詠 x 林家謙 - 隔離	晚	maan 5 night				
+Cantonese::陳凱詠 x 林家謙 - 隔離	勉	min 5 to endeavor; to make an effort; to strive				
+Cantonese::陳凱詠 x 林家謙 - 隔離	強	koeng 4 staunch; strong-willed				
+Cantonese::陳凱詠 x 林家謙 - 隔離	全	cyun 4 whole; entire; all				
+Cantonese::陳凱詠 x 林家謙 - 隔離	面	min 6 face				
+Cantonese::陳凱詠 x 林家謙 - 隔離	離	lei 4 to leave, to depart				
+Cantonese::陳凱詠 x 林家謙 - 隔離	線	sin 3 thread				
+Cantonese::陳凱詠 x 林家謙 - 隔離	曾	cang 4 already; ever; once (in the past); previously				
+Cantonese::陳凱詠 x 林家謙 - 隔離	犯	faan 6 to commit (crime), to violate				
+Cantonese::陳凱詠 x 林家謙 - 隔離	錯	co 3 wrong; erroneous; incorrect				
+Cantonese::陳凱詠 x 林家謙 - 隔離	懶	laan 5 lazy; indolent; slothful				
+Cantonese::陳凱詠 x 林家謙 - 隔離	墊	zin 3 pad; cushion; mat				
+Cantonese::陳凱詠 x 林家謙 - 隔離	底	dai 2 bottom; underneath; underside				
+Cantonese::陳凱詠 x 林家謙 - 隔離	回	wui 4 to turn around				
+Cantonese::陳凱詠 x 林家謙 - 隔離	復	fuk 6 to return				
+Cantonese::陳凱詠 x 林家謙 - 隔離	掣	zai 3 button				
+Cantonese::陳凱詠 x 林家謙 - 隔離	無	mou 4 Negation particle preceding verbs and adjectives. not				
+Cantonese::陳凱詠 x 林家謙 - 隔離	廢	fai 3 to waste; to squander				
+Cantonese::陳凱詠 x 林家謙 - 隔離	掉	diu 6 to drop; to fall				
+Cantonese::陳凱詠 x 林家謙 - 隔離	蹤	zung 1 footprint; trace; track				
+Cantonese::陳凱詠 x 林家謙 - 隔離	何	ho 4 what; which; why; how				
+Cantonese::陳凱詠 x 林家謙 - 隔離	苦	fu 2 difficult; painful; hard				
+Cantonese::陳凱詠 x 林家謙 - 隔離	低	dai 1 low (of height)				
+Cantonese::陳凱詠 x 林家謙 - 隔離	盲	maang 4 blind				
+Cantonese::陳凱詠 x 林家謙 - 隔離	目	muk 6 to look; to view; to see				
+Cantonese::陳凱詠 x 林家謙 - 隔離	愛	oi 3 love				
+Cantonese::陳凱詠 x 林家謙 - 隔離	痛	tung 3 to hurt; to cause pain				
+Cantonese::陳凱詠 x 林家謙 - 隔離	著	zoek 3 Particle denoting the success or continuation of an action.				
+Cantonese::陳凱詠 x 林家謙 - 隔離	蹉	co 1 to be frustrated; to be disheartened; to be disappointed				
+Cantonese::陳凱詠 x 林家謙 - 隔離	跎	to 4 to be frustrated; to be disheartened; to be disappointed				
+Cantonese::陳凱詠 x 林家謙 - 隔離	說	syut to say; to speak				
+Cantonese::陳凱詠 x 林家謙 - 隔離	句	geoi 3 sentence; phrase				
+Cantonese::陳凱詠 x 林家謙 - 隔離	再	zoi 3 again; once again				
+Cantonese::陳凱詠 x 林家謙 - 隔離	見	gin 3 to see				
+Cantonese::陳凱詠 x 林家謙 - 隔離	為	wai 6 for; to				
+Cantonese::陳凱詠 x 林家謙 - 隔離	根	gan 1 base; basis; foundation				
+Cantonese::陳凱詠 x 林家謙 - 隔離	本	bun 2 source; origin; root				
+Cantonese::陳凱詠 x 林家謙 - 隔離	斷	tyun 5 to break; to snap				
+Cantonese::陳凱詠 x 林家謙 - 隔離	聯	lyun 4 to connect; to join				
+Cantonese::陳凱詠 x 林家謙 - 隔離	繫	hai 6 to tie; to fasten; to button up				
+Cantonese::陳凱詠 x 林家謙 - 隔離	答	daap 3 to answer; to reply				
+Cantonese::陳凱詠 x 林家謙 - 隔離	解	gai 3 to explain				
+Cantonese::江𤒹生 - 蝸牛	慢	maan 6 slow; sluggish				
+Cantonese::江𤒹生 - 蝸牛	遲	ci 4 late; tardy				
+Cantonese::江𤒹生 - 蝸牛	來	loi 4 to come; to arrive				
+Cantonese::江𤒹生 - 蝸牛	挽	waan 5 to pull back, to draw back				
+Cantonese::江𤒹生 - 蝸牛	留	lau 4 to stay				
+Cantonese::江𤒹生 - 蝸牛	疚	gau 3 guilt; sorrow				
+Cantonese::江𤒹生 - 蝸牛	從	cung 4 through; via; by				
+Cantonese::江𤒹生 - 蝸牛	懂	dung 2 to understand; to comprehend				
+Cantonese::江𤒹生 - 蝸牛	體	tai 2 to put oneself in someone else's position				
+Cantonese::江𤒹生 - 蝸牛	貼	tip 3 to be attached to				
+Cantonese::江𤒹生 - 蝸牛	憂	jau 1 grief; melancholy				
+Cantonese::江𤒹生 - 蝸牛	應	jing 1 should; ought to				
+Cantonese::江𤒹生 - 蝸牛	像	zoeng 6 to resemble; to be like				
+Cantonese::江𤒹生 - 蝸牛	隻	zek 3 Classifier for certain animals				
+Cantonese::江𤒹生 - 蝸牛	蝸	wo 1 terrestrial snail				
+Cantonese::江𤒹生 - 蝸牛	唯	wai 4 only				
+Cantonese::江𤒹生 - 蝸牛	讓	joeng 6 to allow; to let; to permit				
+Cantonese::江𤒹生 - 蝸牛	點	dim 2 a little; a bit; some				
+Cantonese::江𤒹生 - 蝸牛	發	faat 3 to generate; to produce				
+Cantonese::江𤒹生 - 蝸牛	現	jin 6 to appear; to manifest; to become visible				
+Cantonese::江𤒹生 - 蝸牛	慨	koi 2 to rue; to be sad				
+Cantonese::江𤒹生 - 蝸牛	陋	lau 6 plain; ugly				
+Cantonese::江𤒹生 - 蝸牛	習	zaap 6 habit; custom				
+Cantonese::江𤒹生 - 蝸牛	缺	kyut 3 imperfect; flawed				
+Cantonese::江𤒹生 - 蝸牛	改	goi 2 to change; to transform; to alter; to modify				
+Cantonese::江𤒹生 - 蝸牛	自	zi 6 self, oneself; one's own				
+Cantonese::江𤒹生 - 蝸牛	耐	noi 6 to bear; to endure				
+Cantonese::江𤒹生 - 蝸牛	賽	coi 3 competition; contest; race				
+Cantonese::江𤒹生 - 蝸牛	察	caat 3 to examine; to investigate; to notice				
+Cantonese::江𤒹生 - 蝸牛	覺	gok 3 to become aware; to dawn on; to awaken to				
+Cantonese::江𤒹生 - 蝸牛	忍	jan 5 to endure; to bear; to suffer				
+Cantonese::江𤒹生 - 蝸牛	仿	fong 2 to imitate				
+Cantonese::江𤒹生 - 蝸牛	佛	fat 6 Buddha				
+Cantonese::江𤒹生 - 蝸牛	痴	ci 1 foolish; stupid; dumb; silly				
+Cantonese::江𤒹生 - 蝸牛	呆	ngoi 4 dull-minded; simple; stupid				
+Cantonese::江𤒹生 - 蝸牛	空	hung 1 empty; hollow; void				
+Cantonese::江𤒹生 - 蝸牛	白	baak 6 white				
+Cantonese::江𤒹生 - 蝸牛	夾	gaap 3 to squeeze between; to pinch; to clamp; to hold between				
+Cantonese::江𤒹生 - 蝸牛	雜	zaap 6 miscellaneous; mixed				
+Cantonese::江𤒹生 - 蝸牛	慚	caam 4 ashamed; embarrassed				
+Cantonese::江𤒹生 - 蝸牛	愧	kwai 3 ashamed; guilty; conscience-stricken; mortified				
+Cantonese::江𤒹生 - 蝸牛	腦	nou 5 brain				
+Cantonese::江𤒹生 - 蝸牛	袋	doi 6 bag; sack; pouch; pocket				
+Cantonese::江𤒹生 - 蝸牛	才	coi 4 ability; gift; talent; capability				
+Cantonese::江𤒹生 - 蝸牛	洞	dung 6 thorough; penetrating				
+Cantonese::江𤒹生 - 蝸牛	悉	sik 1 to know; to learn; to be informed of				
+Cantonese::江𤒹生 - 蝸牛	醒	sing2 to sober up				
+Cantonese::江𤒹生 - 蝸牛	常	soeng 4 normal; general; common				
+Cantonese::江𤒹生 - 蝸牛	連	lin 4 to link; to join; to connect				
+Cantonese::江𤒹生 - 蝸牛	累	leoi 6 to involve; to implicate; to embroil; to entangle; to hinder				
+Cantonese::江𤒹生 - 蝸牛	由	jau 4 cause; reason				
+Cantonese::江𤒹生 - 蝸牛	借	ze 3 to lend				
+Cantonese::江𤒹生 - 蝸牛	最	zeoi 3 most				
+Cantonese::江𤒹生 - 蝸牛	量	loeng 4 to measure				
+Cantonese::江𤒹生 - 蝸牛	把	baa 2 to hold; to grasp; to take				
+Cantonese::江𤒹生 - 蝸牛	麗	lai 6 beautiful; lovely; pretty; fair; elegant				
+Cantonese::江𤒹生 - 蝸牛	諾	nok 6 to promise				
+Cantonese::江𤒹生 - 蝸牛	言	jin 4 to say; to speak; to talk				
+Cantonese::江𤒹生 - 蝸牛	裝	zong 1 to load; to stack; to cram; to fill				
+Cantonese::江𤒹生 - 蝸牛	載	zoi 3 to carry; to hold; to be loaded with				
+Cantonese::江𤒹生 - 蝸牛	長	coeng 4 long				
+Cantonese::江𤒹生 - 蝸牛	跑	paau 2 to run				
+Cantonese::江𤒹生 - 蝸牛	厭	jim 3 to be fed up with; to grow bored of; to become tired of				
+Cantonese::江𤒹生 - 蝸牛	倦	gyun 6 tired; weary				
+Cantonese::江𤒹生 - 蝸牛	饒	jiu 4 to forgive; to have mercy on				
+Cantonese::江𤒹生 - 蝸牛	恕	syu 3 to forgive; to pardon; to show mercy				
+Cantonese::江𤒹生 - 蝸牛	學	hok 6 to comprehend; to realise; to understand				
+Cantonese::江𤒹生 - 蝸牛	嘆	taan 3 to sigh				
+Cantonese::江𤒹生 - 蝸牛	息	sik 1 to breathe; to pant				
+Cantonese::江𤒹生 - 蝸牛	待	doi 6 to wait				
+Cantonese::江𤒹生 - 蝸牛	薄	bok 6 to approach				
+Cantonese::江𤒹生 - 蝸牛	孤	gu 1 alone; solitary				
+Cantonese::江𤒹生 - 蝸牛	獨	duk 6 alone; single; solitary				
+Cantonese::江𤒹生 - 蝸牛	地	dei 6 earth				
+Cantonese::江𤒹生 - 蝸牛	至	zi 3 extreme; most				
+Cantonese::江𤒹生 - 蝸牛	起	hei 2 to rise; to go up; to move up				
+Cantonese::江𤒹生 - 蝸牛	次	ci 3 order; sequence				
+Cantonese::江𤒹生 - 蝸牛	結	git 3 to end; to finish				
+Cantonese::江𤒹生 - 蝸牛	局	guk 6 part; component				
+Cantonese::江𤒹生 - 蝸牛	睬	coi2 to notice, to pay attention to				
+Cantonese::江𤒹生 - 蝸牛	鈍	deon 6 dull; blunt; not sharp				
+Cantonese::譚詠麟 - 情憑誰來定錯對	寂	zik 6 lonely; solitary				
+Cantonese::譚詠麟 - 情憑誰來定錯對	寞	mok 6 lonely; desolate				
+Cantonese::譚詠麟 - 情憑誰來定錯對	痴	ci 1 foolish; stupid; dumb; silly				
+Cantonese::譚詠麟 - 情憑誰來定錯對	堆	deoi 1 heap; pile; mound				
+Cantonese::譚詠麟 - 情憑誰來定錯對	收	sau 1 to accept; to take in; to admit into				
+Cantonese::譚詠麟 - 情憑誰來定錯對	於	jyu 1 (indicates time or place) in; at; on				
+Cantonese::譚詠麟 - 情憑誰來定錯對	剪	zin 2 to cut (paper, etc.)				
+Cantonese::譚詠麟 - 情憑誰來定錯對	碎	seoi 3 shattered; fragmented; shredded				
+Cantonese::譚詠麟 - 情憑誰來定錯對	濃	nung 4 thick; concentrated				
+Cantonese::譚詠麟 - 情憑誰來定錯對	蜜	mat 6 honey				
+Cantonese::譚詠麟 - 情憑誰來定錯對	冷	laang 5 cold; cool				
+Cantonese::譚詠麟 - 情憑誰來定錯對	默	mak 6 to be silent; to keep quiet; to keep still				
+Cantonese::譚詠麟 - 情憑誰來定錯對	蒼	cong 1 blue; green				
+Cantonese::譚詠麟 - 情憑誰來定錯對	載	zoi 3 to ride; to travel (by); to take				
+Cantonese::譚詠麟 - 情憑誰來定錯對	昔	sik 1 former times; the past; long ago; ancient times				
+Cantonese::譚詠麟 - 情憑誰來定錯對	唏	hei 1 (literary, onomatopoeia) to sigh; to sob				
+Cantonese::譚詠麟 - 情憑誰來定錯對	噓	heoi 1 to sigh; to lament				
+Cantonese::譚詠麟 - 情憑誰來定錯對	迷	mai 4 to get lost				
+Cantonese::譚詠麟 - 情憑誰來定錯對	霧	mou 6 fog; mist				
+Cantonese::譚詠麟 - 情憑誰來定錯對	漸	zim 6 to advance gradually				
+Cantonese::譚詠麟 - 情憑誰來定錯對	散	saan 2 to become loose; to break apart; to fall apart				
+Cantonese::譚詠麟 - 情憑誰來定錯對	逝	sai 6 to pass; to leave; to go off				
+Cantonese::譚詠麟 - 情憑誰來定錯對	顯	hin 2 to appear; to manifest; to display				
+Cantonese::譚詠麟 - 情憑誰來定錯對	崎	kei 4 (literary or Min Nan) steep; precipitous; rugged				
+Cantonese::譚詠麟 - 情憑誰來定錯對	嶇	keoi 1 rugged; rough				
+Cantonese::譚詠麟 - 情憑誰來定錯對	陰	jam 1 cloudy; overcast				
+Cantonese::譚詠麟 - 情憑誰來定錯對	沖	cung 1 to pour water on; to rinse; to flush; to wash				
+Cantonese::譚詠麟 - 情憑誰來定錯對	沉	cam 4 to sink; to submerge (into water)				
+Cantonese::譚詠麟 - 情憑誰來定錯對	憔	ciu 4 (of person) wan and sallow				
+Cantonese::譚詠麟 - 情憑誰來定錯對	悴	seoi 6 sad; distressed; despondent				
+Cantonese::譚詠麟 - 情憑誰來定錯對	陪	pui 4 to keep someone company; to accompany; to go with				
+Cantonese::譚詠麟 - 情憑誰來定錯對	寄	gei 3 to live away from home				
+Cantonese::譚詠麟 - 情憑誰來定錯對	居	geoi 1 house; residence; dwelling				
+Cantonese::譚詠麟 - 情憑誰來定錯對	傾	king 1 (Cantonese) to chat; to converse				
+Cantonese::譚詠麟 - 情憑誰來定錯對	悔	fui 3 to repent; to show remorse; to regret				
+Cantonese::譚詠麟 - 情憑誰來定錯對	消	siu 1 to disappear; to vanish; to die down; to settle down				
+Cantonese::譚詠麟 - 情憑誰來定錯對	告	gou 3 to announce; to declare				
+Cantonese::林奕匡 - 高山低谷	站	zaam 6 to stand				
+Cantonese::林奕匡 - 高山低谷	樹	syu 6 tree				
+Cantonese::林奕匡 - 高山低谷	氧	joeng 5 (chemistry) oxygen				
+Cantonese::林奕匡 - 高山低谷	夕	zik 6 night; evening; dusk				
+Cantonese::林奕匡 - 高山低谷	寥	liu 4 quiet; tranquil; still				
+Cantonese::林奕匡 - 高山低谷	權	kyun 4 power; authority				
+Cantonese::林奕匡 - 高山低谷	谷	guk 1 valley; gorge; ravine				
+Cantonese::林奕匡 - 高山低谷	將	zoeng 1 will; going to				
+Cantonese::林奕匡 - 高山低谷	族	zuk 6 clan; family clan; tribe				
+Cantonese::林奕匡 - 高山低谷	戲	hei 3 to play; to amuse; to have fun				
+Cantonese::林奕匡 - 高山低谷	位	wai 6 position; location				
+Cantonese::林奕匡 - 高山低谷	巔	din 1 summit of mountain; mountain top; peak				
+Cantonese::林奕匡 - 高山低谷	俯	fu 2 to look from above; to overlook; to look down				
+Cantonese::林奕匡 - 高山低谷	瞰	ham 3 overlook				
+Cantonese::林奕匡 - 高山低谷	喘	cyun 2 to pant; to gasp				
+Cantonese::林奕匡 - 高山低谷	侮	mou 5 to insult, ridicule, disgrace				
+Cantonese::林奕匡 - 高山低谷	辱	juk 6 disgrace; shame; discredit				
+Cantonese::林奕匡 - 高山低谷	適	sik 1 to go; to proceed (to a place)				
+Cantonese::林奕匡 - 高山低谷	宜	ji 4 appropriate; suitable; proper				
+Cantonese::林奕匡 - 高山低谷	滯	zai 6 to hold back; to stay (to hinder); to encumber; to impede				
+Cantonese::林奕匡 - 高山低谷	整	zing 2 to fix, to repair				
+Cantonese::林奕匡 - 高山低谷	凌	ling 4 disorderly; messy				
+Cantonese::林奕匡 - 高山低谷	團	tyun 4 group; collective; panel; team; organization				
+Cantonese::林奕匡 - 高山低谷	圓	jyun 4 (mathematics) circle				
+Cantonese::林奕匡 - 高山低谷	程	cing 4 stage of a journey				
+Cantonese::林奕匡 - 高山低谷	愈	jyu 6 more and more; even more				
+Cantonese::林奕匡 - 高山低谷	崖	ngaai 4 cliff; precipice				
+Cantonese::林奕匡 - 高山低谷	園	jyun 4 garden; orchard				
+Cantonese::林奕匡 - 高山低谷	彷	fong 2 to resemble; to be similar				
+Cantonese::林奕匡 - 高山低谷	彿	fat 1 as if; as though				
+Cantonese::林奕匡 - 高山低谷	揮	fai 1 to wipe away to disperse; to scatter				
+Cantonese::林奕匡 - 高山低谷	墮	do 6 to fall; to sink				
+Cantonese::林奕匡 - 高山低谷	播	bo 3 to broadcast; to spread				
+Cantonese::林奕匡 - 高山低谷	區	keoi 1 area; district; region; ward				
+Cantonese::林奕匡 - 高山低谷	嚴	jim 4 strict, rigorous, rigid				
+Cantonese::林奕匡 - 高山低谷	苛	ho 1 harsh; severe; exacting				
+Cantonese::林奕匡 - 高山低谷	尚	soeng 6 still; yet				
+Cantonese::林奕匡 - 高山低谷	偷	tau 1 to steal; to snatch				
+Cantonese::林奕匡 - 高山低谷	魂	wan 4 soul; spirit				
+Cantonese::林奕匡 - 高山低谷	盤	pun 4 tray; plate; dish				
+Cantonese::林奕匡 - 高山低谷	旋	syun 4 to revolve; to turn				
+Cantonese::林奕匡 - 高山低谷	埋	maai 4 to bury; to secrete; to conceal				
+Cantonese::林奕匡 - 高山低谷	藏	cong 4 to store; to lay				
+Cantonese::郭富城 - 愛的呼喚	滲	sam 3 to seep; to infiltrate				
+Cantonese::郭富城 - 愛的呼喚	拾	sap 6 to pick up				
+Cantonese::郭富城 - 愛的呼喚	輕	hing 1 gentle; light; soft				
+Cantonese::郭富城 - 愛的呼喚	喚	wun 6 to call; to summon				
+Cantonese::郭富城 - 愛的呼喚	醒	sing 2 to awaken; to wake up				
+Cantonese::郭富城 - 愛的呼喚	幸	hang 6 fortunate; lucky				
+Cantonese::郭富城 - 愛的呼喚	運	wan 6 fortune; luck; fate				
+Cantonese::郭富城 - 愛的呼喚	落	lok 6 to go down; to descend				
+Cantonese::郭富城 - 愛的呼喚	寞	mok 6 lonely; desolate				
+Cantonese::郭富城 - 愛的呼喚	欣	jan 1 happy; joyous; delighted				
+Cantonese::郭富城 - 愛的呼喚	燃	jin 4 to burn; to be alight				
+Cantonese::郭富城 - 愛的呼喚	熱	jit 6 hot; heated; having a high temperature				
+Cantonese::郭富城 - 愛的呼喚	困	kwan 3 to surround; to besiege				
+Cantonese::郭富城 - 愛的呼喚	折	zit 3 to break off; to snap; to pluck off				
+Cantonese::郭富城 - 愛的呼喚	領	ling 5 to understand				
+Cantonese::郭富城 - 愛的呼喚	略	loek 6 plan; strategy; summary; outline				
+Cantonese::郭富城 - 愛的呼喚	抉	kyut 3 to choose; to select				
+Cantonese::郭富城 - 愛的呼喚	擇	zaak 6 to select; to choose; to pick out				
+Cantonese::郭富城 - 愛的呼喚	諾	nok 6 to promise				
+Cantonese::郭富城 - 愛的呼喚	激	gik 1 to excite; to arouse; to incite; to irritate				
+Cantonese::郭富城 - 愛的呼喚	詩	si 1 poem; verse; ode; poetry				
+Cantonese::郭富城 - 愛的呼喚	篇	pin 1 piece of writing				
+Cantonese::郭富城 - 愛的呼喚	慕	mou 6 to admire; to adore				
+Cantonese::郭富城 - 愛的呼喚	艱	gaan 1 difficult; hard				
+Cantonese::郭富城 - 愛的呼喚	苦	fu 2 bitter				
+Cantonese::郭富城 - 愛的呼喚	陪	pui 4 to keep someone company; to accompany; to go with				
+Cantonese::郭富城 - 愛的呼喚	呼	fu 1 to breathe out; to exhale; to sigh				
+Cantonese::古巨基 - 歡樂今宵	夢	mung 6 dream				
+Cantonese::古巨基 - 歡樂今宵	伊	ji 1 (literary) this; that				
+Cantonese::古巨基 - 歡樂今宵	甸	din 6 suburbs of capital				
+Cantonese::古巨基 - 歡樂今宵	枕	zam 2 pillow				
+Cantonese::古巨基 - 歡樂今宵	差	caa 1 to differ from; to be different; dissimilar; incongruous				
+Cantonese::古巨基 - 歡樂今宵	寸	cyun 3 (units of measure) A cun or Chinese inch, a traditional unit of length of about 3 cm.				
+Cantonese::古巨基 - 歡樂今宵	糾	gau 2 to entwine; to wind				
+Cantonese::古巨基 - 歡樂今宵	纏	cin 4 to wind; to tie; to bind				
+Cantonese::古巨基 - 歡樂今宵	權	kyun 4 power; authority				
+Cantonese::古巨基 - 歡樂今宵	利	lei 6 benefit; advantage				
+Cantonese::古巨基 - 歡樂今宵	后	hau 6 king; ruler; emperor				
+Cantonese::古巨基 - 歡樂今宵	愫	sou 3 guileless, sincere, honest				
+Cantonese::古巨基 - 歡樂今宵	思	si 1 to think; to cogitate				
+Cantonese::古巨基 - 歡樂今宵	末	mut 6 final; the last; concluding; closing; terminal				
+Cantonese::古巨基 - 歡樂今宵	章	zoeng 1 chapter; section				
+Cantonese::古巨基 - 歡樂今宵	翻	faan 1 to reverse; to flip over; to turn over; to toss				
+Cantonese::古巨基 - 歡樂今宵	樣	joeng 6 appearance; form; shape				
+Cantonese::古巨基 - 歡樂今宵	終	zung 1 end; ending; termination				
+Cantonese::古巨基 - 歡樂今宵	極	gik 6 extremely; exceedingly; very				
+Cantonese::古巨基 - 歡樂今宵	敢	gam 2 to dare (to); to venture (to)				
+Cantonese::古巨基 - 歡樂今宵	奇	kei 4 strange; odd; weird; unusual				
+Cantonese::古巨基 - 歡樂今宵	沾	zim 1 to be stained with; to be contaminated by				
+Cantonese::古巨基 - 歡樂今宵	污	wu 1 unclean; dirty; filthy				
+Cantonese::古巨基 - 歡樂今宵	尾	mei 5 end				
+Cantonese::古巨基 - 歡樂今宵	猶	jau 4 to be like; to be just as				
+Cantonese::古巨基 - 歡樂今宵	碰	pung 3 to collide; to bump; to knock; to touch				
+Cantonese::古巨基 - 歡樂今宵	秘	bei 3 mysterious; abstruse; secret				
+Cantonese::古巨基 - 歡樂今宵	密	mat 6 dense; thick; close				
+Cantonese::古巨基 - 歡樂今宵	現	jin 6 present; current				
+Cantonese::古巨基 - 歡樂今宵	揭	kit 3 to raise				
+Cantonese::古巨基 - 歡樂今宵	曉	hiu 2 to know; to understand; to get				
+Cantonese::古巨基 - 歡樂今宵	承	sing 4 to continue; to carry on; to succeed				
+Cantonese::古巨基 - 歡樂今宵	歡	fun 1 happy; pleased; glad				
+Cantonese::古巨基 - 歡樂今宵	宵	siu 1 (Classical Chinese) night, evening				
+Cantonese::古巨基 - 歡樂今宵	飄	piu 1 to drift				
+Cantonese::古巨基 - 歡樂今宵	渺	miu 5 endlessly long; boundless; vast				
+Cantonese::古巨基 - 歡樂今宵	餘	jyu 4 to remain; to have left				
+Cantonese::古巨基 - 歡樂今宵	繞	jiu 2 to entwine				
+Cantonese::古巨基 - 歡樂今宵	愿	jyun 6 honest and prudent				
+Cantonese::古巨基 - 歡樂今宵	距	keoi 5 distance				
+Cantonese::古巨基 - 歡樂今宵	味	mei 6 taste; flavor				
+Cantonese::古巨基 - 歡樂今宵	跳	tiu 3 to jump; to leap; to hop				
+Cantonese::古巨基 - 歡樂今宵	搖	jiu 4 to wag; to swing; to wave				
+Cantonese::古巨基 - 友共情	球	kau 4 ball, globe, orb				
+Cantonese::古巨基 - 友共情	場	coeng 4 open space; field; market				
+Cantonese::古巨基 - 友共情	片	pin 3 film; TV play; photograph; record				
+Cantonese::古巨基 - 友共情	段	dyun 6 Classifier for a distance or a period of time.				
+Cantonese::古巨基 - 友共情	祈	kei 4 pray				
+Cantonese::古巨基 - 友共情	算	syun 3 to count; to calculate; to figure				
+Cantonese::古巨基 - 友共情	遠	jyun 5 distant; remote; far				
+Cantonese::古巨基 - 友共情	刻	hak 1 moment in time				
+Cantonese::古巨基 - 友共情	渴	hot 3 thirsty				
+Cantonese::古巨基 - 友共情	即	zik 1 though; although				
+Cantonese::古巨基 - 友共情	使	si 2 to let; to make; to cause to				
+Cantonese::古巨基 - 友共情	聚	zeoi 6 to congregate				
+Cantonese::古巨基 - 友共情	短	dyun 2 short (of distance)				
+Cantonese::古巨基 - 友共情	許	heoi 2 to allow; to permit				
+Cantonese::古巨基 - 友共情	遷	cin 1 to change; to shift; to transfer				
+Cantonese::古巨基 - 友共情	隨	ceoi 4 to accompany				
+Cantonese::古巨基 - 友共情	雖	seoi 1 although; even if; despite				
+Cantonese::古巨基 - 友共情	耗	hou 3 consume, use up				
+Cantonese::古巨基 - 友共情	損	syun 2 to reduce; to decrease; to cut; to diminish				
+Cantonese::古巨基 - 友共情	扭	nau 2 to wring				
+Cantonese::古巨基 - 友共情	轉	zyun 2 (transitive) to turn; to revolve				
+Cantonese::古巨基 - 友共情	熱	jit 6 hot; heated; having a high temperature				
+Cantonese::古巨基 - 友共情	暖	nyun 5 warm; toasty				
+Cantonese::古巨基 - 友共情	純	seon 4 pure, clean, simple				
+Cantonese::林奕匡 - 高山低谷	站	zaam 6 to stand				
+Cantonese::林奕匡 - 高山低谷	樹	syu 6 tree				
+Cantonese::林奕匡 - 高山低谷	氧	joeng 5 (chemistry) oxygen				
+Cantonese::林奕匡 - 高山低谷	夕	zik 6 night; evening; dusk				
+Cantonese::林奕匡 - 高山低谷	寥	liu 4 quiet; tranquil; still				
+Cantonese::林奕匡 - 高山低谷	權	kyun 4 power; authority				
+Cantonese::林奕匡 - 高山低谷	谷	guk 1 valley; gorge; ravine				
+Cantonese::林奕匡 - 高山低谷	將	zoeng 1 will; going to				
+Cantonese::林奕匡 - 高山低谷	族	zuk 6 clan; family clan; tribe				
+Cantonese::林奕匡 - 高山低谷	戲	hei 3 to play; to amuse; to have fun				
+Cantonese::林奕匡 - 高山低谷	位	wai 6 position; location				
+Cantonese::林奕匡 - 高山低谷	巔	din 1 summit of mountain; mountain top; peak				
+Cantonese::林奕匡 - 高山低谷	俯	fu 2 to look from above; to overlook; to look down				
+Cantonese::林奕匡 - 高山低谷	瞰	ham 3 overlook				
+Cantonese::林奕匡 - 高山低谷	喘	cyun 2 to pant; to gasp				
+Cantonese::林奕匡 - 高山低谷	侮	mou 5 to insult, ridicule, disgrace				
+Cantonese::林奕匡 - 高山低谷	辱	juk 6 disgrace; shame; discredit				
+Cantonese::林奕匡 - 高山低谷	適	sik 1 to go; to proceed (to a place)				
+Cantonese::林奕匡 - 高山低谷	宜	ji 4 appropriate; suitable; proper				
+Cantonese::林奕匡 - 高山低谷	滯	zai 6 to hold back; to stay (to hinder); to encumber; to impede				
+Cantonese::林奕匡 - 高山低谷	整	zing 2 to fix, to repair				
+Cantonese::林奕匡 - 高山低谷	凌	ling 4 disorderly; messy				
+Cantonese::林奕匡 - 高山低谷	團	tyun 4 group; collective; panel; team; organization				
+Cantonese::林奕匡 - 高山低谷	圓	jyun 4 (mathematics) circle				
+Cantonese::林奕匡 - 高山低谷	程	cing 4 stage of a journey				
+Cantonese::林奕匡 - 高山低谷	愈	jyu 6 more and more; even more				
+Cantonese::林奕匡 - 高山低谷	崖	ngaai 4 cliff; precipice				
+Cantonese::林奕匡 - 高山低谷	園	jyun 4 garden; orchard				
+Cantonese::林奕匡 - 高山低谷	彷	fong 2 to resemble; to be similar				
+Cantonese::林奕匡 - 高山低谷	彿	fat 1 as if; as though				
+Cantonese::林奕匡 - 高山低谷	揮	fai 1 to wipe away to disperse; to scatter				
+Cantonese::林奕匡 - 高山低谷	墮	do 6 to fall; to sink				
+Cantonese::林奕匡 - 高山低谷	播	bo 3 to broadcast; to spread				
+Cantonese::林奕匡 - 高山低谷	區	keoi 1 area; district; region; ward				
+Cantonese::林奕匡 - 高山低谷	嚴	jim 4 strict, rigorous, rigid				
+Cantonese::林奕匡 - 高山低谷	苛	ho 1 harsh; severe; exacting				
+Cantonese::林奕匡 - 高山低谷	尚	soeng 6 still; yet				
+Cantonese::林奕匡 - 高山低谷	偷	tau 1 to steal; to snatch				
+Cantonese::林奕匡 - 高山低谷	魂	wan 4 soul; spirit				
+Cantonese::林奕匡 - 高山低谷	盤	pun 4 tray; plate; dish				
+Cantonese::林奕匡 - 高山低谷	旋	syun 4 to revolve; to turn				
+Cantonese::林奕匡 - 高山低谷	埋	maai 4 to bury; to secrete; to conceal				
+Cantonese::林奕匡 - 高山低谷	藏	cong 4 to store; to lay				
+Cantonese::梁漢文 - 七友	論	leon 6 to discuss; to reason; to debate; to argue				
+Cantonese::梁漢文 - 七友	振	zan 3 raise, excite, arouse action				
+Cantonese::梁漢文 - 七友	慰	wai 3 to comfort; to console; to calm				
+Cantonese::梁漢文 - 七友	解	gaai 2 to explain				
+Cantonese::梁漢文 - 七友	儘	zeon 2 utmost; extreme; furthest				
+Cantonese::梁漢文 - 七友	講	gong 2 to say; to talk; to speak				
+Cantonese::梁漢文 - 七友	淪	leon 4 to sink (into ruin), decline, fall				
+Cantonese::梁漢文 - 七友	利	lei 6 benefit; advantage				
+Cantonese::梁漢文 - 七友	轉	zyun 2 to turn; to revolve				
+Cantonese::梁漢文 - 七友	換	wun 6 to change; to swap; to switch; to substitute				
+Cantonese::梁漢文 - 七友	成	sing 4 to succeed				
+Cantonese::梁漢文 - 七友	抵	dai 2 (Cantonese) to deserve				
+Cantonese::梁漢文 - 七友	操	cou 1 to conduct				
+Cantonese::梁漢文 - 七友	照	ziu 3 to shine upon; to illuminate				
+Cantonese::梁漢文 - 七友	顧	gu 3 to regard; to concern				
+Cantonese::梁漢文 - 七友	溫	wan 1 tepid; mild; soft; tender; gentle				
+Cantonese::梁漢文 - 七友	柔	jau 4 gentle; pliant				
+Cantonese::梁漢文 - 七友	救	gau 3 to save; to rescu				
+Cantonese::梁漢文 - 七友	激	gik 1 drastic; radical; extreme				
+Cantonese::梁漢文 - 七友	忠	zung 1 loyal; devoted; faithful				
+Cantonese::梁漢文 - 七友	誠	sing 4 sincere, honest; true				
+Cantonese::梁漢文 - 七友	狗	gau 2 dog				
+Cantonese::梁漢文 - 七友	憂	jau 1 sad; grieved				
+Cantonese::梁漢文 - 七友	愁	sau 4 anxiety; sadness				
+Cantonese::梁漢文 - 七友	甜	tim 4 sweet				
+Cantonese::梁漢文 - 七友	蜜	mat 6 honey				
+Cantonese::梁漢文 - 七友	語	yu 3 speech; language				
+Cantonese::梁漢文 - 七友	告	gou 3 to announce; to declare				
+Cantonese::梁漢文 - 七友	訴	sou 3 to tell; to relate; to inform				
+Cantonese::梁漢文 - 七友	新	san 1 new; fresh				
+Cantonese::梁漢文 - 七友	透	tau 3 to penetrate; to pass through				
+Cantonese::梁漢文 - 七友	完	jyun 4 whole; complete				
+Cantonese::梁漢文 - 七友	務	mou 6 to seek; to pursue				
+Cantonese::梁漢文 - 七友	喝	hot 6 to shout; to call out				
+Cantonese::梁漢文 - 七友	采	coi 2 expression; spirit				
+Cantonese::梁漢文 - 七友	謂	wai 6 to say; to tell; to call				
+Cantonese::梁漢文 - 七友	搭	daap 3 to lay, to pile up				
+Cantonese::梁漢文 - 七友	檯	toi 4 table; desk				
+Cantonese::梁漢文 - 七友	怪	gwaai 3 to blame someone, to put the blame on				
+Cantonese::梁漢文 - 七友	虐	joek 6 to abuse; to maltreat				
+Cantonese::梁漢文 - 七友	讚	zaan 3 to praise; to commend; to eulogize				
+Cantonese::梁漢文 - 七友	徬	pong 4 to walk back and forth; to roam around				
+Cantonese::梁漢文 - 七友	徨	wong 4 to walk back and forth; to roam around				
+Cantonese::梁漢文 - 七友	刻	hak 1 moment in time				
+Cantonese::梁漢文 - 七友	彩	coi 2 luck; fortune				
+Cantonese::梁漢文 - 七友	認	jing 6 to recognize; to know; to understand; to acknowledge				
+Cantonese::梁漢文 - 七友	扮	baan 6 to act, to play				
+Cantonese::梁漢文 - 七友	矮	ai 2 (of stature) short				
+Cantonese::梁漢文 - 七友	傻	so 4 foolish; silly; stupid				
+Cantonese::梁漢文 - 愛與情	論	leon 6 to discuss; to reason; to debate; to argue				
+Cantonese::梁漢文 - 愛與情	限	haan 6 boundary; limit; line				
+Cantonese::梁漢文 - 愛與情	積	zik 1 to accumulate; to amass; to store; to gather				
+Cantonese::梁漢文 - 愛與情	愉	jyu 4 happy; pleased; delightful				
+Cantonese::梁漢文 - 愛與情	痕	han 4 mark; trace				
+Cantonese::梁漢文 - 愛與情	跡	zik 1 footprint; trace; mark				
+Cantonese::梁漢文 - 愛與情	關	gwaan 1 to concern; to implicate; to relate to				
+Cantonese::梁漢文 - 愛與情	注	zyu 3 to concentrate; to pay attention				
+Cantonese::梁漢文 - 愛與情	據	geoi 3 to occupy; to take possession of				
+Cantonese::梁漢文 - 愛與情	漫	maan 6 free, casual, unrestrained; impromptu				
+Cantonese::梁漢文 - 愛與情	奈	noi 6 to bear; to stand; to endure				
+Cantonese::梁漢文 - 愛與情	設	cit 3 to plan; to design				
+Cantonese::梁漢文 - 愛與情	張	zoeng 1 to stretch; to open up; to spread				
+Cantonese::張敬軒 - 俏郎君	畢	bat 1 to end; to finish; to conclude				
+Cantonese::張敬軒 - 俏郎君	服	fuk 6 to submit; to agree; to accept; to obey				
+Cantonese::張敬軒 - 俏郎君	則	zak 1 rule; law; regulation				
+Cantonese::張敬軒 - 俏郎君	爭	zang 1 to contend				
+Cantonese::張敬軒 - 俏郎君	吵	caau 2 to argue; to dispute				
+Cantonese::張敬軒 - 俏郎君	慣	gwaan 3 to be accustomed to; to be used to				
+Cantonese::張敬軒 - 俏郎君	諒	loeng 6 to forgive; to sympathise				
+Cantonese::張敬軒 - 俏郎君	纏	cin 4 to wind; to tie; to bind				
+Cantonese::張敬軒 - 俏郎君	綿	min 4 soft, downy				
+Cantonese::張敬軒 - 俏郎君	番	faan 1 Classifier for the number of times an action has been performed: turn; time				
+Cantonese::張敬軒 - 俏郎君	義	ji 6 right conduct; righteousness; justice; morality				
+Cantonese::張敬軒 - 俏郎君	衝	cung 1 to go straight ahead; to rush; to charge; to dash				
+Cantonese::張敬軒 - 俏郎君	沖	cung 1 to pour water on; to rinse; to flush; to wash				
+Cantonese::張敬軒 - 俏郎君	淡	taam 5 (of food) bland; tasteless				
+Cantonese::張敬軒 - 俏郎君	渡	dou 6 (figuratively) to pull through (difficult times)				
+Cantonese::張敬軒 - 俏郎君	劫	gip 3 disaster; calamity; catastrophe				
+Cantonese::張敬軒 - 俏郎君	慘	caam 2 miserable; pitiful; wretched				
+Cantonese::張敬軒 - 俏郎君	褊	bin 2 (literary) narrow-minded; lacking in experience				
+Cantonese::張敬軒 - 俏郎君	袒	taan 2 bare; to strip oneself naked to the waist				
+Cantonese::張敬軒 - 俏郎君	謬	mau 6 false; wrong; erroneous				
+Cantonese::張敬軒 - 俏郎君	鬥	dau 3 to fight, to struggle				
+Cantonese::張敬軒 - 俏郎君	裝	zong 1 style of dress				
+Cantonese::張敬軒 - 俏郎君	妥	to 5 appropriate; suitable				
+Cantonese::張敬軒 - 俏郎君	協	hip 3 to cooperate; to work together; to collaborate				
+Cantonese::張敬軒 - 俏郎君	善	sin 6 good, virtuous, charitable, kind				
+Cantonese::張敬軒 - 俏郎君	試	si 3 to test; to try; to experiment				
+Cantonese::張敬軒 - 俏郎君	遷	cin 1 to ascend; to go up (to)				
+Cantonese::張敬軒 - 俏郎君	就	zau 6 to comply; to follow; to accept				
+Cantonese::張敬軒 - 俏郎君	悟	ng 6 to realize; to become aware; to awaken; to apprehend				
+Cantonese::張敬軒 - 俏郎君	價	gaa 3 price; cost				
+Cantonese::張敬軒 - 俏郎君	值	zik 6 price				
+Cantonese::張敬軒 - 俏郎君	溝	kau 1 ditch; drain; narrow waterway				
+Cantonese::張敬軒 - 俏郎君	齣	ceot 1 Classifier for films and TV shows.				
+Cantonese::張敬軒 - 俏郎君	誇	kwaa 1 to boast; to exaggerate				
+Cantonese::張敬軒 - 俏郎君	侶	leoi 5 companion				
+Cantonese::張敬軒 - 俏郎君	偏	pin 1 partial; biased; prejudiced; unjust				
+Cantonese::張敬軒 - 俏郎君	仗	zoeng 3 war; battle				
+Cantonese::張敬軒 - 俏郎君	決	kyut 3 to decide; to determine				
+Cantonese::張敬軒 - 俏郎君	擇	zaak 6 to select; to choose; to pick out				
+Cantonese::張敬軒 - 俏郎君	輪	leon 4 to take turns				
+Cantonese::張敬軒 - 俏郎君	構	kau 3 to fabricate; to make up				
+Cantonese::張敬軒 - 俏郎君	劇	kek 6 theatrical work; play; opera; drama				
+Cantonese::張敬軒 - 俏郎君	哀	oi 1 grief; sorrow				
+Cantonese::張敬軒 - 俏郎君	廝	si 1 mutually				
+Cantonese::張敬軒 - 俏郎君	守	sau 2 to defend; to protect; to guard; to conserve; to watch				
+Cantonese::張敬軒 - 俏郎君	隱	jan 2 hidden; concealed				
+Cantonese::張敬軒 - 俏郎君	憂	jau 1 grief; melancholy				
+Cantonese::張敬軒 - 俏郎君	恐	hung 2 to fear; to be afraid				
+Cantonese::張敬軒 - 俏郎君	怕	paa 3 to fear; to be afraid of; to dread				
+Cantonese::張敬軒 - 俏郎君	既	gei 3 already				
+Cantonese::張敬軒 - 俏郎君	究	gau 3 to reach the end or limit; to exhaust				
+Cantonese::張敬軒 - 俏郎君	祝	zuk 1 to offer good wishes				
+Cantonese::張敬軒 - 俏郎君	邂	haai 5 to run into somebody by chance (usually pleasantly); to encounter coincidentally				
+Cantonese::張敬軒 - 俏郎君	逅	hau 6 to run into somebody by chance (usually pleasantly); to encounter coincidentally				
+Cantonese::張敬軒 - 俏郎君	志	zi 3 will; determination; aspiration; ambition				
+Cantonese::張敬軒 - 俏郎君	認	jing 6 to recognize; to know; to understand; to acknowledge				
+Cantonese::張敬軒 - 俏郎君	兼	gim 1 to do two or more things simultaneously; to hold two or more posts at the same time				
+Cantonese::張敬軒 - 俏郎君	俏	ciu 3 pretty; handsome; smart				
+Cantonese::張敬軒 - 俏郎君	郎	long 4 (historical) an official's title				
+Cantonese::張敬軒 - 俏郎君	君	gwan 1 sovereign; monarch; ruler; chief; prince; lord				
+Cantonese::張敬軒 - 俏郎君	敬	ging 3 to respect; to honor				
+Cantonese::張敬軒 - 俏郎君	軒	hin 1 high; lofty; airy				
+Cantonese::林子祥 - 分分鐘需要你	揸	zaa 1 to drive a vehicle				
+Cantonese::林子祥 - 分分鐘需要你	箭	zin 3 arrow; rocket				
+Cantonese::林子祥 - 分分鐘需要你	帶	daai 3 to take; to bring along; to carry				
+Cantonese::林子祥 - 分分鐘需要你	歲	seoi 3 age				
+Cantonese::林子祥 - 分分鐘需要你	般	bun 1 sort; kind; class				
+Cantonese::林子祥 - 分分鐘需要你	趣	ceoi 3 interest; delight				
+Cantonese::林子祥 - 分分鐘需要你	戚	cik 1 relative				
+Cantonese::林子祥 - 分分鐘需要你	冧	lam 1 to topple over; to fall over				
+Cantonese::林子祥 - 分分鐘需要你	崩	bang 1 to collapse				
+Cantonese::林子祥 - 分分鐘需要你	翻	faan 1 to reverse; to flip over; to turn over; to toss				
+Cantonese::林子祥 - 分分鐘需要你	睇	tai 2 to look; to see; to view; to watch				
+Cantonese::林子祥 - 分分鐘需要你	乜	mat 1 anything; everything				
+Cantonese::林子祥 - 分分鐘需要你	稱	cing 3 satisfactory				
+Cantonese::林子祥 - 分分鐘需要你	鹹	haam 4 salty; briny				
+Cantonese::林子祥 - 分分鐘需要你	聚	zeoi 6 to congregate				
+Cantonese::林子祥 - 分分鐘需要你	鐘	zung 1 clock				
+Cantonese::林子祥 - 分分鐘需要你	靚	leng 3 pretty; beautiful				
+Cantonese::林子祥 - 分分鐘需要你	皆	gaai 1 all; every; everybody				
+Cantonese::林子祥 - 分分鐘需要你	癲	din 1 crazy; nuts; mad				
+Cantonese::林子祥 - 分分鐘需要你	甘	gam 1 sweet				
+Cantonese::林子祥 - 分分鐘需要你	傻	so 4 foolish; silly; stupid				
+Cantonese::林子祥 - 分分鐘需要你	猩	sing 1 gorilla				
+Cantonese::林子祥 - 分分鐘需要你	若	joek 6 if; supposing; assuming				
+Cantonese::林子祥 - 分分鐘需要你	左	zo 2 left (direction)				
+Cantonese::林子祥 - 分分鐘需要你	島	dou 2 island				
+Cantonese::林子祥 - 分分鐘需要你	假	gaa 2 forged; artificial; false				
+Cantonese::林子祥 - 分分鐘需要你	戲	hei 3 theatrical play; show; theater; opera				
+Cantonese::張學友 - 等你等到我心痛	麗	lai 6 beautiful; lovely; pretty; fair; elegant				
+Cantonese::張學友 - 等你等到我心痛	碎	seoi 3 shattered; fragmented; shredded				
+Cantonese::張學友 - 等你等到我心痛	侶	leoi 5 companion				
+Cantonese::張學友 - 等你等到我心痛	透	tau 3 to penetrate; to pass through				
+Cantonese::張學友 - 等你等到我心痛	請	cing 2 to ask for; to request				
+Cantonese::張學友 - 等你等到我心痛	窩	wo 1 nest				
+Cantonese::張學友 - 等你等到我心痛	佔	zim 3 to occupy; to possess				
+Cantonese::張學友 - 等你等到我心痛	據	geoi 3 to occupy; to take possession of				
+Cantonese::張學友 - 等你等到我心痛	星	sing 1 star; planet; heavenly body				
+Cantonese::張學友 - 等你等到我心痛	伴	bun 6 to accompany				
+Cantonese::張學友 - 等你等到我心痛	癡	ci 1 foolish; stupid; dumb; silly				
+Cantonese::張學友 - 等你等到我心痛	眼	ngaan 5 (anatomy) eye				
+Cantonese::張學友 - 等你等到我心痛	眶	hong 1 eye socket				
+Cantonese::張學友 - 等你等到我心痛	漸	zim 6 to advance gradually				
+Cantonese::張學友 - 等你等到我心痛	引	jan 5 to pull, draw out, attract				
+Cantonese::張學友 - 等你等到我心痛	消	siu 1 to disappear; to vanish; to die down; to settle down				
+Cantonese::張學友 - 等你等到我心痛	棄	hei 3 to abandon; to discard; to reject				
+Cantonese::張學友 - 等你等到我心痛	吹	ceoi 1 to blow				
+Cantonese::張學友 - 等你等到我心痛	送	sung 3 to see someone off				
+Cantonese::張學友 - 等你等到我心痛	凍	dung 3 cold; (of weather) chilly				
+Cantonese::張學友 - 等你等到我心痛	漠	mok 6 desert				
+Cantonese::張學友 - 等你等到我心痛	始	ci 2 to begin; to start				
+Cantonese::張學友 - 等你等到我心痛	寂	zik 6 lonely				
+Cantonese::張學友 - 等你等到我心痛	寥	liu 4 lonely				
+Cantonese::張學友 - 等你等到我心痛	愁	sau 4 to worry about; to be anxious				
+Cantonese::張學友 - 等你等到我心痛	各	gok 3 each; every				
+Cantonese::張學友 - 等你等到我心痛	堆	deoi 1 heap; pile; mound				
+Cantonese::張學友 - 每天愛你多一些	突	dat 6 suddenly; abruptly; unexpectedly				
+Cantonese::張學友 - 每天愛你多一些	夜	je 6 night				
+Cantonese::張學友 - 每天愛你多一些	深	sam 1 (of distance) deep				
+Cantonese::張學友 - 每天愛你多一些	奔	ban 1 to run fast; to rush about				
+Cantonese::張學友 - 每天愛你多一些	波	bo 1 (Cantonese) ball				
+Cantonese::張學友 - 每天愛你多一些	後	hau 6 behind; rear; back				
+Cantonese::張學友 - 每天愛你多一些	望	mong 6 to see; to watch (especially from a distance) quotations ▼				
+Cantonese::張學友 - 每天愛你多一些	凡	faan 4 ordinary; commonplace				
+Cantonese::張學友 - 每天愛你多一些	找	zaau 2 to look for; to seek				
+Cantonese::張學友 - 每天愛你多一些	根	gan 1 base; basis; foundation				
+Cantonese::張學友 - 每天愛你多一些	蒂	tai 3 peduncle or stem of plants				
+Cantonese::張學友 - 每天愛你多一些	永	wing 5 perpetual; eternal; permanent; forever				
+Cantonese::張學友 - 每天愛你多一些	枯	fu 1 (of muscle) withered; decayed				
+Cantonese::張學友 - 每天愛你多一些	萎	wai 2 to wither; to wilt				
+Cantonese::張學友 - 每天愛你多一些	醉	zeoi 3 to become drunk; to become intoxicated				
+Cantonese::張學友 - 每天愛你多一些	者	ze 2 (agent suffix) -er; -ist; one who ...; person involved in; the things which				
+Cantonese::張學友 - 每天愛你多一些	滿	mun 5 full; filled; packed				
+Cantonese::張學友 - 每天愛你多一些	瀉	se 3 to pour out; to flow rapidly; to pour down				
+Cantonese::張學友 - 每天愛你多一些	編	pin 1 to write; to compose; to author; to compile; to edit				
+Cantonese::張學友 - 每天愛你多一些	寫	se 2 to write (with a pen, brush, etc.); to write down				
+Cantonese::張學友 - 每天愛你多一些	懼	geoi 6 to fear; to be afraid				
+Cantonese::張學友 - 每天愛你多一些	斜	ce 4 tilted; sloping; inclined; oblique; slanting				
+Cantonese::張學友 - 每天愛你多一些	然	jin 4 so; thus; in this manner; like this				
+Cantonese::張學友 - 每天愛你多一些	財	coi 4 wealth; valuables; riches; money				
+Cantonese::張學友 - 每天愛你多一些	滋	zi 1 taste				
+Cantonese::張學友 - 每天愛你多一些	味	mei 6 taste, flavor				
+Cantonese::張學友 - 你的名字我的姓氏	聽	ting 1 to listen; to hear; to listen to				
+Cantonese::張學友 - 你的名字我的姓氏	尋	cam 4 to seek; to search; to look for				
+Cantonese::張學友 - 你的名字我的姓氏	覓	mik 6 to hunt for; to search for; to seek				
+Cantonese::張學友 - 你的名字我的姓氏	與	jyu 5 and (used to connect two nouns)				
+Cantonese::張學友 - 你的名字我的姓氏	重	cung 5 heavy				
+Cantonese::張學友 - 你的名字我的姓氏	聚	zeoi 6 to congregate				
+Cantonese::張學友 - 你的名字我的姓氏	程	cing 4 procedure; process; course				
+Cantonese::張學友 - 你的名字我的姓氏	跟	gan 1 to follow				
+Cantonese::張學友 - 你的名字我的姓氏	平	ping 4 level; even; flat				
+Cantonese::張學友 - 你的名字我的姓氏	靜	zing 6 quiet; silent; devoid of noise				
+Cantonese::張學友 - 你的名字我的姓氏	旅	leoi 5 journey; trip				
+Cantonese::張學友 - 你的名字我的姓氏	並	bing 6 Used before a negative for emphasis; actually; in fact				
+Cantonese::張學友 - 你的名字我的姓氏	驚	ging 1 to fear; to be afraid				
+Cantonese::張學友 - 你的名字我的姓氏	動	dung 6 to move; to touch (emotionally)				
+Cantonese::張學友 - 你的名字我的姓氏	魄	paak 3 soul; spirit				
+Cantonese::張學友 - 你的名字我的姓氏	境	ging 2 condition; situation				
+Cantonese::張學友 - 你的名字我的姓氏	需	seoi 1 to need; to require				
+Cantonese::張學友 - 你的名字我的姓氏	當	dong 1 just; just at (a time or place); at or in the very same				
+Cantonese::張學友 - 你的名字我的姓氏	競	ging 6 to contend; to vie; to compete				
+Cantonese::張學友 - 你的名字我的姓氏	逐	zuk 6 to chase; to pursue				
+Cantonese::張學友 - 你的名字我的姓氏	躺	tong 2 to lie; to recline				
+Cantonese::張學友 - 你的名字我的姓氏	於	jyu 1 (indicates time or place) in; at; on				
+Cantonese::張學友 - 你的名字我的姓氏	寫	se 2 to write (with a pen, brush, etc.); to write down				
+Cantonese::張學友 - 你的名字我的姓氏	意	ji 3 thought; idea; opinion; mind				
+Cantonese::張學友 - 你的名字我的姓氏	迴	wui 4 to revolve; to rotate				
+Cantonese::張學友 - 你的名字我的姓氏	腸	coeng 4 (figuratively) heart; emotions				
+Cantonese::張學友 - 你的名字我的姓氏	盪	dong 6 to cleanse; to wash away				
+Cantonese::張學友 - 你的名字我的姓氏	姓	sing 3 surname; family name; clan name				
+Cantonese::張學友 - 你的名字我的姓氏	氏	si 6 clan; family; lineage; hereditary house				
+Cantonese::張學友 - 你的名字我的姓氏	成	sing 4 to finish; to complete				
+Cantonese::張學友 - 你的名字我的姓氏	故	gu 3 old; of the past				
+Cantonese::張學友 - 你的名字我的姓氏	此	ci 2 (literary) this				
+Cantonese::張學友 - 你的名字我的姓氏	憂	jau 1 grief; melancholy				
+Cantonese::張學友 - 你的名字我的姓氏	求	kau 4 to beg; to request; to implore				
+Cantonese::張學友 - 你的名字我的姓氏	淡	daam 6 indifferent; cold				
+Cantonese::張學友 - 你的名字我的姓氏	經	ging 1 to go through; to experience				
+Cantonese::張學友 - 你的名字我的姓氏	謂	wai 6 to say; to tell; to call				
+Cantonese::張學友 - 你的名字我的姓氏	閒	haan 4 not busy; idle				
+Cantonese::張學友 - 你的名字我的姓氏	話	waa 6 speech;talk				
+Cantonese::張學友 - 你的名字我的姓氏	細	sai 3 (literary, Cantonese, Hakka, Min) small; tiny; little				
+Cantonese::張學友 - 你的名字我的姓氏	盡	zeon 6 to end; to finish				
+Cantonese::張學友 - 你的名字我的姓氏	昏	fan 1 dusk; nightfall; twilight; dark				
+Cantonese::張學友 - 你的名字我的姓氏	髮	faat 3 (anatomy) hair				
+Cantonese::張學友 - 你的名字我的姓氏	亦	jik 6 also; too; likewise				
+Cantonese::張學友 - 你的名字我的姓氏	得	dak 1 to get; to obtain; to gain, to acquire				
+Cantonese::張學友 - 你的名字我的姓氏	青	cing 1 young; adolescent				
+Cantonese::張學友 - 你的名字我的姓氏	信	seon 3 trust; confidence; faith				
+Cantonese::張學友 - 你的名字我的姓氏	荒	fong 1 wasteland, desert				
+Cantonese::張學友 - 你的名字我的姓氏	合	hap 6 to join; to combine; to unite; to bring together				
+Cantonese::張學友 - 你的名字我的姓氏	老	lou 5 old; aged; elderly				
+Cantonese::張學友 - 你的名字我的姓氏	竟	ging 2 finally, after all, at last				
+Cantonese::張學友 - 你的名字我的姓氏	擁	jung 2 to embrace; to hug someone				
+Cantonese::張學友 - 你的名字我的姓氏	怎	zam 2 how; why				
+Cantonese::張學友 - 你的名字我的姓氏	童	tung 4 child				
+Cantonese::張學友 - 你的名字我的姓氏	對	deoi 3 pair				
+Cantonese::張學友 - 你的名字我的姓氏	邊	bin 1 edge; border; side				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	抱	pou 5 to hug; to embrace				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	怨	jyun 3 to resent; to hate				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	累	leoi 5 to pile up; to heap up; to mount up; to accumulate				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	束	cuk 1 to bind; to tie up				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	縛	bok 3 to tie, to bind				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	熟	suk 6 (of fruits, etc.) ripe				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	負	fu 6 to carry (on the back); to bear (a burden or responsibility)				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	淚	leoi 6 tear; teardrop				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	犧	hei 1 sacrifice				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	牲	saang 1 sacrificial animal				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	挽	waan 5 to pull back, to draw back				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	救	gau 3 to aid; to support				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	餘	jyu 4 to remain; to have left				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	爭	zaang 1 to dispute; to fight				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	取	ceoi 2 to get; to obtain				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	資	zi 1 money; fund; wealth; capital				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	格	gaak 3 (literary, or in compounds) special property; personality; character				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	獻	hin 3 to offer, to present				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	奉	fung 6 to offer (tribute)				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	纏	cin 4 to wind; to tie; to bind				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	允	wan 5 fair; just; equitable; even-handed; impartial				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	受	sau 6 to bear; to stand				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	困	kwan 3 to surround; to besiege				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	虧	kwai 1 to lose; to suffer losses				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	欠	him 3 to owe				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	釋	sik 1 to explain; to elucidate				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	須	seoi 1 must; have to; should				
+Cantonese::許靖韻 x 林奕匡 - 別為我好	佔	zim 3 to occupy; to possess				
+Cantonese::岑寧兒 - 勿念	霎	saap 3 instant; moment				
+Cantonese::岑寧兒 - 勿念	堂	tong 4 class; lesson				
+Cantonese::岑寧兒 - 勿念	駕	gaa 3 to drive; to sail; to fly				
+Cantonese::岑寧兒 - 勿念	至	zi 3 to reach; to arrive				
+Cantonese::岑寧兒 - 勿念	撞	zong 6 to hit; to bump against; to strike; to run into; to collide				
+Cantonese::岑寧兒 - 勿念	悄	ciu 2 quiet; silent				
+Cantonese::岑寧兒 - 勿念	落	lok 6 to fall; to drop				
+Cantonese::岑寧兒 - 勿念	久	gau 2 (of time) long				
+Cantonese::岑寧兒 - 勿念	爾	ji 5 (literary) this; that				
+Cantonese::岑寧兒 - 勿念	旁	pong 4 side; beside; close by				
+Cantonese::岑寧兒 - 勿念	聖	sing 3 holy; sacred				
+Cantonese::岑寧兒 - 勿念	誕	daan 3 birth; birthday				
+Cantonese::岑寧兒 - 勿念	思	si 1 to think; to cogitate				
+Cantonese::岑寧兒 - 勿念	鄉	hoeng 1 countryside; country; rural area				
+Cantonese::岑寧兒 - 勿念	鴛	jyun 1 male mandarin duck				
+Cantonese::岑寧兒 - 勿念	鴦	joeng 1 female mandarin duck				
+Cantonese::岑寧兒 - 勿念	像	zoeng 6 to resemble; to be like				
+Cantonese::岑寧兒 - 勿念	閉	bai 3 to shut; to close				
+Cantonese::岑寧兒 - 勿念	睛	zing 1 eyeball				
+Cantonese::岑寧兒 - 勿念	稀	hei 1 sparse				
+Cantonese::岑寧兒 - 勿念	薄	bok 6 thin (not thick); flimsy				
+Cantonese::岑寧兒 - 勿念	則	zak 1 Classifier for news, writings, stories, or narratives: item				
+Cantonese::岑寧兒 - 勿念	聞	man 4 news; message				
+Cantonese::岑寧兒 - 勿念	皺	zau 3 wrinkle; crease; fold				
+Cantonese::岑寧兒 - 勿念	眉	mei 4 eyebrow				
+Cantonese::岑寧兒 - 勿念	遙	jiu 4 distant; far away				
+Cantonese::岑寧兒 - 勿念	期	kei 4 to arrange a time; to engage; to arrange to meet				
+Cantonese::岑寧兒 - 勿念	窗	coeng 1 window				
+Cantonese::岑寧兒 - 勿念	墨	mak 6 Chinese ink or ink in general				
+Cantonese::岑寧兒 - 勿念	適	sik 1 fitting; proper; suitable; appropriate				
+Cantonese::岑寧兒 - 勿念	季	gwai 3 season of the year				
+Cantonese::岑寧兒 - 勿念	慣	gwaan 3 to be accustomed to; to be used to				
+Cantonese::岑寧兒 - 勿念	備	bei 6 to prepare				
+Cantonese::岑寧兒 - 勿念	周	zau 1 week				
+Cantonese::岑寧兒 - 勿念	搬	bun 1 to move (house)				
+Cantonese::岑寧兒 - 勿念	景	ging 2 bright; luminous				
+Cantonese::岑寧兒 - 勿念	觀	gun 1 sight; view; perspective				
+Cantonese::岑寧兒 - 勿念	隨	ceoi 4 to follow				
+Cantonese::岑寧兒 - 勿念	飄	piu 1 to drift				
+Cantonese::岑寧兒 - 勿念	蕩	dong 6 to sway; to swing				
+Cantonese::岑寧兒 - 勿念	端	dyun 1 beginning; start				
+Cantonese::岑寧兒 - 勿念	疑	ji 4 to doubt; to question				
+Cantonese::岑寧兒 - 勿念	遷	cin 1 to ascend; to go up (to)				
+Cantonese::岑寧兒 - 勿念	唸	nim 6 to read aloud				
+Cantonese::蘇永康 - 不想獨自快樂	借	ze 3 to lend				
+Cantonese::蘇永康 - 不想獨自快樂	故	gu 3 old; of the past				
+Cantonese::蘇永康 - 不想獨自快樂	親	can 1 intimate; bosom; closely acquainted; beloved; dear				
+Cantonese::蘇永康 - 不想獨自快樂	臉	lim 5 (anatomy) face				
+Cantonese::蘇永康 - 不想獨自快樂	溺	nik 6 to drown				
+Cantonese::蘇永康 - 不想獨自快樂	氛	fan 1 atmosphere; miasma; vapor				
+Cantonese::蘇永康 - 不想獨自快樂	追	zeoi 1 to chase after; to pursue (someone)				
+Cantonese::蘇永康 - 不想獨自快樂	打	daa 2 to hit; to strike; to slap				
+Cantonese::蘇永康 - 不想獨自快樂	煙	jin 1 smoke; mist; vapour				
+Cantonese::蘇永康 - 不想獨自快樂	音	jam 1 sound; voice; tone				
+Cantonese::蘇永康 - 不想獨自快樂	陽	joeng 4 sun				
+Cantonese::蘇永康 - 不想獨自快樂	黃	wong 4 yellow (colour)				
+Cantonese::蘇永康 - 不想獨自快樂	奮	fan 5 to arouse; to stimulate				
+Cantonese::蘇永康 - 不想獨自快樂	望	mong 6 to see; to watch (especially from a distance)				
+Cantonese::蘇永康 - 不想獨自快樂	遼	liu 4 distant; far				
+Cantonese::蘇永康 - 不想獨自快樂	闊	fut 3 broad; wide				
+Cantonese::蘇永康 - 不想獨自快樂	放	fong 3 to release; to free; to liberate; to let out; to let go				
+Cantonese::蘇永康 - 不想獨自快樂	負	fu 6 load, burden, to rely on				
+Cantonese::蘇永康 - 不想獨自快樂	君	gwan 1 sovereign; monarch; ruler; chief; prince; lord				
+Cantonese::蘇永康 - 不想獨自快樂	盼	paan 3 to hope for; to long for; to expect; to look forward to				
+Cantonese::蘇永康 - 不想獨自快樂	伴	bun 6 to accompany				
+Cantonese::蘇永康 - 不想獨自快樂	享	hoeng 2 to enjoy				
+Cantonese::蘇永康 - 不想獨自快樂	審	sam 2 to examine; to investigate				
+Cantonese::蘇永康 - 不想獨自快樂	慎	san 6 prudent; cautious; careful				
+Cantonese::蘇永康 - 不想獨自快樂	夜	je 6 night				
+Cantonese::蘇永康 - 不想獨自快樂	靜	zing 6 quiet; silent; devoid of noise				
+Cantonese::蘇永康 - 不想獨自快樂	神	san 6 spirit; soul; mind				
+Cantonese::蘇永康 - 不想獨自快樂	輕	hing 1 easy; simple; relaxed				
+Cantonese::蘇永康 - 不想獨自快樂	鬆	sung 1 to loosen; to relax				
+Cantonese::蘇永康 - 不想獨自快樂	繁	faan 4 complicated				
+Cantonese::蘇永康 - 不想獨自快樂	囂	hiu 1 loud; noisy				
+Cantonese::蘇永康 - 不想獨自快樂	市	si 5 city; town				
+Cantonese::蘇永康 - 不想獨自快樂	空	hung 1 empty; hollow; void				
+Cantonese::蘇永康 - 不想獨自快樂	泛	faan 3 superficial; non-specific				
+Cantonese::蘇永康 - 不想獨自快樂	迷	mai 4 to get lost				
+Cantonese::蘇永康 - 不想獨自快樂	擔	daam 3 to bear; to shoulder; to undertake				
+Cantonese::蘇永康 - 不想獨自快樂	習	zaap 6 habit; custom				
+Cantonese::蘇永康 - 不想獨自快樂	慣	gwaan 3 to be accustomed to; to be used to				
+Cantonese::泳兒 Vincy - 所有遺失的東西	晏	aan 3 late; near the end of a period of time				
+Cantonese::泳兒 Vincy - 所有遺失的東西	晝	zau 3 daytime; day; daylight				
+Cantonese::泳兒 Vincy - 所有遺失的東西	掩	jim 2 to cover; to conceal; to hide				
+Cantonese::泳兒 Vincy - 所有遺失的東西	蓋	koi 3 to cover; to conceal				
+Cantonese::泳兒 Vincy - 所有遺失的東西	瓦	ngaa 5 earthenware; earthenware pottery				
+Cantonese::泳兒 Vincy - 所有遺失的東西	礫	lik 1 gravel; pebbles; potsherds				
+Cantonese::泳兒 Vincy - 所有遺失的東西	偏	pin 1 inclined on one side; slanting; askew				
+Cantonese::泳兒 Vincy - 所有遺失的東西	依	ji 1 to rely on; to depend on				
+Cantonese::泳兒 Vincy - 所有遺失的東西	靈	ling 4 soul; spirit				
+Cantonese::泳兒 Vincy - 所有遺失的東西	撕	si 1 to shred; to tear				
+Cantonese::泳兒 Vincy - 所有遺失的東西	塵	can 4 dust; dirt; ashes; cinders				
+Cantonese::泳兒 Vincy - 所有遺失的東西	埃	oi 1 fine dust, dirt				
+Cantonese::泳兒 Vincy - 所有遺失的東西	遺	wai 4 to lose; to lose track of				
+Cantonese::泳兒 Vincy - 所有遺失的東西	蕩	dong 6 to sway; to swing				
+Cantonese::泳兒 Vincy - 所有遺失的東西	淃	gyun 6 haven				
+Cantonese::泳兒 Vincy - 所有遺失的東西	暗	am 3 dark (without light); dim				
+Cantonese::泳兒 Vincy - 所有遺失的東西	聚	zeoi 6 to congregate				
+Cantonese::泳兒 Vincy - 所有遺失的東西	散	saan 2 to become loose; to break apart; to fall apart				
+Cantonese::泳兒 Vincy - 所有遺失的東西	教	gaau 3 to teach; to instruct				
+Cantonese::泳兒 Vincy - 所有遺失的東西	導	dou 6 to direct; to guide; to lead; to conduct				
+Cantonese::泳兒 Vincy - 所有遺失的東西	鋪	pou 1 to spread out; to arrange				
+Cantonese::泳兒 Vincy - 所有遺失的東西	泳	wing 6 to swim				
+Cantonese::泳兒 Vincy - 所有遺失的東西	兒	ji 4 child				
+Cantonese::MC 張天賦 - 時候不早	忐	taan 2 perturbed; nervous; uneasy; fidgety				
+Cantonese::MC 張天賦 - 時候不早	忑	tik 1 perturbed; nervous; uneasy; fidgety				
+Cantonese::MC 張天賦 - 時候不早	嘴	zeoi 2 (anatomy) mouth				
+Cantonese::MC 張天賦 - 時候不早	須	seoi 1 must; have to; should				
+Cantonese::MC 張天賦 - 時候不早	遊	jau 4 to travel; to tour				
+Cantonese::MC 張天賦 - 時候不早	歷	lik 6 to experience; to go through; to undergo				
+Cantonese::MC 張天賦 - 時候不早	冒	mou 6 to risk; to brave; to face				
+Cantonese::MC 張天賦 - 時候不早	險	him 2 danger; hazard; peril; risk				
+Cantonese::MC 張天賦 - 時候不早	烙	lok 3 to brand; to mark on livestock with hot metallic object				
+Cantonese::MC 張天賦 - 時候不早	臨	lam 4 to be faced with; to be confronted by				
+Cantonese::MC 張天賦 - 時候不早	趣	ceoi 3 interest; delight				
+Cantonese::MC 張天賦 - 時候不早	禱	tou 2 to pray				
+Cantonese::MC 張天賦 - 時候不早	般	bun 1 sort; kind; class				
+Cantonese::MC 張天賦 - 時候不早	偕	gaai 1 to accompany; together; in company				
+Cantonese::MC 張天賦 - 時候不早	換	wun 6 to change; to swap; to switch; to substitute				
+Cantonese::MC 張天賦 - 時候不早	患	waan 6 to contract (an illness); to gain; to suffer from; to be afflicted with				
+Cantonese::MC 張天賦 - 時候不早	病	beng 6 illness; sickness; disease				
+Cantonese::MC 張天賦 - 時候不早	偏	pin 1 partial; biased; prejudiced; unjust				
+Cantonese::MC 張天賦 - 時候不早	熱	jit 6 hot; heated; having a high temperature				
+Cantonese::MC 張天賦 - 時候不早	淚	leoi 6 tear; teardrop				
+Cantonese::MC 張天賦 - 時候不早	賦	fu 3 to bestow upon; to give				
+Cantonese::MC 張天賦 - 時候不早	興	hing 1 to thrive; to prosper; to flourish				
+Cantonese::MC 張天賦 - 時候不早	與	jyu 5 to agree; to allow; to permit				
+Cantonese::MC 張天賦 - 時候不早	更	gang 3 more; further; even more				
+Cantonese::MC 張天賦 - 時候不早	便	bin 6 even if; even though				
+Cantonese::林家謙 - 下一位前度	哭	huk 1 to weep; to cry; to wail				
+Cantonese::林家謙 - 下一位前度	若	joek 6 like; as if				
+Cantonese::林家謙 - 下一位前度	滄	cong 1 (literary) vast (of water)				
+Cantonese::林家謙 - 下一位前度	桑	song 1 mulberry tree				
+Cantonese::林家謙 - 下一位前度	史	si 1 history				
+Cantonese::林家謙 - 下一位前度	怕	paa 3 to fear; to be afraid of				
+Cantonese::林家謙 - 下一位前度	根	gan 1 base; basis; foundation				
+Cantonese::林家謙 - 下一位前度	撫	fu 2 to console; to comfort				
+Cantonese::林家謙 - 下一位前度	摸	mo 2 to touch; to feel (with the hand); to caress				
+Cantonese::林家謙 - 下一位前度	刺	ci 3 a pointed structure which is able to pierce something (spike, spine, thorn, etc.)				
+Cantonese::林家謙 - 下一位前度	灼	coek 3 to burn				
+Cantonese::林家謙 - 下一位前度	極	gik 6 extreme; of the highest degree; utmost; furthest; final				
+Cantonese::林家謙 - 下一位前度	致	zi 3 to cause; to result in				
+Cantonese::林家謙 - 下一位前度	難	naan 4 difficult; hard; troublesome				
+Cantonese::林家謙 - 下一位前度	真	zan 1 true; genuine; real; actual				
+Cantonese::林家謙 - 下一位前度	總	zung 2 overall; altogether				
+Cantonese::林家謙 - 下一位前度	將	zoeng 1 will; going to				
+Cantonese::林家謙 - 下一位前度	瑣	so 2 petty; trivial; insignificant				
+Cantonese::林家謙 - 下一位前度	堅	gin 1 resolute				
+Cantonese::林家謙 - 下一位前度	持	ci 4 to sustain; to support				
+Cantonese::林家謙 - 下一位前度	智	zi 3 wisdom; knowledge; intelligence				
+Cantonese::林家謙 - 下一位前度	結	git 3 to end; to finish				
+Cantonese::林家謙 - 下一位前度	束	cuk 1 end				
+Cantonese::林家謙 - 下一位前度	始	ci 2 to begin; to start				
+Cantonese::林家謙 - 下一位前度	許	heoi 2 to allow; to permit				
+Cantonese::林家謙 - 下一位前度	鍾	zung 1 to concentrate one's love or attention				
+Cantonese::林家謙 - 下一位前度	害	hoi 6 to harm; to maim; to injure				
+Cantonese::林家謙 - 下一位前度	諷	fung 3 to satirise; to mock; to ridicule				
+Cantonese::林家謙 - 下一位前度	愉	jyu 4 happy; pleased; delightful				
+Cantonese::林家謙 - 下一位前度	釋	sik 1 to release				
+Cantonese::林家謙 - 下一位前度	懷	waai 4 to harbor in one's mind; to keep in mind				
+Cantonese::林家謙 - 下一位前度	覆	fuk 1 to return				
+Cantonese::林家謙 - 下一位前度	捱	ngaai 4 to suffer				
+Cantonese::林家謙 - 下一位前度	涯	ngaai 4 limit; boundary; margin				
+Cantonese::林家謙 - 下一位前度	首	sau 2 (anatomy) head				
+Cantonese::林家謙 - 下一位前度	罷	baa 6 to cease; to finish; to stop				
+Cantonese::林家謙 - 下一位前度	憾	ham6 regret				
+Cantonese::林家謙 - 下一位前度	單	daan 1 single; individual; solitary				
+Cantonese::林家謙 - 下一位前度	身	san 1 (anatomy) body				
+Cantonese::林家謙 - 下一位前度	加	gaa 1 to add; to put in				
+Cantonese::林家謙 - 下一位前度	否	fau 2 nay; no; negative				
+Cantonese::林家謙 - 下一位前度	精	zing 1 clear; bright				
+Cantonese::林家謙 - 下一位前度	彩	coi 2 variegated colors; rich and bright colors				
+Cantonese::林家謙 - 下一位前度	續	zuk 6 to continue; to carry on				
+Cantonese::林家謙 - 下一位前度	複	fuk 1 to repeat; to double; to overlap				
+Cantonese::林家謙 - 下一位前度	識	sik 1 to know; to realise; to be aware				
+Cantonese::林家謙 - 下一位前度	竟	ging 2 to finish; to end				
+Cantonese::林家謙 - 下一位前度	已	ji 5 already; have done something				
+Cantonese::林家謙 - 下一位前度	先	sin 1 first; ahead of time; before; beforehand				
+Cantonese::林家謙 - 下一位前度	鼓	gu 2 (music) drum				
+Cantonese::林家謙 - 下一位前度	捨	se 2 to abandon				
+Cantonese::林家謙 - 下一位前度	勇	jung 5 brave				
+Cantonese::林家謙 - 下一位前度	放	fong 3 to release; to free; to liberate; to let out; to let go				
+Cantonese::林家謙 - 下一位前度	志	zi 3 will; determination; aspiration; ambition				
+Cantonese::林家謙 - 下一位前度	找	zaau 2 to look for; to seek				
+Cantonese::林家謙 - 下一位前度	順	seon 6 to follow; to go along with				
+Cantonese::林家謙 - 下一位前度	序	zeoi 6 order; sequence				
+Cantonese::林家謙 - 下一位前度	遇	jyu 6 to meet; to come across; to encounter				
+Cantonese::林家謙 - 下一位前度	漫	maan 4 free, casual, unrestrained; impromptu				
+Cantonese::林家謙 - 下一位前度	步	bou 6 to walk; to stroll				
+Cantonese::林家謙 - 下一位前度	從	cung 4 to follow; to come after				
+Cantonese::林家謙 - 下一位前度	容	jung 4 to allow; to permit				
+Cantonese::林家謙 - 下一位前度	算	syun 3 to count; to calculate; to figure				
+Cantonese::林家謙 - 下一位前度	記	gei 3 to keep in mind; remember				
+Cantonese::林家謙 - 下一位前度	媲	bei 2 to compare				
+Cantonese::林家謙 - 下一位前度	麻	maa 4 numb; senseless				
+Cantonese::林家謙 - 下一位前度	純	seon 4 pure, clean, simple				
+Cantonese::林家謙 - 下一位前度	熟	suk 6 familiar with; well-acquainted with				
+Cantonese::林家謙 - 一人之境	派	paai 3 to hand out; to distribute				
+Cantonese::林家謙 - 一人之境	凝	jing 4 to focus; to concentrate				
+Cantonese::林家謙 - 一人之境	伴	bun 6 companion				
+Cantonese::林家謙 - 一人之境	臉	lim 5 (anatomy) face				
+Cantonese::林家謙 - 一人之境	奏	zau 3 (literary, or in compounds) beat; meter; rhythm				
+Cantonese::林家謙 - 一人之境	搖	jiu 4 to wag; to swing; to wave				
+Cantonese::林家謙 - 一人之境	盪	dong 6 to toss; to swing; to rock				
+Cantonese::林家謙 - 一人之境	寂	zik 6 still; silent; quiet				
+Cantonese::林家謙 - 一人之境	寞	mok 6 lonely; desolate				
+Cantonese::林家謙 - 一人之境	散	saan 2 natural and restrained; at ease				
+Cantonese::林家謙 - 一人之境	丁	ding 1 robust; vigorous				
+Cantonese::林家謙 - 一人之境	寡	gwaa 2 alone; friendless				
+Cantonese::林家謙 - 一人之境	拆	caak 3 to take apart; to dismantle				
+Cantonese::林家謙 - 一人之境	交	gaau 1 to hand over; to turn in; to submit				
+Cantonese::林家謙 - 一人之境	結	git 3 knot; tie				
+Cantonese::林家謙 - 一人之境	網	mong 5 net; web				
+Cantonese::林家謙 - 一人之境	佔	zim 3 to occupy; to possess				
+Cantonese::林家謙 - 一人之境	朗	long 5 clear; bright				
+Cantonese::林家謙 - 一人之境	泥	nai 4 dirt				
+Cantonese::林家謙 - 一人之境	數	sou 2 to count; to enumerate				
+Cantonese::林家謙 - 一人之境	腳	goek 3 (anatomy) foot				
+Cantonese::林家謙 - 一人之境	印	jan 3 trace; mark; sign				
+Cantonese::林家謙 - 一人之境	現	jin 6 to appear; to manifest; to become visible				
+Cantonese::林家謙 - 一人之境	裂	lit 6 to crack; to break open				
+Cantonese::林家謙 - 一人之境	痕	han 4 mark; trace				
+Cantonese::林家謙 - 一人之境	修	sau 1 to repair; to mend				
+Cantonese::林家謙 - 一人之境	補	bou 2 to mend; to repair; to fix				
+Cantonese::林家謙 - 一人之境	嵌	ham 6 to embed; to imbed; to fix deeply and firmly				
+Cantonese::林家謙 - 一人之境	聲	sing 1 sound; noise; voice				
+Cantonese::林家謙 - 一人之境	音	jam 1 sound; voice; tone				
+Cantonese::林家謙 - 一人之境	軟	jyun 5 soft; flexible; pliable				
+Cantonese::林家謙 - 一人之境	禁	gam 1 to bear; to endure				
+Cantonese::林家謙 - 一人之境	興	hing 1 to thrive; to prosper; to flourish				
+Cantonese::林家謙 - 一人之境	沉	cam 4 to sink; to submerge (into water)				
+Cantonese::林家謙 - 一人之境	默	mak 6 to be silent; to keep quiet; to keep still				
+Cantonese::林家謙 - 一人之境	呼	fu 1 to breathe out; to exhale; to sigh				
+Cantonese::林家謙 - 一人之境	訪	fong 2 to visit				
+Cantonese::林家謙 - 一人之境	俯	fu 2 to look from above; to overlook; to look down				
+Cantonese::林家謙 - 一人之境	瞰	ham 3 to overlook (a city, surroundings, etc.); to look down at; to get a bird's-eye view				
+Cantonese::林家謙 - 一人之境	顆	fo 2 Classifier for small round objects				
+Cantonese::林家謙 - 一人之境	幽	jau 1 hidden; concealed				
+Cantonese::林家謙 - 一人之境	嶺	ling 5 mountain ridge				
+Cantonese::林家謙 - 一人之境	乾	gon 1 dry; moistureless; waterless; arid				
+Cantonese::林家謙 - 一人之境	罐	gun 3 can; jar; tin				
+Cantonese::林家謙 - 一人之境	汽	hei 3 steam, vapor, gas				
+Cantonese::林家謙 - 一人之境	息	sik 1 to breathe; to pant				
+Cantonese::林家謙 - 一人之境	懶	laan 5 lazy; indolent; slothful				
+Cantonese::林家謙 - 一人之境	沿	jyun 4 to follow a course, go along				
+Cantonese::林家謙 - 一人之境	亮	loeng 6 bright; brilliant; radiant				
+Cantonese::林家謙 - 一人之境	街	gaai 1 street				
+Cantonese::林家謙 - 一人之境	燈	dang 1 lamp; light; lantern (for illumination)				
+Cantonese::林家謙 - 一人之境	撫	fu 2 to stroke; to caress				
+Cantonese::林家謙 - 一人之境	綻	zaan 6 to burst open, to split				
+Cantonese::林家謙 - 一人之境	冀	kei 3 to look forward to; to hope for; to wish				
+Cantonese::林家謙 - 一人之境	浮	fau 4 to float				
+Cantonese::林家謙 - 一人之境	雲	wan 4 cloud				
+Cantonese::林家謙 - 一人之境	幻	waan 6 mystical; mysterious				
+Cantonese::林家謙 - 一人之境	變	bin 3 to change (by itself); to transform				
+Cantonese::林家謙 - 一人之境	案	on 3 law case; case				
+Cantonese::林家謙 - 一人之境	領	ling 5 to lead; to guide				
+Cantonese::林家謙 - 一人之境	雪	syut 3 snow				
+Cantonese::林家謙 - 一人之境	觀	gun 1 to observe; to watch; to view; to see				
+Cantonese::林家謙 - 一人之境	泡	paau 1 bubble				
+Cantonese::林家謙 - 一人之境	影	ying 2 shadow				
+Cantonese::林家謙 - 一人之境	共	gung 6 together				
+Cantonese::林家謙 - 一人之境	鳴	ming 4 to cry (of birds, animals and insects)				
+Cantonese::林家謙 - 一人之境	種	zung 2 kind; sort; type				
+Cantonese::林家謙 - 一人之境	謙	him 1 humble				
+Cantonese::林家謙 - 在空中的這一秒	創	cong 3 to found; to create; to establish				
+Cantonese::林家謙 - 在空中的這一秒	種	zung 3 to grow; to plant; to cultivate				
+Cantonese::林家謙 - 在空中的這一秒	組	zou 2 group; team				
+Cantonese::林家謙 - 在空中的這一秒	鐵	tit 3 iron				
+Cantonese::林家謙 - 在空中的這一秒	宿	sau 3 constellation				
+Cantonese::林家謙 - 在空中的這一秒	土	tou 2 earth; soil				
+Cantonese::林家謙 - 在空中的這一秒	勁	ging 6 powerful; strong				
+Cantonese::林家謙 - 在空中的這一秒	吸	kap 1 to suck (in)				
+Cantonese::林家謙 - 在空中的這一秒	逐	zuk 6 to chase; to pursue				
+Cantonese::林家謙 - 在空中的這一秒	速	cuk 1 speedy; quick; fast				
+Cantonese::林家謙 - 在空中的這一秒	確	kok 3 real; true				
+Cantonese::林家謙 - 在空中的這一秒	候	hau 6 to wait for; to await				
+Cantonese::林家謙 - 在空中的這一秒	耳	ji 5 ear				
+Cantonese::林家謙 - 在空中的這一秒	緲	miu 5 fleeting				
+Cantonese::林家謙 - 在空中的這一秒	甘	gam 1 to be willing to				
+Cantonese::林家謙 - 在空中的這一秒	掌	zoeng 2 palm of hand				
+Cantonese::林家謙 - 在空中的這一秒	遍	pin 3 Classifier for occurrences of events.				
+Cantonese::林家謙 - 在空中的這一秒	斗	dau 2 A dipper or cup-like object				
+Cantonese::林家謙 - 在空中的這一秒	任	jam 6 to indulge; to be self-indulgent; to allow				
+Cantonese::林家謙 - 在空中的這一秒	揮	fai 1 to squander				
+Cantonese::林家謙 - 在空中的這一秒	罷	baa 6 to cease; to finish; to stop				
+Cantonese::林家謙 - 在空中的這一秒	咎	gau 3 fault; defect; error; mistake				
+Cantonese::林家謙 - 在空中的這一秒	料	liu 6 to anticipate; to predict; to foresee; to expect				
+Cantonese::林家謙 - 在空中的這一秒	恆	hang 4 constant; regular; persistent				
+Cantonese::林家謙 - 在空中的這一秒	毋	mou 4 do not, don't				
+Cantonese::林家謙 - 在空中的這一秒	庸	jung 4 to need				
+Cantonese::林家謙 - 在空中的這一秒	浮	fau 4 to float				
+Cantonese::林家謙 - 在空中的這一秒	掠	loek 6 to sweep through				
+Cantonese::林家謙 - 在空中的這一秒	漩	syun 4 eddy, whirlpool				
+Cantonese::林家謙 - 在空中的這一秒	渦	wo 4 whirlpool; eddy; vortex				
+Cantonese::林家謙 - 在空中的這一秒	剎	saat 3 brief moment; short moment				
+Cantonese::林家謙 - 在空中的這一秒	泛	faan 3 to spread out; to be suffused with				
+Cantonese::林家謙 - 在空中的這一秒	遺	wai 4 to forget; to fail to remember				
+Cantonese::林家謙 - 在空中的這一秒	憾	ham 6 to regret; to pity				
+Cantonese::林家謙 - 在空中的這一秒	曉	hiu 2 dawn; daybreak				
+Cantonese::林家謙 - 在空中的這一秒	釋	sik 1 to release				
+Cantonese::林家謙 - 在空中的這一秒	謙	him 1 humble; modest				
+Cantonese::林家謙 - 時光倒流一句話	逆	jik 6 opposite				
+Cantonese::林家謙 - 時光倒流一句話	超	ciu 1 super-; hyper-; ultra-				
+Cantonese::林家謙 - 時光倒流一句話	撥	but 6 to distribute; to allocate (resources, staff, etc); to set aside (money)				
+Cantonese::林家謙 - 時光倒流一句話	春	ceon 1 spring (season)				
+Cantonese::林家謙 - 時光倒流一句話	勤	kan 4 industrious; diligent; attentive				
+Cantonese::林家謙 - 時光倒流一句話	勞	lou 4 to toil; to do manual labour				
+Cantonese::林家謙 - 時光倒流一句話	忙	mong 4 busy; bustling				
+Cantonese::林家謙 - 時光倒流一句話	展	zin 2 to exhibit; to display				
+Cantonese::林家謙 - 時光倒流一句話	緣	jyun 4 lucky chance; fate; serendipity				
+Cantonese::林家謙 - 時光倒流一句話	預	jyu 6 beforehand				
+Cantonese::林家謙 - 時光倒流一句話	趁	can 3 to take advantage of (time, opportunity, etc); to avail oneself of				
+Cantonese::林家謙 - 時光倒流一句話	疫	jik 6 epidemic; plague; pestilence				
+Cantonese::林家謙 - 時光倒流一句話	症	zing 3 disease; illness				
+Cantonese::林家謙 - 時光倒流一句話	猖	coeng 1 rampant; running wild; unchecked; unrestrained				
+Cantonese::林家謙 - 時光倒流一句話	獗	kyut 3 rampant; running wild; unchecked; unrestrained				
+Cantonese::林家謙 - 時光倒流一句話	秋	cau 1 autumn; fall				
+Cantonese::林家謙 - 時光倒流一句話	邀	jiu 1 to solicit; to seek				
+Cantonese::林家謙 - 時光倒流一句話	約	joek 3 to make an appointment; to arrange				
+Cantonese::林家謙 - 時光倒流一句話	洛	lok 3 Luo River, a tributary of the Yellow River.				
+Cantonese::林家謙 - 時光倒流一句話	磯	gei 1 (of waves) to pound against a rock				
+Cantonese::林家謙 - 時光倒流一句話	瑙	nou 5 second part of Danube				
+Cantonese::林家謙 - 時光倒流一句話	休	jau 1 to rest; to relax				
+Cantonese::林家謙 - 時光倒流一句話	充	cung 1 to fill				
+Cantonese::林家謙 - 時光倒流一句話	電	din 6 electricity				
+Cantonese::林家謙 - 時光倒流一句話	親	can 1 intimate; bosom; closely acquainted; beloved; dear				
+Cantonese::林家謙 - 時光倒流一句話	暱	nik 1 intimate, close, familiar				
+Cantonese::林家謙 - 時光倒流一句話	豁	kut 3 open; clear; open-minded				
+Cantonese::林家謙 - 時光倒流一句話	免	min 5 to release; to set free				
+Cantonese::林家謙 - 時光倒流一句話	異	ji 6 to distinguish; to separate				
+Cantonese::林家謙 - 時光倒流一句話	扭	nau 2 to twist; to wring				
+Cantonese::林家謙 - 時光倒流一句話	曲	kuk 1 not straight; bent				
+Cantonese::林家謙 - 時光倒流一句話	溫	wan 1 warm (of temperature)				
+Cantonese::林家謙 - 時光倒流一句話	柔	jau 4 gentle; pliant				
+Cantonese::林家謙 - 時光倒流一句話	接	zip 3 to receive				
+Cantonese::林家謙 - 時光倒流一句話	尷	gaam 1 embarrassed				
+Cantonese::林家謙 - 時光倒流一句話	尬	gaai 3 embarrassed				
+Cantonese::林家謙 - 時光倒流一句話	吞	tan 1 to swallow				
+Cantonese::林家謙 - 時光倒流一句話	讀	duk 6 to read aloud; to read out				
+Cantonese::林家謙 - 時光倒流一句話	計	gai 3 to calculate; to count				
+Cantonese::林家謙 - 時光倒流一句話	提	tai 4 to carry; to lift				
+Cantonese::林家謙 - 時光倒流一句話	阻	zo 2 to impede, to hinder, to block, to obstruct				
+Cantonese::林家謙 - 時光倒流一句話	止	zi 2 to stop; to halt				
+Cantonese::林家謙 - 時光倒流一句話	台	toi 1 lines (of an actor or performer)				
+Cantonese::林家謙 - 時光倒流一句話	詞	ci 4 lines (of an actor or performer)				
+Cantonese::林家謙 - 時光倒流一句話	若	joek 6 if; supposing; assuming				
+Cantonese::林家謙 - 時光倒流一句話	誼	ji 4 friendship				
+Cantonese::林家謙 - 時光倒流一句話	恐	hung 2 to fear; to be afraid				
+Cantonese::林家謙 - 時光倒流一句話	易	ji 6 easy; simple; not difficult				
+Cantonese::林家謙 - 時光倒流一句話	洗	sai 2 to wash; to rinse				
+Cantonese::林家謙 - 時光倒流一句話	守	sau 2 to defend; to protect; to guard; to conserve; to watch				
+Cantonese::林家謙 - 時光倒流一句話	良	loeng 4 good				
+Cantonese::林家謙 - 時光倒流一句話	置	zi 3 to establish; to set up; to install				
+Cantonese::林家謙 - 時光倒流一句話	演	jin 2 to perform; to act; to put on				
+Cantonese::林家謙 - 時光倒流一句話	另	ling 6 in addition, besides				
+Cantonese::林家謙 - 時光倒流一句話	笨	ban 6 stupid; foolish; silly; slow-witted				
+Cantonese::林家謙 - 時光倒流一句話	搞	gaau 2 to do (usually bad things)				
+Cantonese::林家謙 - 時光倒流一句話	表	biu 2 external; outside; superficial				
+Cantonese::林家謙 - 時光倒流一句話	謬	mau 6 false; wrong; erroneous				
+Cantonese::林家謙 - 時光倒流一句話	題	tai 4 question; quiz; problem				
+Cantonese::林家謙 - 時光倒流一句話	狠	han 2 vicious, cruel				
+Cantonese::林家謙 - 時光倒流一句話	厚	hau 5 thick				
+Cantonese::林家謙 - 時光倒流一句話	皮	pei 4 skin; hide; fur; leather				
+Cantonese::林家謙 - 時光倒流一句話	謙	him 1 humble				
+Cantonese::林家謙 - 拼命無恙	拼	ping 3 to be ready to risk one's life; to go all out; to disregard				
+Cantonese::林家謙 - 拼命無恙	命	ming 6 life; existence; state of living				
+Cantonese::林家謙 - 拼命無恙	恙	joeng 6 illness; ailment				
+Cantonese::林家謙 - 拼命無恙	偶	ngau 5 idol				
+Cantonese::林家謙 - 拼命無恙	遇	jyu 6 to meet; to come across; to encounter				
+Cantonese::林家謙 - 拼命無恙	也	ya 4 also; too; as well				
+Cantonese::林家謙 - 拼命無恙	重	cung 5 heavy				
+Cantonese::林家謙 - 拼命無恙	要	jiu 1 to demand; to ask; to request				
+Cantonese::林家謙 - 拼命無恙	這	ze 2 this; these				
+Cantonese::林家謙 - 拼命無恙	樣	joeng 6 appearance; form; shape				
+Cantonese::林家謙 - 拼命無恙	豁	kut 3 open; clear; open-minded				
+Cantonese::林家謙 - 拼命無恙	達	daat 6 to thoroughly understand; to understand				
+Cantonese::林家謙 - 拼命無恙	又	jau 6 again; once more				
+Cantonese::林家謙 - 拼命無恙	專	zyun 1 specific				
+Cantonese::林家謙 - 拼命無恙	著	zyu 3 to write; to compose				
+Cantonese::林家謙 - 拼命無恙	書	syu 1 book				
+Cantonese::林家謙 - 拼命無恙	感	gam 2 feeling; thought; sensation; emotion				
+Cantonese::林家謙 - 拼命無恙	給	kap 1 for; for the benefit of				
+Cantonese::林家謙 - 拼命無恙	糟	zou 1 awful; messy; terrible; in bad shape				
+Cantonese::林家謙 - 拼命無恙	蹋	taap 3 to tread on; to stamp				
+Cantonese::林家謙 - 拼命無恙	都	dou 1 as well; also; too				
+Cantonese::林家謙 - 拼命無恙	活	wut 6 to live; to exist				
+Cantonese::林家謙 - 拼命無恙	該	goi 1 should; ought to; need to; have to				
+Cantonese::林家謙 - 拼命無恙	寬	fun 1 wide; broad				
+Cantonese::林家謙 - 拼命無恙	恕	syu 3 to forgive; to pardon; to show mercy				
+Cantonese::林家謙 - 拼命無恙	便	bin 6 then				
+Cantonese::林家謙 - 拼命無恙	痊	cyun 4 to recover (from illness)				
+Cantonese::林家謙 - 拼命無恙	癒	jyu 6 to heal; to get well; to recover				
+Cantonese::林家謙 - 拼命無恙	瘀	jyu 2 bruise				
+Cantonese::林家謙 - 拼命無恙	比	bei 2 to compare; to contrast				
+Cantonese::林家謙 - 拼命無恙	較	gaau 3 to compare				
+Cantonese::林家謙 - 拼命無恙	新	san 1 new; fresh				
+Cantonese::林家謙 - 拼命無恙	舊	gau 6 old; former; past				
+Cantonese::林家謙 - 拼命無恙	計	gai 3 to calculate; to count				
+Cantonese::林家謙 - 拼命無恙	贏	jing 4 to win; to triumph				
+Cantonese::林家謙 - 拼命無恙	或	waak 6 or				
+Cantonese::林家謙 - 拼命無恙	輸	syu 1 to lose; to be beaten; to be defeated				
+Cantonese::林家謙 - 拼命無恙	拒	keoi 5 to ward; to refuse; to resist				
+Cantonese::林家謙 - 拼命無恙	絕	zyut 6 to break off; to cut off; to sever				
+Cantonese::林家謙 - 拼命無恙	同	tung 4 together; with each other				
+Cantonese::林家謙 - 拼命無恙	住	zyu 6 to live; to dwell; to reside				
+Cantonese::林家謙 - 拼命無恙	苦	fu 2 bitter				
+Cantonese::林家謙 - 拼命無恙	某	mau 5 certain; particular (person or thing)				
+Cantonese::林家謙 - 拼命無恙	前	cin 4 past; previous; former				
+Cantonese::林家謙 - 拼命無恙	度	dou 6 degree; level; measure				
+Cantonese::林家謙 - 拼命無恙	道	dou 6 way; path; road				
+Cantonese::林家謙 - 拼命無恙	賀	ho 6 to congratulate				
+Cantonese::林家謙 - 拼命無恙	惜	sik 1 pity; regret				
+Cantonese::林家謙 - 拼命無恙	笑	siu 3 to laugh; to smile				
+Cantonese::林家謙 - 拼命無恙	得	dak 1 to get; to obtain; to gain, to acquire				
+Cantonese::林家謙 - 拼命無恙	寧	ning 4 peaceful; tranquil; serene; at peace				
+Cantonese::林家謙 - 拼命無恙	願	jyun 6 request, wish				
+Cantonese::林家謙 - 拼命無恙	破	po 3 to ruin; to destroy				
+Cantonese::林家謙 - 拼命無恙	卻	koek 3 but; yet; however				
+Cantonese::林家謙 - 拼命無恙	懦	no 6 cowardly; weak				
+Cantonese::林家謙 - 拼命無恙	弱	joek 6 weak; feeble				
+Cantonese::林家謙 - 拼命無恙	還	waan 4 to return to a place; to go back to a place				
+Cantonese::林家謙 - 拼命無恙	委	wai 2 to cast aside				
+Cantonese::林家謙 - 拼命無恙	屈	wat 1 to bend; to flex				
+Cantonese::林家謙 - 拼命無恙	努	nou 5 to exert; to strive; to make an effort				
+Cantonese::林家謙 - 拼命無恙	誰	seoi 4 who; whom				
+Cantonese::林家謙 - 拼命無恙	爭	zaang 1 to dispute; to fight				
+Cantonese::林家謙 - 拼命無恙	安	on 1 calm; peaceful; tranquil; quiet				
+Cantonese::林家謙 - 拼命無恙	慰	wai 3 to comfort; to console; to calm				
+Cantonese::林家謙 - 拼命無恙	獎	zoeng 2 prize; reward				
+Cantonese::林家謙 - 拼命無恙	非	fei 1 not be; is not; not				
+Cantonese::林家謙 - 拼命無恙	很	han 2 very; rather; quite				
+Cantonese::林家謙 - 拼命無恙	念	nim 6 to miss; to long for; to think of; to recall				
+Cantonese::林家謙 - 拼命無恙	善	sin 6 good, virtuous, charitable, kind				
+Cantonese::林家謙 - 拼命無恙	良	loeng 4 good				
+Cantonese::林家謙 - 拼命無恙	背	bui 3 to betray; to be disloyal				
+Cantonese::林家謙 - 拼命無恙	叛	bun 6 rebel; betray				
+Cantonese::林家謙 - 拼命無恙	法	fat 2 method; way; solution				
+Cantonese::林家謙 - 拼命無恙	扮	baan 6 to dress up, to disguise oneself				
+Cantonese::林家謙 - 拼命無恙	沒	mut 6 not have; there is not; to be without				
+Cantonese::林家謙 - 拼命無恙	原	jyun 4 to forgive; to pardon				
+Cantonese::林家謙 - 拼命無恙	諒	loeng 6 to forgive; to sympathise				
+Cantonese::林家謙 - 拼命無恙	偉	wai 5 extraordinary; magnificent; great; robust				
+Cantonese::林家謙 - 拼命無恙	如	jyu 4 to be like; as; as if; as though				
+Cantonese::林家謙 - 拼命無恙	像	zoeng 6 statue; figure; sculpture				
+Cantonese::林家謙 - 拼命無恙	那	naa 5 that; those				
+Cantonese::林家謙 - 拼命無恙	去	heoi 3 to leave; to depart from				
+Cantonese::林家謙 - 拼命無恙	失	sat 1 to lose; to lose track of; to mislay				
+Cantonese::林家謙 - 拼命無恙	戀	lyun 2 love				
+Cantonese::林家謙 - 拼命無恙	彷	fong 2 to imitate				
+Cantonese::林家謙 - 拼命無恙	似	ci 5 to be like; to be similar to; to resemble				
+Cantonese::林家謙 - 拼命無恙	臟	zong 6 internal organs; viscera				
+Cantonese::林家謙 - 拼命無恙	拳	kyun 4 fist				
+Cantonese::林家謙 - 拼命無恙	顧	gu 3 to regard; to concern				
+Cantonese::林家謙 - 拼命無恙	形	jing 4 form; shape; appearance				
+Cantonese::林家謙 - 拼命無恙	象	zoeng 6 symbol; emblem				
+Cantonese::林家謙 - 拼命無恙	繼	gai 3 to continue; to maintain; to carry on; to follow				
+Cantonese::林家謙 - 拼命無恙	續	zuk 6 to continue; to carry on				
+Cantonese::林家謙 - 拼命無恙	高	gou 1 tall; high				
+Cantonese::林家謙 - 拼命無恙	估	gu 2 to estimate (an amount)				
+Cantonese::林家謙 - 拼命無恙	勉	min 5 to endeavor; to make an effort; to strive				
+Cantonese::林家謙 - 拼命無恙	強	koeng 4 strong; powerful; energetic				
+Cantonese::林家謙 - 拼命無恙	開	hoi 1 to open; to unlatch; to unfasten				
+Cantonese::林家謙 - 拼命無恙	其	kei 4 that; those				
+Cantonese::林家謙 - 拼命無恙	實	sat 6 truth; fact; substance; reality				
+Cantonese::林家謙 - 拼命無恙	幫	bong 1 to help; to assist; to aid				
+Cantonese::林家謙 - 拼命無恙	助	zo 6 to help; to aid; to assist				
+Cantonese::林家謙 - 拼命無恙	只	zi 3 only; just; simply; merely				
+Cantonese::林家謙 - 拼命無恙	倒	dou 2 to fall; to fall over; to fall down				
+Cantonese::林家謙 - 拼命無恙	數	sou 2 to count; to enumerate				
+Cantonese::林家謙 - 拼命無恙	剩	sing 6 extra; leftover				
+Cantonese::林家謙 - 拼命無恙	餘	jyu 4 to remain; to have left				
+Cantonese::林家謙 - 拼命無恙	憶	jik 1 memory				
+Cantonese::林家謙 - 拼命無恙	痛	tung 3 to hurt; to cause pain				
+Cantonese::林家謙 - 拼命無恙	恨	han 6 to resent; to hate				
+Cantonese::林家謙 - 拼命無恙	而	ji 4 then				
+Cantonese::林家謙 - 拼命無恙	受	sau 6 to receive; to accept				
+Cantonese::林家謙 - 拼命無恙	傷	soeng 1 wound; injury				
+Cantonese::林家謙 - 拼命無恙	趁	can 3 to take advantage of				
+Cantonese::林家謙 - 拼命無恙	仍	jing 4 frequently; repeatedly				
+Cantonese::林家謙 - 拼命無恙	氣	hei 3 air; gas				
+Cantonese::林家謙 - 拼命無恙	能	nang 4 can; to be able to; to be capable of				
+Cantonese::林家謙 - 拼命無恙	夠	gau 3 to be enough; to be sufficient; to reach or achieve a desired level				
+Cantonese::林家謙 - 拼命無恙	證	zing 3 to prove; to testify; to verify				
+Cantonese::林家謙 - 拼命無恙	相	soeng 1 mutually; reciprocally; towards each other; one another				
+Cantonese::容祖兒 - 東京人壽	儲	cyu 4 to store; to reserve; to save money				
+Cantonese::容祖兒 - 東京人壽	蓄	cuk 1 to store up; to stockpile; to accumulate; to hoard				
+Cantonese::容祖兒 - 東京人壽	勒	lak 6 to rein in; to restrain				
+Cantonese::容祖兒 - 東京人壽	停	ting 4 to stop; to halt				
+Cantonese::容祖兒 - 東京人壽	仙	sin 1 fairy; celestial being				
+Cantonese::容祖兒 - 東京人壽	境	ging 2 place; area; region				
+Cantonese::容祖兒 - 東京人壽	逝	sai 6 to pass				
+Cantonese::容祖兒 - 東京人壽	煙	jin 1 smoke; mist; vapour				
+Cantonese::容祖兒 - 東京人壽	霞	haa 4 the light and clouds at sunrise and sunset; mist; rosy clouds				
+Cantonese::容祖兒 - 東京人壽	換	wun 6 to change; to swap; to switch; to substitute				
+Cantonese::容祖兒 - 東京人壽	號	hou 6 number				
+Cantonese::容祖兒 - 東京人壽	省	saang 2 to omit; to leave out				
+Cantonese::容祖兒 - 東京人壽	擔	daam 1 to bear; to shoulder; to undertake				
+Cantonese::容祖兒 - 東京人壽	濟	zai 3 to help; to aid; to relieve				
+Cantonese::容祖兒 - 東京人壽	奧	ou 3 difficult to understand				
+Cantonese::容祖兒 - 東京人壽	運	wan 6 to transport; to carry; to ship				
+Cantonese::容祖兒 - 東京人壽	突	dat 6 suddenly; abruptly; unexpectedly				
+Cantonese::容祖兒 - 東京人壽	件	gin 6 document; letter				
+Cantonese::容祖兒 - 東京人壽	擱	gok 3 to place; to put; to lay down				
+Cantonese::容祖兒 - 東京人壽	誤	ng 6 incorrect				
+Cantonese::容祖兒 - 東京人壽	韶	siu 4 splendid; beautiful				
+Cantonese::容祖兒 - 東京人壽	華	waa 4 brilliance; magnificence				
+Cantonese::容祖兒 - 東京人壽	毫	hou 4 fine hair				
+Cantonese::容祖兒 - 東京人壽	保	bou 2 to protect; to safeguard; to defend				
+Cantonese::容祖兒 - 東京人壽	壽	sau 6 old age; long life				
+Cantonese::容祖兒 - 東京人壽	侶	leoi 5 companion				
+Cantonese::容祖兒 - 東京人壽	京	ging 1 capital city				
+Cantonese::容祖兒 - 東京人壽	即	zik 1 even if; even though				
+Cantonese::容祖兒 - 東京人壽	使	si 2 if				
+Cantonese::容祖兒 - 東京人壽	熱	jit 6 hot; heated; having a high temperature				
+Cantonese::容祖兒 - 東京人壽	初	co 1 original; first; primary				
+Cantonese::容祖兒 - 東京人壽	正	zing 3 right; proper; correct				
+Cantonese::容祖兒 - 東京人壽	撮	cyut 3 to gather up; to collect together; to assemble				
+Cantonese::容祖兒 - 東京人壽	合	hap 6 to join; to combine; to unite; to bring together				
+Cantonese::容祖兒 - 東京人壽	隨	ceoi 4 to follow				
+Cantonese::容祖兒 - 東京人壽	浪	long 6 wave				
+Cantonese::容祖兒 - 東京人壽	費	fai 3 to lavish; to squander; to waste; to lose				
+Cantonese::容祖兒 - 東京人壽	景	ging 2 scenery; view				
+Cantonese::容祖兒 - 東京人壽	敬	ging 3 to respect; to honor				
+Cantonese::容祖兒 - 東京人壽	巧	haau 2 opportune; coincidental				
+Cantonese::容祖兒 - 東京人壽	側	zak 1 to lean to one side; to incline; to slant				
+Cantonese::容祖兒 - 東京人壽	把	baa 2 to hold; to grasp; to take				
+Cantonese::容祖兒 - 東京人壽	握	ak 1 to hold in the hand; to grip				
+Cantonese::容祖兒 - 東京人壽	錦	gam 2 bright and beautiful				
+Cantonese::容祖兒 - 東京人壽	繡	sau 3 with rich and bright colors				
+Cantonese::容祖兒 - 東京人壽	程	cing 4 rules; regulations				
+Cantonese::容祖兒 - 東京人壽	否	fau 2 nay; no; negative				
+Cantonese::容祖兒 - 東京人壽	掃	sou 3 to clean with a broom; to sweep clean				
+Cantonese::容祖兒 - 東京人壽	辯	bin 6 to debate; to argue; to discuss				
+Cantonese::容祖兒 - 東京人壽	證	zing 3 to prove; to testify; to verify				
+Cantonese::容祖兒 - 東京人壽	資	zi 1 qualifications; certificate				
+Cantonese::容祖兒 - 東京人壽	格	gaak 3 special property; personality; character				
+Cantonese::容祖兒 - 東京人壽	疑	ji 4 to doubt; to question				
+Cantonese::容祖兒 - 東京人壽	逆	jik 6 to oppose; to resist				
+Cantonese::容祖兒 - 東京人壽	拼	ping 1 to accompany; to follow				
+Cantonese::容祖兒 - 東京人壽	肯	hang 2 willing				
+Cantonese::容祖兒 - 東京人壽	憧	cung 1 to long for; to yearn for; to look forward to				
+Cantonese::容祖兒 - 東京人壽	憬	ging 2 to long for; to yearn for; to look forward to				
+Cantonese::容祖兒 - 東京人壽	簽	cim 1 to sign; to endorse				
+Cantonese::容祖兒 - 東京人壽	馨	hing 1 fragrant, aromatic				
+Cantonese::容祖兒 - 東京人壽	店	dim 3 shop; store				
+Cantonese::容祖兒 - 東京人壽	遊	jau 4 to wander; to roam				
+Cantonese::容祖兒 - 東京人壽	剩	sing 6 to be left; to remain				
+Cantonese::容祖兒 - 東京人壽	呂	leoi 5 (anatomy) spine				
+Cantonese::容祖兒 - 東京人壽	暖	nyun 5 warm; toasty				
+Cantonese::容祖兒 - 東京人壽	謂	wai 6 to say; to tell; to call				
+Cantonese::容祖兒 - 東京人壽	溶	jung 4 to dissolve				
+Cantonese::容祖兒 - 東京人壽	擦	caat 3 to wipe; to scour; to scrub				
+Cantonese::容祖兒 - 東京人壽	肩	gin 1 to shoulder				
+Cantonese::容祖兒 - 東京人壽	領	ling 5 to lead; to guide				
+Cantonese::容祖兒 - 東京人壽	料	liu 6 to anticipate; to predict; to foresee; to expect				
+Cantonese::容祖兒 - 東京人壽	聲	sing 1 sound; noise; voice				
+Cantonese::陳奕迅 - 天下無雙	披	pei 1 to drape over one's shoulders; to wrap around				
+Cantonese::陳奕迅 - 天下無雙	戴	daai 3 to put on; to wear				
+Cantonese::陳奕迅 - 天下無雙	寒	hon 4 cold; wintry; chilly				
+Cantonese::陳奕迅 - 天下無雙	送	sung 4 to see someone off				
+Cantonese::陳奕迅 - 天下無雙	暖	nyun 5 warm; toasty				
+Cantonese::陳奕迅 - 天下無雙	親	can 1 intimate; bosom; closely acquainted; beloved; dear				
+Cantonese::陳奕迅 - 天下無雙	舒	syu 1 to open up; to unfold; to stretch out				
+Cantonese::陳奕迅 - 天下無雙	亂	lyun 6 disorderly; chaotic				
+Cantonese::陳奕迅 - 天下無雙	照	ziu 3 to shine upon; to illuminate				
+Cantonese::陳奕迅 - 天下無雙	宣	syun 1 to declare; to announce; to proclaim				
+Cantonese::陳奕迅 - 天下無雙	存	cyun 4 (literary) to exist				
+Cantonese::陳奕迅 - 天下無雙	源	jyun 4 source; origin; root				
+Cantonese::陳奕迅 - 天下無雙	行	haang 4 (Cantonese) to navigate				
+Cantonese::陳奕迅 - 天下無雙	削	soek 3 (ciu 3?) to pare with a knife; to peel with a knife; to scrape off the surface; to slice				
+Cantonese::陳奕迅 - 天下無雙	眷	gyun 3 relatives				
+Cantonese::陳奕迅 - 天下無雙	斷	dyun 6 to break; to snap				
+Cantonese::陳奕迅 - 天下無雙	條	tiu 4 strip; slip				
+Cantonese::陳奕迅 - 天下無雙	件	gin 6 document; letter				
+Cantonese::陳奕迅 - 天下無雙	擔	daam 1 to bear; to shoulder; to undertake				
+Cantonese::陳奕迅 - 天下無雙	種	zung 2 kind; sort; type				
+Cantonese::陳奕迅 - 天下無雙	辛	san 1 hard; laborious; toilsome				
+Cantonese::陳奕迅 - 天下無雙	酸	syun 1 sour; tart				
+Cantonese::陳奕迅 - 天下無雙	講	gong 2 (Cantonese) to say; to talk; to speak				
+Cantonese::陳奕迅 - 天下無雙	謝	ze 6 to thank; to express gratitude to				
+Cantonese::陳奕迅 - 天下無雙	完	jyun 4 whole; complete				
+Cantonese::陳奕迅 - 天下無雙	尊	zyun 1 to respect; to revere; to venerate				
+Cantonese::陳奕迅 - 天下無雙	界	gaai 3 boundary				
+Cantonese::陳奕迅 - 天下無雙	雙	soeng 1 two; double; twin				
+Cantonese::陳奕迅 - 天下無雙	令	ling 4 to make (someone do something); to cause; to allow				
+Cantonese::陳奕迅 - 天下無雙	昨	zok 3 yesterday				
+Cantonese::陳奕迅 - 天下無雙	閃	sim 2 to dodge; to evade				
+Cantonese::陳奕迅 - 天下無雙	亮	loeng 6 bright; brilliant; radiant				
+Cantonese::陳奕迅 - 天下無雙	激	gik 1 to excite; to arouse; to incite				
+Cantonese::陳奕迅 - 天下無雙	慶	hing 3 to celebrate				
+Cantonese::陳奕迅 - 天下無雙	祝	zuk 1 to wish				
+Cantonese::陳奕迅 - 天下無雙	整	zing 2 to fix, to repair				
+Cantonese::陳奕迅 - 天下無雙	球	kau 4 ball, globe, orb				
+Cantonese::陳奕迅 - 天下無雙	億	jik 1 hundred million				
+Cantonese::陳奕迅 - 天下無雙	影	jing 2 shadow				
+Cantonese::陳奕迅 - 天下無雙	使	si 2 to order to do				
+Cantonese::陳奕迅 - 天下無雙	奔	ban 1 to run fast; to rush about				
+Cantonese::陳奕迅 - 天下無雙	向	hoeng 3 to face				
+Cantonese::陳奕迅 - K歌之王	唱	coeng 3 to sing				
+Cantonese::陳奕迅 - K歌之王	皺	zau 3 wrinkle; crease; fold				
+Cantonese::陳奕迅 - K歌之王	眉	mei 4 eyebrow				
+Cantonese::陳奕迅 - K歌之王	約	joek 3 to make an appointment; to arrange				
+Cantonese::陳奕迅 - K歌之王	死	sei 2 to die				
+Cantonese::陳奕迅 - K歌之王	嬉	hei 1 enjoy				
+Cantonese::陳奕迅 - K歌之王	戲	hei 3 to play; to amuse; to have fun				
+Cantonese::陳奕迅 - K歌之王	游	jau 4 to swim				
+Cantonese::陳奕迅 - K歌之王	嫌	jim 4 to be sick of; to be tired of; to be fed up with				
+Cantonese::陳奕迅 - K歌之王	煽	sin 3 to incite; to instigate; to provoke				
+Cantonese::陳奕迅 - K歌之王	奉	fung 6 to offer (tribute)				
+Cantonese::陳奕迅 - K歌之王	獻	hin 3 to offer, to present				
+Cantonese::陳奕迅 - K歌之王	憑	pang 4 to lean on				
+Cantonese::陳奕迅 - K歌之王	宜	ji 4 appropriate; suitable; proper				
+Cantonese::陳奕迅 - K歌之王	性	sing 3 sex; gender				
+Cantonese::陳奕迅 - K歌之王	俗	zuk 6 vulgar; unrefined; common; popular; vernacular				
+Cantonese::陳奕迅 - K歌之王	套	tou 3 case; cover; wrapper; envelope				
+Cantonese::陳奕迅 - K歌之王	歌	go 1 song; tune				
+Cantonese::陳奕迅 - K歌之王	詞	ci 4 word; term				
+Cantonese::陳奕迅 - K歌之王	惻	cak 1 sad; sorrowful; grieved				
+Cantonese::陳奕迅 - K歌之王	膚	fu 1 superficial; shallow				
+Cantonese::陳奕迅 - K歌之王	淺	cin 2 shallow; not deep				
+Cantonese::陳奕迅 - K歌之王	吧	baa 6 Emphatic final particle; used at the end of a sentence to				
+Cantonese::陳奕迅 - K歌之王	叫	giu 3 to be called				
+Cantonese::陳奕迅 - K歌之王	萬	maan 6 myriad, ten thousand				
+Cantonese::陳奕迅 - K歌之王	誓	sai 6 swear, pledge				
+Cantonese::陳奕迅 - K歌之王	摩	mo 1 to rub; to scour; to grind				
+Cantonese::陳奕迅 - K歌之王	輪	leon 4 wheel				
+Cantonese::陳奕迅 - K歌之王	呼	fu 1 to breathe out; to exhale; to sigh				
+Cantonese::陳奕迅 - K歌之王	漫	maan 4 overflow (of water), brim over, flood				
+Cantonese::陳奕迅 - K歌之王	血	hyut 3 blood				
+Cantonese::陳奕迅 - K歌之王	拋	paau 1 throw away, abandon, reject				
+Cantonese::陳奕迅 - K歌之王	銀	ngan 4 silver				
+Cantonese::陳奕迅 - K歌之王	河	ho 4 river, especially a smaller river, creek, or stream				
+Cantonese::陳奕迅 - K歌之王	垃	laap 6 garbage				
+Cantonese::陳奕迅 - K歌之王	圾	saap 3 garbage; rubbish; trash; waste; refuse; junk				
+Cantonese::陳奕迅 - K歌之王	捨	se 2 to abandon				
+Cantonese::陳奕迅 - K歌之王	丁	ding 1 robust; vigorous				
+Cantonese::陳奕迅 - K歌之王	贈	zang 6 to give as a present; to present with				
+Cantonese::陳奕迅 - K歌之王	眼	ngaan 5 eye				
+Cantonese::陳奕迅 - K歌之王	抱	pou 5 to hug; to embrace				
+Cantonese::陳奕迅 - K歌之王	渴	hot 3 thirsty				
+Cantonese::陳奕迅 - K歌之王	簡	gaan 2 simple; uncomplicated				
+Cantonese::陳奕迅 - K歌之王	算	syun 3 to count; to calculate; to figure				
+Cantonese::陳奕迅 - K歌之王	作	zok 3 to compose; to write				
+Cantonese::陳奕迅 - K歌之王	棄	hei 3 to abandon; to discard; to reject				
+Cantonese::陳奕迅 - K歌之王	附	fu 6 to add; to augment; to increase; to raise; to boost				
+Cantonese::陳奕迅 - K歌之王	賣	maai 6 to sell				
+Cantonese::陳奕迅 - K歌之王	首	sau 2 classifier for songs and poems.				
+Cantonese::陳奕迅 - K歌之王	峰	fung 1 peak; summit				
+Cantonese::陳奕迅 - K歌之王	容	jung 4 to allow; to permit				
+Cantonese::陳奕迅 - K歌之王	浸	zam 3 to soak; to sit in water (or liquid)				
+Cantonese::陳奕迅 - K歌之王	呵	ho 1 to shout; to cry out				
+Cantonese::陳奕迅 - K歌之王	欠	him 3 to yawn				
+Cantonese::陳奕迅 - K歌之王	絕	zyut 6 to break off; to cut off; to sever				
+Cantonese::陳奕迅 - K歌之王	溶	jung 4 to dissolve; to disintegrate chemically into a solution by immersion into a liquid or gas				
+Cantonese::兒歌 - 小小姑娘	小	siu 2 small, tiny, little				
+Cantonese::兒歌 - 小小姑娘	姑	gu 1 woman				
+Cantonese::兒歌 - 小小姑娘	娘	noeng 4 woman, especially a young girl				
+Cantonese::兒歌 - 小小姑娘	清	cinq 1 clear; clean				
+Cantonese::兒歌 - 小小姑娘	早	zou 2 early				
+Cantonese::兒歌 - 小小姑娘	起	hei 2 to rise; to go up; to move up				
+Cantonese::兒歌 - 小小姑娘	床	cong 4 bed				
+Cantonese::兒歌 - 小小姑娘	提	tai 4 to carry; to lift				
+Cantonese::兒歌 - 小小姑娘	著	zoek 3 Particle indicating the continuation of an action or a state				
+Cantonese::兒歌 - 小小姑娘	花	faa 1 flower				
+Cantonese::兒歌 - 小小姑娘	籃	laam 4 basket				
+Cantonese::兒歌 - 小小姑娘	上	soeng 6 on; above				
+Cantonese::兒歌 - 小小姑娘	市	si 5 market				
+Cantonese::兒歌 - 小小姑娘	場	coeng 4 field; market				
+Cantonese::兒歌 - 小小姑娘	穿	cyun 1 to pass through; to cross				
+Cantonese::兒歌 - 小小姑娘	過	gwo 3 to cross; to pass; to go across; to pass through				
+Cantonese::兒歌 - 小小姑娘	大	daai 6 of great size; big; large; huge				
+Cantonese::兒歌 - 小小姑娘	街	gaai 1 street				
+Cantonese::兒歌 - 小小姑娘	走	zau 2 to go; to walk; to go on foot				
+Cantonese::兒歌 - 小小姑娘	盡	zeon 6 to end; to finish				
+Cantonese::兒歌 - 小小姑娘	巷	hong 6 alley; lane; tunnel				
+Cantonese::兒歌 - 小小姑娘	賣	maai 6 to sell				
+Cantonese::兒歌 - 小小姑娘	聲	sing 1 sound; noise; voice				
+Cantonese::兒歌 - 小小姑娘	唱	coeng 3 to sing				
+Cantonese::兒歌 - 小小姑娘	兒	ji 4 child				
+Cantonese::兒歌 - 小小姑娘	真	zan 1 true; genuine; real; actua				
+Cantonese::兒歌 - 小小姑娘	美	mei 5 beautiful; pretty; attractive; good-looking				
+Cantonese::兒歌 - 小小姑娘	香	hoeng 1 fragrant; fragrance				
+Cantonese::兒歌 - 小小姑娘	沒	mut 6 not have; there is not; to be without				
+Cantonese::兒歌 - 小小姑娘	有	jau 5 to have; to possess				
+Cantonese::兒歌 - 小小姑娘	人	jan 4 person; people				
+Cantonese::兒歌 - 小小姑娘	買	maai 5 to buy				
+Cantonese::兒歌 - 小小姑娘	怎	zam 2 how; why				
+Cantonese::兒歌 - 小小姑娘	麼	mo 1 A suffix for forming pronouns or adverbs				
+Cantonese::兒歌 - 小小姑娘	樣	joeng 6 appearance; form; shape				
+Cantonese::兒歌 - 小小姑娘	满	mun 6 full				
+Cantonese::兒歌 - 小小姑娘	空	hung 1  empty; hollow; void				
+Cantonese::兒歌 - 小小姑娘	錢	cin 4 cash; money				
+Cantonese::兒歌 - 小小姑娘	囊	nong 4 bag; sack; pouch; pocket				
+Cantonese::兒歌 - 小小姑娘	回	wui 4 to return; to go back				
+Cantonese::兒歌 - 小小姑娘	家	gaa 1 family; household				
+Cantonese::兒歌 - 小小姑娘	見	gin 3 to see				
+Cantonese::兒歌 - 小小姑娘	爹	de 1 father; dad				
+Cantonese::陳奕迅 - 單車	假	gaa 2 to disguise; to fake; to pretend				
+Cantonese::陳奕迅 - 單車	設	cit 3 to plan; to design				
+Cantonese::陳奕迅 - 單車	切	cai 3 all; every; everything; anything				
+Cantonese::陳奕迅 - 單車	做	zou 6 to do; to perform				
+Cantonese::陳奕迅 - 單車	接	zip 3 to come near to; to be close to; to come into contact				
+Cantonese::陳奕迅 - 單車	觸	zuk 1 to touch; to come in contact with				
+Cantonese::陳奕迅 - 單車	騎	ke 4 to ride (a horse, bike, etc.)				
+Cantonese::陳奕迅 - 單車	倆	loeng 5 two; pair				
+Cantonese::陳奕迅 - 單車	懷	waai 4 to miss; to long for				
+Cantonese::陳奕迅 - 單車	緊	gan 2 tense; tight; taut; tightly				
+Cantonese::陳奕迅 - 單車	貼	tip 3 to paste to; to stick on				
+Cantonese::陳奕迅 - 單車	背	bui3 (anatomy) back				
+Cantonese::陳奕迅 - 單車	抱	pou 5 to heft in the arms; to carry				
+Cantonese::陳奕迅 - 單車	捨	se 2 to abandon				
+Cantonese::陳奕迅 - 單車	些	se 1 a little; a bit (a small amount)				
+Cantonese::陳奕迅 - 單車	茫	mong 4 vast; boundless; widespread				
+Cantonese::陳奕迅 - 單車	荒	fong 1 wasteland, desert				
+Cantonese::陳奕迅 - 單車	野	je 5 countryside; field; outskirts; wilderness				
+Cantonese::陳奕迅 - 單車	孩	haai 4 child; youngster; baby				
+Cantonese::陳奕迅 - 單車	兒	ji 4 child				
+Cantonese::陳奕迅 - 單車	伏	fuk 6 to wait for				
+Cantonese::陳奕迅 - 單車	爸	baa 1 (colloquial) father; dad				
+Cantonese::陳奕迅 - 單車	肩	gin 1 shoulders				
+Cantonese::陳奕迅 - 單車	膊	bok 3 arm; upper arm				
+Cantonese::陳奕迅 - 單車	總	zung 2 overall; altogether				
+Cantonese::陳奕迅 - 單車	常	soeng 4 normal; general; common				
+Cantonese::陳奕迅 - 單車	推	teoi 1 to push				
+Cantonese::陳奕迅 - 單車	卸	se 3 to unload; to remove				
+Cantonese::陳奕迅 - 單車	任	jam 6 no matter how; regardless of				
+Cantonese::陳奕迅 - 單車	間	gaan 1 within a definite time period or place				
+Cantonese::陳奕迅 - 單車	冷	laang 5 cold; cool				
+Cantonese::陳奕迅 - 單車	酷	huk 6 cruel; brutal; savage				
+Cantonese::陳奕迅 - 單車	幸	hang 6 fortunate; lucky				
+Cantonese::陳奕迅 - 單車	福	fuk 1 blessing; happiness; prosperity				
+Cantonese::陳奕迅 - 單車	雖	seoi 1 although; even if; despite				
+Cantonese::陳奕迅 - 單車	演	jin 2 to perform; to act; to put on				
+Cantonese::陳奕迅 - 單車	色	sik 1 theatrical role				
+Cantonese::陳奕迅 - 單車	虛	heoi 1 empty; hollow				
+Cantonese::陳奕迅 - 單車	待	doi 6 to wait				
+Cantonese::陳奕迅 - 單車	套	tou 3 Classifier for a set of objects (books, furniture, rooms, etc).				
+Cantonese::陳奕迅 - 單車	疼	tung 4 painful; aching; sore				
+Cantonese::陳奕迅 - 單車	便	bin 6 convenient; handy				
+Cantonese::陳奕迅 - 單車	哪	naa 5 any				
+Cantonese::陳奕迅 - 單車	遙	jiu 4 distant; far away				
+Cantonese::陳奕迅 - 單車	斜	ce 4 tilted; sloping; inclined; oblique; slanting				
+Cantonese::陳奕迅 - 單車	朝	ziu 1 morning				
+Cantonese::陳奕迅 - 單車	走	zau 2 to leave; to go away				
+Cantonese::陳奕迅 - 單車	堅	gin 1 strong; firm				
+Cantonese::陳奕迅 - 單車	壯	zong 3 strong; robust				
+Cantonese::陳奕迅 - 單車	介	gaai 3 to lie between				
+Cantonese::陳奕迅 - 單車	護	wu 6 to protect; to safeguard; to defend; to shelter				
+Cantonese::陳奕迅 - 單車	靠	kaau 3 to depend on; to rely on				
+Cantonese::陳奕迅 - 單車	施	si 1 to set up; to put in place; to establish				
+Cantonese::陳奕迅 - 單車	怨	jyun 3 to resent; to hate				
+Cantonese::陳奕迅 - 單車	壞	waai 6 rotten; spoiled				
+Cantonese::陳奕迅 - 單車	承	sing 4 to continue; to carry on; to succeed				
+Cantonese::陳奕迅 - 單車	受	sau 6 to receive; to accept				
+Cantonese::陳奕迅 - 單車	狂	kwong 4 mad; insane; crazy				
+Cantonese::陳奕迅 - 富士山下	攔	laan 4 to obstruct; to impede; to bar; to hinder				
+Cantonese::陳奕迅 - 富士山下	偏	pin 1 inclined on one side; slanting; askew				
+Cantonese::陳奕迅 - 富士山下	飲	jam 2 to keep in the heart				
+Cantonese::陳奕迅 - 富士山下	泣	jap 1 to weep; to sob				
+Cantonese::陳奕迅 - 富士山下	凍	dung 3 cold; chilly				
+Cantonese::陳奕迅 - 富士山下	嗎	maa 1 Final interrogative particle, forming yes/no questions.				
+Cantonese::陳奕迅 - 富士山下	褸	lau 1 coat				
+Cantonese::陳奕迅 - 富士山下	磨	mo 4 to grind; to sharpen				
+Cantonese::陳奕迅 - 富士山下	襟	kam 1 front of a garment				
+Cantonese::陳奕迅 - 富士山下	連	lin 4 to link; to join; to connect				
+Cantonese::陳奕迅 - 富士山下	調	diu 6 to transfer; to move; to shift				
+Cantonese::陳奕迅 - 富士山下	職	zik 1 duty; profession				
+Cantonese::陳奕迅 - 富士山下	選	syun 2 to choose; to pick; to select				
+Cantonese::陳奕迅 - 富士山下	送	sung 3 to see someone off				
+Cantonese::陳奕迅 - 富士山下	疤	baa 1 scar				
+Cantonese::陳奕迅 - 富士山下	瓣	faan 6 petal				
+Cantonese::陳奕迅 - 富士山下	鋪	pou 1 to spread out; to arrange				
+Cantonese::陳奕迅 - 富士山下	墳	fan 4 grave; mound				
+Cantonese::陳奕迅 - 富士山下	害	hoi 6 to harm; to maim; to injure				
+Cantonese::陳奕迅 - 富士山下	若	joek 6 like; as if				
+Cantonese::陳奕迅 - 富士山下	嫁	gaa 3 to marry; to become married to				
+Cantonese::陳奕迅 - 富士山下	彼	bei 2 that; those				
+Cantonese::陳奕迅 - 富士山下	需	seoi 1 to need; to require				
+Cantonese::陳奕迅 - 富士山下	代	doi 6 to replace; to take the place of				
+Cantonese::陳奕迅 - 富士山下	價	gaa 3 price; cost				
+Cantonese::陳奕迅 - 富士山下	靠	kaau 3 to depend on; to rely on				
+Cantonese::陳奕迅 - 富士山下	接	zip 3 to come near to; to be close to; to come into contact				
+Cantonese::陳奕迅 - 富士山下	沿	jyun 4 to follow a course, go along				
+Cantonese::陳奕迅 - 富士山下	浪	long 6 to stroll				
+Cantonese::陳奕迅 - 富士山下	遊	jau 4 to travel; to tour				
+Cantonese::陳奕迅 - 富士山下	淚	leoi 6 tear; teardrop				
+Cantonese::陳奕迅 - 富士山下	流	lau 4 to flow				
+Cantonese::陳奕迅 - 富士山下	憑	pang 4 to lean on				
+Cantonese::陳奕迅 - 富士山下	富	fu 3 abundant; ample				
+Cantonese::陳奕迅 - 富士山下	士	si 6 suffix for a virtuous, knowledgeable or skilled person: commendable person				
+Cantonese::陳奕迅 - 富士山下	私	si 1 self; personal; private				
+Cantonese::陳奕迅 - 富士山下	悲	bei 1 sad; sorrowful				
+Cantonese::陳奕迅 - 富士山下	哀	oi 1 to lament; to mourn				
+Cantonese::陳奕迅 - 富士山下	假	gaa 2 to disguise; to fake; to pretend				
+Cantonese::陳奕迅 - 富士山下	設	cit 3 to set up; to arrange				
+Cantonese::陳奕迅 - 富士山下	虛	heoi 1 empty; hollow				
+Cantonese::陳奕迅 - 富士山下	構	kau 3 to fabricate; to make up				
+Cantonese::陳奕迅 - 富士山下	試	si 3 to test; to try; to experiment				
+Cantonese::陳奕迅 - 富士山下	管	gun 2 slender tubular hollow object; pipe; tube				
+Cantonese::陳奕迅 - 富士山下	它	taa 1 third-person singular pronoun for inanimate objects; it				
+Cantonese::陳奕迅 - 富士山下	染	jim 5 to dye				
+Cantonese::陳奕迅 - 富士山下	污	wu 1 unclean; dirty; filthy				
+Cantonese::陳奕迅 - 富士山下	眸	mau 4 pupil of eye				
+Cantonese::陳奕迅 - 富士山下	塵	can 4 dust; dirt; ashes; cinders				
+Cantonese::陳奕迅 - 富士山下	硬	ngaang 6 hard				
+Cantonese::陳奕迅 - 富士山下	隨	ceoi 4 to follow				
+Cantonese::陳奕迅 - 富士山下	緣	jyun 4 lucky chance; luck or lot by which people are brought together; predestined relationship; fate; serendipity; luck or lot by which people are brought together; predestined relationship; fate; serendipity				
+Cantonese::陳奕迅 - 富士山下	拋	paau 1 throw away, abandon, reject				
+Cantonese::陳奕迅 - 富士山下	逃	tou 4 to escape; to run away				
+Cantonese::陳奕迅 - 富士山下	絕	zyut 6 to break off; to cut off; to sever				
+Cantonese::陳奕迅 - 富士山下	罕	hon 2 rare; scarce				
+Cantonese::陳奕迅 - 富士山下	往	wong 5 to go to; to head for				
+Cantonese::陳奕迅 - 富士山下	繞	jiu 2 to entwine				
+Cantonese::陳奕迅 - 富士山下	周	zau 1 week				
+Cantonese::陳奕迅 - 富士山下	化	faa 3 to change; to transform				
+Cantonese::陳奕迅 - 富士山下	烏	wu 1 no; not				
+Cantonese::陳奕迅 - 富士山下	節	zit 3 festival; celebration; holiday;				
+Cantonese::陳奕迅 - 富士山下	穿	cyun 1 to penetrate; to pierce				
+Cantonese::陳奕迅 - 富士山下	敢	gam 2 bold; brave; daring				
+Cantonese::陳奕迅 - 富士山下	撫	fu 2 to stroke; to caress				
+Cantonese::陳奕迅 - 富士山下	髮	faat 3 (anatomy) hair				
+Cantonese::陳奕迅 - 富士山下	端	dyun 1 end; tip				
+Cantonese::陳奕迅 - 富士山下	姿	zi 1 manner; carriage; bearing				
+Cantonese::陳奕迅 - 富士山下	汽	hei 3 steam, vapor, gas				
+Cantonese::陳奕迅 - 富士山下	取	ceoi 2 to get; to obtain				
+Cantonese::陳奕迅 - 富士山下	規	kwai 1 rule; regulation; customs; law				
+Cantonese::陳奕迅 - 富士山下	勸	hyun 3 to encourage; to recommend				
+Cantonese::陳奕迅 - 富士山下	腕	wun 2 wrist				
+Cantonese::陳奕迅 - 富士山下	劃	waak 6 scratch				
+Cantonese::陳奕迅 - 富士山下	損	syun 2 to harm; to cause destruction to; to damage				
+Cantonese::陳奕迅 - 富士山下	歲	seoi 3 Classifier for age (of a person or animal): year old				
+Cantonese::陳奕迅 - 富士山下	算	syun 3 to regard as; to consider				
+Cantonese::陳奕迅 - 富士山下	短	dyun 2 short (of time); brief				
+Cantonese::陳奕迅 - 富士山下	歸	gwai 1 to return (to a place); to come back to				
+Cantonese::陳奕迅 - 富士山下	里	lei 5 li (a unit of distance equal to half a kilometre in modern Mainland China)				
+Cantonese::陳奕迅 - 富士山下	預	jyu 6 beforehand				
+Cantonese::陳奕迅 - 富士山下	忘	mong 4 to forget				
+Cantonese::陳奕迅 - 富士山下	掉	diu 6 to drop; to fall				
+Cantonese::陳奕迅 - 富士山下	怨	jyun 3 hatred; enmity; resentment				
+Cantonese::陳奕迅 - 富士山下	櫻	jing 1 cherry				
+Cantonese::陳奕迅 - 富士山下	轉	zyun 1 to turn; to revolve				
+Cantonese::陳奕迅 - 富士山下	旅	leoi 5 journey; trip				
+Cantonese::陳奕迅 - 富士山下	遙	jiu 4 distant; far away				
+Cantonese::陳奕迅 - 富士山下	遠	jyun 5 distant; remote; far				
+Cantonese::陳奕迅 - 富士山下	嫌	jim 4 to be sick of; to be tired of; to be fed up with				
+Cantonese::陳奕迅 - 富士山下	陳	can 4 old				
+Cantonese::陳奕迅 - 富士山下	贈	zang 6 to give as a present; to present with				
+Cantonese::陳奕迅 - 富士山下	解	gaai 2 to loosen; to unfasten; to untie				
+Cantonese::陳奕迅 - 富士山下	咒	zau 3 to curse, to damn				
+Cantonese::盧巧音 - 暖色	溢	jat 6 to overflow; to brim over				
+Cantonese::盧巧音 - 暖色	進	zeon 3 to advance; to move forward				
+Cantonese::盧巧音 - 暖色	冬	dung 1 winter				
+Cantonese::盧巧音 - 暖色	體	tai 2 body				
+Cantonese::盧巧音 - 暖色	顫	zin 3 to shake; to vibrate; to tremble				
+Cantonese::盧巧音 - 暖色	抖	dau 2 to shake; to tremble				
+Cantonese::盧巧音 - 暖色	微	mei 4 tiny; small; trifling				
+Cantonese::盧巧音 - 暖色	徐	ceoi 4 slowly; quietly; calmly				
+Cantonese::盧巧音 - 暖色	送	sung 4 to see someone off				
+Cantonese::盧巧音 - 暖色	妝	zong 1 woman's personal adornments, makeup and dress				
+Cantonese::盧巧音 - 暖色	趟	tong 3 to take a journey				
+Cantonese::盧巧音 - 暖色	管	gun 2 Classifier for tube-shaped objects.				
+Cantonese::盧巧音 - 暖色	擴	kwong 3 to expand; to enlarge; to stretch				
+Cantonese::盧巧音 - 暖色	桃	tou 4 peach (fruit)				
+Cantonese::盧巧音 - 暖色	泛	faan 6 to float on water; to drift				
+Cantonese::盧巧音 - 暖色	讓	joeng 6 to allow; to let; to permit				
+Cantonese::盧巧音 - 暖色	欣	jan 1 happy; joyous; delighted				
+Cantonese::盧巧音 - 暖色	賞	soeng 2 to present as a gift; to bestow; to grant				
+Cantonese::盧巧音 - 暖色	姿	zi 1 manner; carriage; bearing				
+Cantonese::盧巧音 - 暖色	采	coi 2 expression; spirit; complexion				
+Cantonese::盧巧音 - 暖色	凌	ling 4 to rise high; to go up; to climb over; to traverse				
+Cantonese::盧巧音 - 暖色	晨	san 4 dawn; morning; daybreak				
+Cantonese::盧巧音 - 暖色	播	bo 3 to broadcast; to spread				
+Cantonese::盧巧音 - 暖色	傾	king 1 to chat; to converse				
+Cantonese::盧巧音 - 暖色	優	jau 1 excellent; superior				
+Cantonese::盧巧音 - 暖色	雅	ngaa 5 elegant; graceful; refined				
+Cantonese::盧巧音 - 暖色	粉	fan 2 powder				
+Cantonese::盧巧音 - 暖色	舞	mou 5 to dance (move rhythmically)				
+Cantonese::盧巧音 - 暖色	曲	kuk 1 song				
+Cantonese::盧巧音 - 暖色	協	hip 3 to cooperate; to work together; to collaborate				
+Cantonese::盧巧音 - 暖色	奏	zau 3 to play a musical instrument; to give an instrumental performance				
+Cantonese::盧巧音 - 暖色	樂	ngok 6 music; tune; melody; song				
+Cantonese::盧巧音 - 暖色	支	zi 1 to support; to bear; to sustain				
+Cantonese::盧巧音 - 暖色	配	pui 3 to match				
+Cantonese::盧巧音 - 暖色	官	gun 1 government official, public servant				
+Cantonese::盧巧音 - 暖色	灰	fui 1 dust; ash				
+Cantonese::盧巧音 - 暖色	踢	tek 3 to kick				
+Cantonese::盧巧音 - 暖色	繪	kui 3 to draw; to sketch; to paint				
+Cantonese::盧巧音 - 暖色	盧	lou 4 A surname				
+Cantonese::盧巧音 - 暖色	巧	haau 2 ingenious; skillful				
+Cantonese::強記 Menu	炸	zaa 3 to fry in oil				
+Cantonese::強記 Menu	蟹	haai 5 crab				
+Cantonese::強記 Menu	餃	gaau 2 stuffed dumpling				
+Cantonese::強記 Menu	酥	sou 1 flaky pastry; shortbread				
+Cantonese::強記 Menu	蠔	hou 4 oyster				
+Cantonese::強記 Menu	饅	maan 6 chinese steamed bun; maantou				
+Cantonese::強記 Menu	蛋	daan 6 egg				
+Cantonese::強記 Menu	丸	jyun 4 small round object; ball; pellet				
+Cantonese::強記 Menu	湯	tong 1 broth; stock				
+Cantonese::強記 Menu	麻	maa 4 numb; senseless				
+Cantonese::強記 Menu	辣	laat 6 spicy				
+Cantonese::強記 Menu	瑞	seoi 6 auspicious omen				
+Cantonese::強記 Menu	翼	jik 6 wing				
+Cantonese::強記 Menu	葉	jip 6 leaf; petal				
+Cantonese::強記 Menu	沙	saa 1 sand				
+Cantonese::強記 Menu	嗲	de 2 coy; acting spoiled or flirtatious				
+Cantonese::強記 Menu	豬	zyu 1 pig; hog; swine				
+Cantonese::強記 Menu	皮	pei 4 skin				
+Cantonese::強記 Menu	雜	zaap 6 miscellaneous; mixed				
+Cantonese::強記 Menu	百	baak 3 hundred				
+Cantonese::強記 Menu	白	baak 6 white				
+Cantonese::強記 Menu	灼	coek 3 to broil				
+Cantonese::強記 Menu	潤	jeon 6 wet; moist; damp				
+Cantonese::強記 Menu	拼	ping 3 to accompany; to follow				
+Cantonese::強記 Menu	招	ziu 1 poster; signboard				
+Cantonese::強記 Menu	牌	paai 4 brand; trademark				
+Cantonese::強記 Menu	乾	gon 1 dry; moistureless				
+Cantonese::強記 Menu	炒	caau 2 to stir fry; to saute				
+Cantonese::強記 Menu	豉	si 6 fermented bean				
+Cantonese::強記 Menu	皇	wong 4 emperor; sovereign; ruler; superior				
+Cantonese::強記 Menu	星	sing 1 star; planet; heavenly body				
+Cantonese::強記 Menu	洲	zau 1 continent				
+Cantonese::強記 Menu	瑤	jiu 4 fine; precious				
+Cantonese::強記 Menu	柱	cyu 5 pillar; post; column				
+Cantonese::強記 Menu	金	gam 1 gold				
+Cantonese::強記 Menu	銀	ngan 4 silver				
+Cantonese::強記 Menu	燜	mun 6 simmer, cook over slow fire				
+Cantonese::強記 Menu	蝦	haa 1 shrimp; prawn; lobster				
+Cantonese::強記 Menu	廣	gwong 2 broad; wide; extensive; vast				
+Cantonese::強記 Menu	燴	wui 6 ragout, cook, braise				
+Cantonese::強記 Menu	滑	waat 6 to slip; to slide				
+Cantonese::強記 Menu	潮	ciu 4 trendy; popular				
+Cantonese::強記 Menu	菇	gu 1 mushroom				
+Cantonese::強記 Menu	伊	ji 1 this; that				
+Cantonese::強記 Menu	拆	caak 3 to take apart; to dismantle				
+Cantonese::強記 Menu	秘	bei 3 secret; undisclosed; confidential				
+Cantonese::強記 Menu	製	zai 3 to make; to manufacture; to produce				
+Cantonese::強記 Menu	鮑	baau 6 abalone				
+Cantonese::強記 Menu	窩	wo 1 nest				
+Cantonese::強記 Menu	揚	joeng 4 to spread; to make known				
+Cantonese::強記 Menu	素	sou 3 vegetarian				
+Cantonese::強記 Menu	富	fu 3 rich; wealthy				
+Cantonese::強記 Menu	貴	gwai 3 expensive; costly				
+Cantonese::強記 Menu	福	fuk 1 blessing; happiness; prosperity; good fortune				
+Cantonese::強記 Menu	叉	caa 1 fork				
+Cantonese::強記 Menu	燒	siu 1 to burn				
+Cantonese::強記 Menu	脆	ceoi 3 crisp; crispy				
+Cantonese::強記 Menu	叻	lek 1 smart; clever; capable; good				
+Cantonese::強記 Menu	瘦	sau 3 thin; slender; skinny				
+Cantonese::強記 Menu	粥	zuk 1 congee; rice gruel; porridge				
+Cantonese::強記 Menu	荔	lai 6 part one of lychee				
+Cantonese::強記 Menu	灣	waan 4 bay; gulf				
+Cantonese::強記 Menu	艇	teng 5 small boat; dugout; punt				
+Cantonese::強記 Menu	滾	gwan 2 to boil				
+Cantonese::強記 Menu	羅	lo 4 net for catching birds				
+Cantonese::強記 Menu	漢	hon 3 man; guy; bloke				
+Cantonese::強記 Menu	齋	zaai 1 vegetarian diet				
+Cantonese::強記 Menu	蔥	cung 1 green onion; spring onion				
+Cantonese::強記 Menu	檸	ning 4 lemon				
+Cantonese::強記 Menu	檬	mung 4 lemon				
+Cantonese::強記 Menu	奶	naai 5 milk				
+Cantonese::強記 Menu	阿	aa 3 prefix used in front of name to express familiarity				
+Cantonese::強記 Menu	綠	luk 6 green				
+Cantonese::強記 Menu	蜂	fung 1 honey bee				
+Cantonese::強記 Menu	糖	tong 4 sugar				
+Cantonese::強記 Menu	珍	zan 1 treasure				
+Cantonese::強記 Menu	冰	bing 1 ice				
+Cantonese::強記 Menu	桃	tou 4 peach				
+Cantonese::強記 Menu	枝	zi 1 branch; twig				
+Cantonese::強記 Menu	蘋	ping 4 apple				
+Cantonese::強記 Menu	桔	gat 1 tangerine				
+Cantonese::強記 Menu	健	gin 6 strong; robust; vigorous				
+Cantonese::強記 Menu	怡	ji 4 cheerful; happy; joyous				
+Cantonese::強記 Menu	碧	bik 1 green jade				
+Cantonese::強記 Menu	維	wai 4 to tie; to fasten; to tie up				
+Cantonese::強記 Menu	泡	paau 1 bubble				
+Cantonese::強記 Menu	礦	kwong 3 mineral; ore				
+Cantonese::強記 Menu	泉	cyun 4 springwater				
+Cantonese::MC 張天賦 - 老派約會之必要	賦	fu 3 to bestow upon; to give				
+Cantonese::MC 張天賦 - 老派約會之必要	派	paai 3 to hand out; to distribute				
+Cantonese::MC 張天賦 - 老派約會之必要	費	fai 3 to cost; to spend; to expend				
+Cantonese::MC 張天賦 - 老派約會之必要	思	si 1 to think; to cogitate				
+Cantonese::MC 張天賦 - 老派約會之必要	燄	jim 6 flame				
+Cantonese::MC 張天賦 - 老派約會之必要	獎	zoeng 2 reward; prize				
+Cantonese::MC 張天賦 - 老派約會之必要	賞	soeng 2 award; reward				
+Cantonese::MC 張天賦 - 老派約會之必要	燭	zuk 1 candle; taper				
+Cantonese::MC 張天賦 - 老派約會之必要	裏	leoi 5 in; inside				
+Cantonese::MC 張天賦 - 老派約會之必要	童	tung 4 child				
+Cantonese::MC 張天賦 - 老派約會之必要	侍	si 6 to wait upon; to serve				
+Cantonese::MC 張天賦 - 老派約會之必要	應	jing 1 should; ought to				
+Cantonese::MC 張天賦 - 老派約會之必要	靜	zing 1 quiet; silent; devoid of noise				
+Cantonese::MC 張天賦 - 老派約會之必要	打	daa 2 to hit; to strike; to slap; to beat				
+Cantonese::MC 張天賦 - 老派約會之必要	烊	joeng 4 to smelt				
+Cantonese::MC 張天賦 - 老派約會之必要	逛	gwaang 6 to stroll; to roam; to wander				
+Cantonese::MC 張天賦 - 老派約會之必要	歸	gwai 1 to return (to a place); to come back to				
+Cantonese::MC 張天賦 - 老派約會之必要	純	seon 4 genuine; honest; simple				
+Cantonese::MC 張天賦 - 老派約會之必要	靈	ling 4 soul; spirit				
+Cantonese::MC 張天賦 - 老派約會之必要	魂	wan 4 soul; spirit				
+Cantonese::MC 張天賦 - 老派約會之必要	霎	saap 3 instant; moment				
+Cantonese::MC 張天賦 - 老派約會之必要	赤	cek 3 empty; bare				
+Cantonese::MC 張天賦 - 老派約會之必要	柱	chu 5 pillar; post; column				
+Cantonese::MC 張天賦 - 老派約會之必要	寧	ning 4 peaceful; tranquil; serene; at peace				
+Cantonese::MC 張天賦 - 老派約會之必要	佳	gaai 1 good, auspicious				
+Cantonese::MC 張天賦 - 老派約會之必要	蝴	wu 4 butterfly				
+Cantonese::MC 張天賦 - 老派約會之必要	蝶	dip 6 butterfly				
+Cantonese::MC 張天賦 - 老派約會之必要	襯	can 3 to match (of clothes)				
+Cantonese::MC 張天賦 - 老派約會之必要	偷	tau 1 to steal; to snatch				
+Cantonese::MC 張天賦 - 老派約會之必要	窺	kwai 1 to peep				
+Cantonese::MC 張天賦 - 老派約會之必要	急	gap 1 rapid; quick				
+Cantonese::MC 張天賦 - 老派約會之必要	璧	bik 1 jade annulus				
+Cantonese::MC 張天賦 - 老派約會之必要	露	lou 6 dew				
+Cantonese::MC 張天賦 - 老派約會之必要	底	dai 2 bottom; underneath; underside				
+Cantonese::MC 張天賦 - 老派約會之必要	藴	wan 5 accumulate; to hold in store; to contain				
+Cantonese::MC 張天賦 - 老派約會之必要	襲	zaap 6 to attack; to raid				
+Cantonese::MC 張天賦 - 老派約會之必要	優	jau 1 excellent; superior				
+Cantonese::MC 張天賦 - 老派約會之必要	雅	ngaa 5 elegant; graceful; refined				
+Cantonese::MC 張天賦 - 老派約會之必要	婚	fan 1 to marry; to get married				
+Cantonese::MC 張天賦 - 老派約會之必要	針	zam 1 needle				
+Cantonese::MC 張天賦 - 老派約會之必要	刺	ci 3 a pointed structure which is able to pierce something (spike, spine, thorn, etc.)				
+Cantonese::MC 張天賦 - 老派約會之必要	繡	sau 3 to embroider				
+Cantonese::MC 張天賦 - 老派約會之必要	悠	jau 4 leisurely				
+Cantonese::MC 張天賦 - 老派約會之必要	悶	mun 6 bored				
+Cantonese::MC 張天賦 - 老派約會之必要	透	tau 3 to penetrate; to pass through				
+Cantonese::MC 張天賦 - 老派約會之必要	廂	soeng 1 wing; side room; theater box				
+Cantonese::MC 張天賦 - 老派約會之必要	登	dang 1 to publish; to run (a story, an ad, etc.)				
+Cantonese::MC 張天賦 - 老派約會之必要	樓	lau 4 building (of two or more stories)				
+Cantonese::MC 張天賦 - 老派約會之必要	攜	kwai 4 to carry; to bear				
+Cantonese::MC 張天賦 - 老派約會之必要	雙	soeng 1 two; double; twin				
+Cantonese::MC 張天賦 - 老派約會之必要	步	bou 6 to walk; to stroll				
+Cantonese::MC 張天賦 - 老派約會之必要	霧	mou 6 fog; mist				
+Cantonese::MC 張天賦 - 老派約會之必要	趕	gon 2 to drive someone away; to chase away				
+Cantonese::MC 張天賦 - 老派約會之必要	攤	taan 1 to spread something out; to lay out				
+Cantonese::MC 張天賦 - 老派約會之必要	牌	paai 4 board; plate				
+Cantonese::MC 張天賦 - 老派約會之必要	詩	si 1 poem; verse; ode; poetry				
+Cantonese::MC 張天賦 - 老派約會之必要	微	mei 4 tiny; small; trifling				
+Cantonese::MC 張天賦 - 老派約會之必要	焚	fan 4 to burn				
+Cantonese::MC 張天賦 - 老派約會之必要	訂	deng 3 to arrange				
+Cantonese::MC 張天賦 - 老派約會之必要	淺	cin 2 shallow; not deep				
+Cantonese::MC 張天賦 - 老派約會之必要	酌	zoek 3 to pour an alcoholic beverage				
+Cantonese::MC 張天賦 - 老派約會之必要	醺	fan 1 to be drunk; to intoxicate with alcohol				
+Cantonese::MC 張天賦 - 老派約會之必要	演	jin 2 to perform; to act; to put on				
+Cantonese::MC 張天賦 - 老派約會之必要	識	sik 1 to know; to realise; to be aware				
+Cantonese::MC 張天賦 - 老派約會之必要	區	keoi 1 area; district; region; ward				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	挑	tiu 1 to pick; to select; to choose				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	惜	sik 1 to cherish; to adore; to value greatly; to love dearly				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	優	jau 1 excellent; superior				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	點	dim 2 point; aspect				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	尊	zyun 1 to respect; to revere; to venerate				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	被	bei 6 by				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	竊	sit 3 to steal				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	取	ceoi 2 to get; to obtain				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	據	geoi 3 to occupy; to take possession of				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	辛	san 1 hard; laborious; toilsome				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	擺	baai 2 to get rid of; to break free from; to push aside				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	脫	tyut 3 to take off (clothes); to peel off; to strip				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	討	tou 3 to discuss				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	迫	bik 1 to coerce; to force; to compel				
+Cantonese::JUDE 曾若華 x MC 張天賦 - 十分錯	封	fung 1 to close; to seal; to bind				
+Cantonese::側田 - 美麗之最	捐	gyun 1 to donate				
+Cantonese::側田 - 美麗之最	拓	tok 3 to open up; to develop; to expand				
+Cantonese::側田 - 美麗之最	剛	gong 1 strong				
+Cantonese::側田 - 美麗之最	秀	sau 3 beautiful; elegant; graceful				
+Cantonese::側田 - 美麗之最	某	mau 5 certain; particular (person or thing)				
+Cantonese::側田 - 美麗之最	展	zin 2 to exhibit; to display				
+Cantonese::側田 - 美麗之最	習	zaap 6 to become familiar with; to be used to				
+Cantonese::側田 - 美麗之最	守	sau 2 to defend; to protect; to keep watch				
+Cantonese::側田 - 美麗之最	綴	zeoi 3 to decorate				
+Cantonese::側田 - 美麗之最	拖	to 1 to drag; to tow; to haul				
+Cantonese::側田 - 美麗之最	居	geoi 1 house; residence; dwelling				
+Cantonese::側田 - 美麗之最	專	zyun 1 exclusively; specially				
+Cantonese::側田 - 美麗之最	施	si 1 to set up; to put in place; to establish				
+Cantonese::側田 - 美麗之最	脂	zi 1 fat; grease; lard				
+Cantonese::側田 - 美麗之最	粉	fan 2 powder				
+Cantonese::側田 - 美麗之最	坦	taan 2 honest; frank				
+Cantonese::側田 - 美麗之最	率	seot 6 frank, straightforward				
+Cantonese::側田 - 美麗之最	沮	zeoi 2 gloomy; glum; disheartened				
+Cantonese::側田 - 美麗之最	喪	song 1 to mourn; to be in mourning				
+Cantonese::側田 - 美麗之最	兇	hung 1 fierce; ferocious				
+Cantonese::側田 - 美麗之最	悍	hon 6 vigorous; valiant				
+Cantonese::側田 - 美麗之最	決	kyut 3 to decide; to determine				
+Cantonese::側田 - 美麗之最	棄	hei 3 to abandon; to discard; to reject				
+Cantonese::側田 - 美麗之最	墊	din 3 to put something under something else to raise or balance it				
+Cantonese::側田 - 美麗之最	戰	zin 3 war; battle; fight				
+Cantonese::側田 - 美麗之最	障	zoeng 3 obstacle; barrier; impediment				
+Cantonese::側田 - 美麗之最	礙	ngoi 6 to obstruct; to hinder; to block; to deter				
+Cantonese::側田 - 美麗之最	斑	baan 1 spot; stripe				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	峰	fung 1 peak; summit				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	縱	zung 3 even if; even though				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	午	ng 5 noon				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	載	zoi 3 to carry; to hold; to be loaded with				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	霜	soeng 1 frost				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	替	tai 3 to substitute for; to displace				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	擋	dong 2 to ward off; to block				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	避	bei 6 to avoid; to escape; to dodge				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	陰	jam 1 cloudy; overcast; gloomy				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	晴	cing 4 (of weather) clear; fine; cloudless				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	怨	jyun 3 to resent; to hate				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	幼	jau 3 infant; young child				
+Cantonese::王菲 x 林海峰 - 只因喜歡你	稚	zi 6 young; infantile; immature				
+Cantonese::Dear Jane - 哪裡只得我共你	勝	sing 3 to surpass; to prevail over; to outdo				
+Cantonese::Dear Jane - 哪裡只得我共你	確	kok 3 real; true				
+Cantonese::Dear Jane - 哪裡只得我共你	此	ci 2 (literary) this				
+Cantonese::Dear Jane - 哪裡只得我共你	拯	cing 2 to rescue; to save; to aid				
+Cantonese::Dear Jane - 哪裡只得我共你	類	leoi 6 class; group; kind; category				
+Cantonese::Dear Jane - 哪裡只得我共你	掙	zaang 1 to struggle to get free				
+Cantonese::Dear Jane - 哪裡只得我共你	扎	zaat 3 to tie; to fasten; to bundle				
+Cantonese::Dear Jane - 哪裡只得我共你	扣	kau 3 to detain; to arrest				
+Cantonese::Dear Jane - 哪裡只得我共你	泣	jap 1 to weep; to sob				
+Cantonese::Dear Jane - 哪裡只得我共你	批	pai 1 to cut (into thin slices), peel, or shape with a knife or blade				
+Cantonese::Dear Jane - 哪裡只得我共你	評	ping 4 to comment on; to discuss; to debate				
+Cantonese::Dear Jane - 哪裡只得我共你	干	gon 1 to concern; to be implicated in; implication				
+Cantonese::Dear Jane - 哪裡只得我共你	擾	jiu 2 to disturb; to trouble				
+Cantonese::Dear Jane - 哪裡只得我共你	敏	man 5 quick				
+Cantonese::Dear Jane - 哪裡只得我共你	欺	hei 1 to cheat; to deceive				
+Cantonese::Dear Jane - 哪裡只得我共你	晨	san 4 dawn; morning; daybreak				
+Cantonese::Dear Jane - 哪裡只得我共你	曦	hei 1 (literary) sunshine; dawn sunlight				
+Cantonese::陳卓賢 - 地球上的最後一朵花	撐	caang 1 to prop up; to support				
+Cantonese::陳卓賢 - 地球上的最後一朵花	殼	hok 3 shell; husk; hull; skin; casing				
+Cantonese::陳卓賢 - 地球上的最後一朵花	驟	zaau 6 suddenly; abruptly				
+Cantonese::陳卓賢 - 地球上的最後一朵花	索	sok 3 (literary) alone; solitary				
+Cantonese::陳卓賢 - 地球上的最後一朵花	魄	bok 6 sound of falling				
+Cantonese::陳卓賢 - 地球上的最後一朵花	塔	taap 3 tower				
+Cantonese::陳卓賢 - 地球上的最後一朵花	玩	wun 6 to enjoy; to appreciate				
+Cantonese::陳卓賢 - 地球上的最後一朵花	紛	fan 1 to disturb; to perturb				
+Cantonese::陳卓賢 - 地球上的最後一朵花	隕	wan 5 to fall				
+Cantonese::陳卓賢 - 地球上的最後一朵花	病	beng 6 illness; sickness; disease				
+Cantonese::陳卓賢 - 地球上的最後一朵花	蔓	maan 6 to spread; to extend				
+Cantonese::陳卓賢 - 地球上的最後一朵花	延	jin 4 to prolong				
+Cantonese::陳卓賢 - 地球上的最後一朵花	仰	joeng 5 to raise the head to look				
+Cantonese::陳卓賢 - 地球上的最後一朵花	豐	fung 1 abundant; bountiful; plenty				
+Cantonese::陳卓賢 - 地球上的最後一朵花	倔	gwat 6 stubborn; obstinate				
+Cantonese::陳卓賢 - 地球上的最後一朵花	烽	fung 1 signal fire				
+Cantonese::陳卓賢 - 地球上的最後一朵花	侵	cam 1 to invade; to encroach				
+Cantonese::陳卓賢 - 地球上的最後一朵花	忌	gei 6 to avoid; to abstain from				
+Cantonese::陳卓賢 - 地球上的最後一朵花	諱	wai 5 to avoid; to regard as taboo				
+Cantonese::陳卓賢 - 地球上的最後一朵花	窮	kung 4 poor; destitute; impoverished				
+Cantonese::陳卓賢 - 地球上的最後一朵花	禮	lai 5 ritual; rite; ceremony				
+Cantonese::陳卓賢 - 地球上的最後一朵花	雛	co 4 infant; toddler				
+Cantonese::陳卓賢 - 地球上的最後一朵花	柳	lau 5 willow				
+Cantonese::陳卓賢 - 地球上的最後一朵花	躊	cau 4 to walk back and forth				
+Cantonese::陳卓賢 - 地球上的最後一朵花	躇	cyu 4 to walk back and forth				
+Cantonese::陳卓賢 - 地球上的最後一朵花	媚	mei 6 charming; attractive				
+Cantonese::陳卓賢 - 地球上的最後一朵花	叢	cung 4 bush; shrub; thicket; grove				
+Cantonese::陳卓賢 - 地球上的最後一朵花	丘	jau 1 mound; hill				
+Cantonese::陳卓賢 - 地球上的最後一朵花	卓	coek 3 outstanding; profound; brilliant; lofty				
+Cantonese::陳卓賢 - 地球上的最後一朵花	賢	jin 4 virtuous; good; clever; wise; worthy				
+Cantonese::陳卓賢 - 地球上的最後一朵花	朵	do 2 Classifier for flowers, clouds, etc.				
+Cantonese::gareth.t - 笑住喊	喊	haam 3 to cry; to sob; to weep				
+Cantonese::gareth.t - 笑住喊	嘞	laa 3 (Cantonese) final particle used for polite refusal				
+Cantonese::gareth.t - 笑住喊	唧	zik 1 to spurt; to squirt; to pump				
+Cantonese::gareth.t - 笑住喊	嘢	je 5 thing; matter; stuff				
+Cantonese::gareth.t - 笑住喊	咁	gam 3 so, to such an extent				
+Cantonese::gareth.t - 笑住喊	攬	laam 5 to grasp, to take hold of				
+Cantonese::gareth.t - 笑住喊	錫	sek 3 to cherish, to kiss				
+Cantonese::gareth.t - 笑住喊	返	faan 2 to return; to give back				
+Cantonese::gareth.t - 笑住喊	啖	daam 6 Classifier for mouthfuls of thing				
+Cantonese::gareth.t - 笑住喊	塊	faai 3 piece; chunk; lump; part				
+Cantonese::gareth.t - 笑住喊	嘅	ge 3 Possessive particle: -'s; of				
+Cantonese::gareth.t - 笑住喊	巾	gan 1 a square item of cloth; towel; kerchief				
+Cantonese::gareth.t - 笑住喊	滴	dik 6 to drip; to dribble				
+Cantonese::gareth.t - 笑住喊	吋	cyun 3 inch				
+Cantonese::gareth.t - 笑住喊	鼻	bei 6 (anatomy) nose				
+Cantonese::gareth.t - 笑住喊	涕	tai 3 nasal mucus; snot; snivel				
+Cantonese::gareth.t - 笑住喊	哋	dei 6 (Cantonese, Pinghua) Plural marker for pronouns				
+Cantonese::gareth.t - 笑住喊	搏	bok 3 to struggle; to wrestle; to work hard; to strive				
+Cantonese::gareth.t - 笑住喊	噉	gam 2 this				
+Cantonese::gareth.t - 笑住喊	咪	mai 1 (imperative) don't				
+Cantonese::gareth.t - 笑住喊	旱	hon 6 drought; dry spell; aridness				
+Cantonese::gareth.t - 笑住喊	潤	jeon 6 wet; moist; damp				
+Cantonese::gareth.t - 笑住喊	濕	sap 1 wet; damp; moist; humid				
+Cantonese::gareth.t - 笑住喊	腫	zung 2 to be swollen; to swell				
+Cantonese::gareth.t - 笑住喊	係	hai 6 (formal or Cantonese, Hakka) to be				
+Cantonese::gareth.t - 笑住喊	敷	fu 1 to spread; to diffuse				
+Cantonese::gareth.t - 笑住喊	唔	m 4 (Cantonese, Teochew, Hakka) not (negator)				
+Cantonese::gareth.t - 笑住喊	悲	bei 1 sad; sorrowful				
+Cantonese::gareth.t - 笑住喊	嗌	aai 3 (Cantonese) to shout; to yell; to say something loudly				
+Cantonese::gareth.t - 笑住喊	枱	toi 4 table; desk				
+Cantonese::gareth.t - 笑住喊	爆	baau 3 to burst; to explode				
+Cantonese::gareth.t - 笑住喊	呢	ne 1 Sentence-final particle indicating a reciprocal question				
+Cantonese::gareth.t - 笑住喊	嚟	lei 4 to come; to arrive				
+Cantonese::gareth.t - 笑住喊	冇	mou 5 to not have; to not exist				
+Cantonese::gareth.t - 笑住喊	藥	joek 6 medicine; drug; pharmaceutical				
+Cantonese::gareth.t - 笑住喊	汪	wong 1 (of bodies of water) vast and deep				
+Cantonese::gareth.t - 笑住喊	靚	leng 3 (regional, including Cantonese, Hakka, Pinghua) pretty; beautiful				
+Cantonese::gareth.t - 笑住喊	整	zing 3 to fix; to repair				
+Cantonese::gareth.t - 笑住喊	哂	saai 3 (Cantonese, dialectal Hakka) Verbal aspect marker for full extent.				
+Cantonese::gareth.t - 笑住喊	率	seot 6 frank, straightforward				
+Cantonese::gareth.t - 笑住喊	哈	haa 1 (onomatopoeia) sound of laughter: ha				
+Cantonese::gareth.t - 笑住喊	灘	taan 1 beach				
+Cantonese::gareth.t - 笑住喊	摯	zi 3 sincere; earnest				
+Cantonese::gareth.t - 笑住喊	洋	joeng 4 multitudinous; vast				
+Cantonese::gareth.t - 笑住喊	捽	zeot 1 (Cantonese, Hakka) to rub				
+Cantonese::gareth.t - 笑住喊	璀	ceoi 2 radiant				
+Cantonese::gareth.t - 笑住喊	燦	caan 3 vivid; illuminating				
+Cantonese::gareth.t - 笑住喊	餐	caan 1 meal				
+Cantonese::gareth.t - 笑住喊	屋	uk 1 house				
+Cantonese::gareth.t - 笑住喊	灑	saa 1 to sprinkle; to splash				
+Cantonese::gareth.t - 笑住喊	叱	cik 1 to scold; to shout at; to bawl out				
+Cantonese::gareth.t - 笑住喊	吒	caak 1 to roar; to shout angrily; to yell				
+Cantonese::gareth.t - 笑住喊	岩	ngaam 4 cliff				
+Cantonese::gareth.t - 笑住喊	含	ham 4 to hold or keep in the mouth				
+Cantonese::gareth.t - 笑住喊	俾	bei 2 (literary) to make; to cause; to enable				
+Cantonese::gareth.t - 笑住喊	讚	zaan 3 to praise; to commend; to eulogize				
+Cantonese::周國賢 - 太平道	縱		zung 3 even if; even though			
+Cantonese::周國賢 - 太平道	使		si to let; to make; to cause to			
+Cantonese::周國賢 - 太平道	陌		mak 6 street; path; road			
+Cantonese::周國賢 - 太平道	論		leon 6 to discuss; to reason; to debate; to argue			
+Cantonese::周國賢 - 太平道	航		hong 4 to sail; to navigate			
+Cantonese::周國賢 - 太平道	雷		leoi 4 lightning			
+Cantonese::周國賢 - 太平道	玩		waan 4 to play with; to toy with			
+Cantonese::周國賢 - 太平道	越		jyut 6 more; -er			
+Cantonese::周國賢 - 太平道	緬		min 5 distant, remote			
+Cantonese::周國賢 - 太平道	識		sik 1 to know; to realise; to be aware			
+Cantonese::周國賢 - 太平道	遷		cin 1 to ascend; to go up (to)			
+Cantonese::周國賢 - 太平道	視		si 6 to see; to look; to view			
+Cantonese::周國賢 - 太平道	煉		lin 6 to smelt; to refine			
+Cantonese::周國賢 - 太平道	演		jin 2 to develop; to evolve			
+Cantonese::周國賢 - 太平道	兌		deoi 3 to exchange			
+Cantonese::周國賢 - 太平道	衷		cung 1 inner feelings; heart; from the bottom of one's heart			
+Cantonese::周國賢 - 太平道	周		zau 1 everywhere			
+Cantonese::周國賢 - 太平道	賢		jin 4 virtuous; good; clever; wise; worthy			
+Cantonese::Mike 曾比特 - 我不是邱比特	殼		hok 3 shell; husk; hull; skin; casing			
+Cantonese::Mike 曾比特 - 我不是邱比特	恥		ci 2 shame; disgrace; humiliation			
+Cantonese::Mike 曾比特 - 我不是邱比特	棍		gwan 3 stick, cudgel			
+Cantonese::Mike 曾比特 - 我不是邱比特	機		gei 1 cause; reason			
+Cantonese::Mike 曾比特 - 我不是邱比特	蒞		lei 6 to manage			
+Cantonese::Mike 曾比特 - 我不是邱比特	蹟		zik 1 remains; ruin; vestige			
+Cantonese::Mike 曾比特 - 我不是邱比特	製		zai 3 to make; to manufacture; to produce			
+Cantonese::Mike 曾比特 - 我不是邱比特	裝		zong 1 outfit; clothes; clothing			
+Cantonese::Mike 曾比特 - 我不是邱比特	飾		sik 1 ornament; decorations; adornments			
+Cantonese::Mike 曾比特 - 我不是邱比特	灌		gun 3 to irrigate; to water			
+Cantonese::Mike 曾比特 - 我不是邱比特	溉		koi 3 to water, irrigate, flood			
+Cantonese::Mike 曾比特 - 我不是邱比特	參		caam 1 to join			
+Cantonese::Mike 曾比特 - 我不是邱比特	維		wai 4 to link; to connect			
+Cantonese::Mike 曾比特 - 我不是邱比特	護		wu 6 to protect; to safeguard; to defend; to shelter			
+Cantonese::Mike 曾比特 - 我不是邱比特	輩		bui 3 generation			
+Cantonese::Mike 曾比特 - 我不是邱比特	岸		ngon 6 bank; shore; coast			
+Cantonese::Mike 曾比特 - 我不是邱比特	誠		sing 4 sincere, honest; true			
+Cantonese::Mike 曾比特 - 我不是邱比特	懇		han 2 sincere; earnest; cordial			
+Cantonese::Mike 曾比特 - 我不是邱比特	忿		fan 6 to be angry; to be indignant; to hate			
+Cantonese::Mike 曾比特 - 我不是邱比特	管		gun 2 to administer; to manage; to control; to be in charge			
+Cantonese::Mike 曾比特 - 我不是邱比特	佈		bou 3 to announce; to proclaim			
+Cantonese::Mike 曾比特 - 我不是邱比特	胎		toi 1 fetus; unborn child			
+Cantonese::Mike 曾比特 - 我不是邱比特	睬		coi 2 to notice, to pay attention to; to heed			
+Cantonese::Mike 曾比特 - 我不是邱比特	載		zoi 3 to carry; to hold; to be loaded with			
+Cantonese::Mike 曾比特 - 我不是邱比特	憐		lin 4 to pity; to sympathize			
+Cantonese::陳奕迅 - 時光倒流二十年	班		baan 1 group; party; class			
+Cantonese::陳奕迅 - 時光倒流二十年	哼		hang 1 to hum; to croon			
+Cantonese::陳奕迅 - 時光倒流二十年	排		paai 4 row; rank; line			
+Cantonese::陳奕迅 - 時光倒流二十年	恤		seot 1 to misgive			
+Cantonese::陳奕迅 - 時光倒流二十年	衫		saam 1 shirt; top			
+Cantonese::陳奕迅 - 時光倒流二十年	褲		fu 3 pants; trousers			
+Cantonese::陳奕迅 - 時光倒流二十年	倍		pui 5 Classifier for the number of times a value is multiplied: times; -fold			
+Cantonese::陳奕迅 - 時光倒流二十年	閱		jyut 6 to read; to peruse			
+Cantonese::陳奕迅 - 時光倒流二十年	覽		laam 5 to look at; to view; to inspect; to perceive			
+Cantonese::陳奕迅 - 時光倒流二十年	牆		coeng 4 wall			
+Cantonese::陳奕迅 - 時光倒流二十年	拿		naa 4 to take; to hold; to grasp			
+Cantonese::陳奕迅 - 時光倒流二十年	逛		gwaang 6 to stroll; to roam; to wande			
+Cantonese::陳奕迅 - 時光倒流二十年	相		soeng 3 photo; picture; photograph			
+Cantonese::陳奕迅 - 時光倒流二十年	簿		bou 6 register; account book; notebook			
+Cantonese::陳奕迅 - 時光倒流二十年	拍		paak 3 to take; to shoot (a picture, a video, etc.)			
+Cantonese::陳奕迅 - 時光倒流二十年	妒		dou 3 to be jealous or envious of; to envy			
+Cantonese::陳奕迅 - 時光倒流二十年	忌		gei 6 to be jealous; to envy; to hate			
+Cantonese::陳奕迅 - 時光倒流二十年	模		mou 4 model; standard; example			
+Cantonese::per se - 孤獨之塔	歷		lik 6 to experience; to go through; to undergo			
+Cantonese::per se - 孤獨之塔	仍		jing 4 to continue; to be done repeatedly			
+Cantonese::per se - 孤獨之塔	挑		tiu 1 to provoke; to incite			
+Cantonese::per se - 孤獨之塔	妖		jiu 2 abnormal or bizarre thing or phenomenon			
+Cantonese::per se - 孤獨之塔	魔		mo 4 devil; demon; evil spirit			
+Cantonese::per se - 孤獨之塔	蓋		koi 3 to cover; to conceal			
+Cantonese::per se - 孤獨之塔	踏		daap 6 to step on; to trample; to tread on			
+Cantonese::per se - 孤獨之塔	惡		ok 3 fierce; hostile; ferocious			
+Cantonese::per se - 孤獨之塔	疑		ji 4 to doubt; to question			
+Cantonese::per se - 孤獨之塔	慮		leoi 6 be concerned, worry about			
+Cantonese::per se - 孤獨之塔	尖		zim 1 sharp; having a sharp tip; pointy			
+Cantonese::per se - 孤獨之塔	幽		jau 1 to imprison			
+Cantonese::per se - 孤獨之塔	禁		gam 1 to bear; to endure			
+Cantonese::per se - 孤獨之塔	睡		seoi 6 to sleep			
+Cantonese::per se - 孤獨之塔	房		fong 4 room			
+Cantonese::per se - 孤獨之塔	況		fong 3 condition; situation			
+Cantonese::per se - 孤獨之塔	探		taam 3 to search; to explore			
+Cantonese::per se - 孤獨之塔	猜		caai 1 to guess; to suppose; to conjecture			
+Cantonese::per se - 孤獨之塔	狀		zong 6 form; appearance; state			
+Cantonese::per se - 孤獨之塔	挫		co 3 to break (something); to crush; to smash; to push down			
+Cantonese::per se - 孤獨之塔	喪		song 1 corpse; dead body			
+Cantonese::per se - 孤獨之塔	內		noi 6 inside; interior; internal; inner			
+Cantonese::per se - 孤獨之塔	外		ngoi 6 out; outside; external			
+Cantonese::per se - 孤獨之塔	惦		dim 3 to keep thinking about; to miss			
+Cantonese::per se - 孤獨之塔	毒		duk 6 poison; toxin; venom; bane			
+Cantonese::per se - 孤獨之塔	異		ji 6 different; other			
+Cantonese::per se - 孤獨之塔	獸		sau 3 beast; animal			
+Cantonese::per se - 孤獨之塔	置		zi 3 to put; to place; to plant			
+Cantonese::per se - 孤獨之塔	鍊		lin 6 to smelt; to refine			
+Cantonese::劉浩龍 - 思覺失調	眠		min 4 to sleep			
+Cantonese::劉浩龍 - 思覺失調	匙		si 4 key			
+Cantonese::劉浩龍 - 思覺失調	勞		lou 4 to toil; to do manual labour			
+Cantonese::劉浩龍 - 思覺失調	縛		bok 3 to tie up; to bind; to truss			
+Cantonese::劉浩龍 - 思覺失調	機		gei 1 machine; apparatus; device			
+Cantonese::劉浩龍 - 思覺失調	憐		lin 4 to pity; to sympathize			
+Cantonese::劉浩龍 - 思覺失調	危		ngai 4 dangerous			
+Cantonese::劉浩龍 - 思覺失調	連		lin 4 to link; to join; to connect			
+Cantonese::劉浩龍 - 思覺失調	調		tiu 4 to adjust; to regulate			
+Cantonese::劉浩龍 - 思覺失調	辦		baan 6 to deal with; to handle; to manage; to take care of			
+Cantonese::劉浩龍 - 思覺失調	犯		faan 6 to commit (crime); to violate			
+Cantonese::劉浩龍 - 思覺失調	賤		zin 6 mean; base; despicable; obnoxious			
+Cantonese::劉浩龍 - 思覺失調	徒		tou 4 in vain; unsuccessfully; to no avail			
+Cantonese::劉浩龍 - 思覺失調	透		tau 3 to penetrate; to pass through			
+Cantonese::劉浩龍 - 思覺失調	婚		fan 1 to marry; to get married			
+Cantonese::劉浩龍 - 思覺失調	飛		fei 1 to fly			
+Cantonese::劉浩龍 - 思覺失調	票		piu 3 ticket; coupon			
+Cantonese::gareth.t - 國際孤獨等級	駱		lok 3 first character of camel			
+Cantonese::gareth.t - 國際孤獨等級	駝		to 4 second character of camel			
+Cantonese::gareth.t - 國際孤獨等級	勝		sing 1 to be able to bear; to be able to withstand			
+Cantonese::gareth.t - 國際孤獨等級	鏡		geng 3 mirror			
+Cantonese::gareth.t - 國際孤獨等級	舉		geoi 2 to raise; to lift up			
+Cantonese::gareth.t - 國際孤獨等級	杯		bui 1 drinkware; cup; glass; mug			
+Cantonese::gareth.t - 國際孤獨等級	酒		zau 3 alcoholic beverages in general; alcoholic drink			
+Cantonese::gareth.t - 國際孤獨等級	潔		git 3 clean; pure; innocent			
+Cantonese::gareth.t - 國際孤獨等級	遺		wai 4 to lose; to lose track of			
+Cantonese::gareth.t - 國際孤獨等級	腫		zung 2 to be swollen; to swell			
+Cantonese::gareth.t - 國際孤獨等級	瘤		lau 4 tumor			
+Cantonese::gareth.t - 國際孤獨等級	摘		zaak 6 to pluck; to pick (flowers, fruits, leaves etc.)			
+Cantonese::gareth.t - 國際孤獨等級	除		ceoi 4 to take off (clothes); to peel off; to strip			
+Cantonese::gareth.t - 國際孤獨等級	醫		ji 1 medicinal; medicine			
+Cantonese::gareth.t - 國際孤獨等級	院		jyun 6 institution; academy			
+Cantonese::gareth.t - 國際孤獨等級	換		wun 6 to change; to swap; to switch; to substitute			
+Cantonese::gareth.t - 國際孤獨等級	煞		saat 3 to stop; to halt			
+Cantonese::gareth.t - 國際孤獨等級	陀		to 4 steep bank; rough terrain			
+Cantonese::gareth.t - 國際孤獨等級	羨		sin 6 to envy; to admire			
+Cantonese::鄭中基 - My Only One	圈		hyun 1 circle; ring; loop			
+Cantonese::鄭中基 - My Only One	機		gei 1 machine; apparatus; device			
+Cantonese::鄭中基 - My Only One	捕		bou 6 to catch; to seize; to arrest			
+Cantonese::鄭中基 - My Only One	捉		zuk 1 to grasp; to hold; to clutch			
+Cantonese::鄭中基 - My Only One	啡		fe 1 coffee			
+Cantonese::鄭中基 - My Only One	斟		zam 1 to pour (a drink) into drinkware			
+Cantonese::鄭中基 - My Only One	護		wu 6 to protect; to safeguard; to defend; to shelter			
+Cantonese::鄭中基 - My Only One	粒		lap 1 Classifier for small, round objects: granule, grain, particle, piece			
+Cantonese::鄭中基 - My Only One	糖		tong 4 sweets; candy; lollies; confectionery			
+Cantonese::鄭中基 - My Only One	圍		wai 4 to surround; to encircle; to corral			
+Cantonese::鄭中基 - My Only One	享		hoeng 2 to enjoy			
+Cantonese::鄭中基 - My Only One	恬		tim 4 quiet; calm; tranquil; peaceful			
+Cantonese::鄭中基 - My Only One	瞬		seon 3 instant; moment; blink of an eye			
+Cantonese::鄭中基 - My Only One	跖		zek 3 sole of the foot			
+Cantonese::鄭中基 - My Only One	曆		lik 6 calendar			
+Cantonese::鄭中基 - My Only One	須		seoi 1 must; have to; should			
+Cantonese::鄭中基 - My Only One	註		zyu 3 to annotate; to comment			
+Cantonese::鄭中基 - My Only One	驟		zaau 6 sudden; abrupt			
+Cantonese::鄭中基 - My Only One	倚		ji 2 to lean on; to lean against			
+Cantonese::鄭中基 - My Only One	鄭		zeng 1 surname			
+Cantonese::Cantopop Names	鄭		zeng 1 A surname Ronald Cheng 鄭中基			
+Cantonese::Cantopop Names	特		dak 6 bull; ox Mike Tseng 曾比特			
+Cantonese::Cantopop Names	靖		zing 6 stable; peaceful; tranquil Angela Hui 許靖韻			
+Cantonese::Cantopop Names	韻		wan 6 sweet music; melodious tune Angela Hui 許靖韻			
+Cantonese::Cantopop Names	奕		jik 6 great; grand Phil Lam 林奕匡			
+Cantonese::Cantopop Names	匡		hong 1 to correct; to rectify Phil Lam 林奕匡			
+Cantonese::Cantopop Names	卓		coek 3 tall and erect Ian Chan 陳卓賢			
+Cantonese::Cantopop Names	賢		jin 4 virtuous; good; clever; wise; worthy Ian Chan 陳卓賢			
+Cantonese::Cantopop Names	祥		coeng 4 good luck, good omen, auspicious George Lam 林子祥			
+Cantonese::Cantopop Names	凱		hoi 2 triumphant; victorious Jace Chan 陳凱詠			
+Cantonese::Cantopop Names	詠		wing 6 to sing; to hum; to chant Jace Chan 陳凱詠			
+Cantonese::Cantopop Names	劉		lau 4 a surname Wilfred Lau 劉浩龍			
+Cantonese::Cantopop Names	浩		hou 6 grand; vast; great Wilfred Lau 劉浩龍			
+Cantonese::Cantopop Names	軒		hin 1 high; lofty; airy Hins Cheung 張敬軒			
+Cantonese::Cantopop Names	周		zau 1 to circle; to encircle Endy Chow 周國賢			
+Cantonese::Cantopop Names	梁		loeng 4 a surname Edmond Leung 梁漢文			
+Cantonese::Cantopop Names	迅		seon 3 quick; rapid Eason Chan 陳奕迅			
+Cantonese::Cantopop Names	姜		goeng 1 a surname Keung To 姜濤			
+Cantonese::Cantopop Names	濤		tou 4 billows; large waves Keung To 姜濤			
+Cantonese::Cantopop Names	蘇		sou 1 to reap grass William So 蘇永康			
+Cantonese::Cantopop Names	麟		leon 4 big deer Alan Tam 譚詠麟			
+Cantonese::Cantopop Names	岑		sam 4 A surname Yoyo Sham 岑寧兒			
+Cantonese::Cantopop Names	寧		ning 4 peaceful; tranquil; serene; at peace Yoyo Sham 岑寧兒			
+Cantonese::Cantopop Names	郭		gwok 3 outer city wall Aaron Kwok 郭富城			
+Cantonese::Cantopop Names	江		gong 1 A surname Anson Kong 江𤒹生			
+Cantonese::Cantopop Names	𤒹		jip 6 (literary, of a flame) bright; magnificent; glorious Anson Kong 江𤒹生			
+Cantonese::鄭中基 - 愛是最大權利	膽		daam 2 (figurative) guts; courage; bravery; strength; nerve			
+Cantonese::鄭中基 - 愛是最大權利	聊		liu 4 for the time being; tentatively			
+Cantonese::鄭中基 - 愛是最大權利	淒		cai 1 miserable; sorrowful; sad			
+Cantonese::鄭中基 - 愛是最大權利	群		kwan 4 group; crowd; flock; herd; pack			
+Cantonese::鄭中基 - 愛是最大權利	近		kan 5 near; close			
+Cantonese::鄭中基 - 愛是最大權利	塌		taap 3 to collapse; to fall down; to cave in			
+Cantonese::鄭中基 - 愛是最大權利	徹		cit 3 to penetrate; to pierce; to pervade			
+Cantonese::鄭中基 - 愛是最大權利	乎		fu 4 in; at; on			
+Cantonese::Mike 曾比特 - 有誰共鳴	抬		toi 4 to lift; to heave			
+Cantonese::Mike 曾比特 - 有誰共鳴	肝		gon 1 liver			
+Cantonese::Mike 曾比特 - 有誰共鳴	膽		daam 2 gallbladder			
+Cantonese::Mike 曾比特 - 有誰共鳴	幻		waan 6 illusion; fantasy; mirage			
+Cantonese::Mike 曾比特 - 有誰共鳴	拼		ping 3 to accompany; to follow			
+Cantonese::Mike 曾比特 - 有誰共鳴	矛		maau 4 spear; lance			
+Cantonese::Mike 曾比特 - 有誰共鳴	盾		teon 5 shield			
+Cantonese::Mike 曾比特 - 有誰共鳴	暫		zaam 6 temporarily; tentatively; for the time being			
+Cantonese::Mike 曾比特 - 有誰共鳴	睏		kwan 3 sleepy; tired			
+Cantonese::Mike 曾比特 - 有誰共鳴	腔		hong 1 cavity; hollow in body			
+Cantonese::陳奕迅 - 歲月如歌	卑		bei 1 low; inferior			
+Cantonese::陳奕迅 - 歲月如歌	驚		ging 1 to fear; to be afraid			
+Cantonese::陳奕迅 - 歲月如歌	李		lei 5 plum (tree and fruit)			
+Cantonese::陳奕迅 - 歲月如歌	微		mei 4 tiny; small; trifling			
+Cantonese::陳奕迅 - 歲月如歌	郵		jau 4 postal; mail			
+Cantonese::陳奕迅 - 歲月如歌	寄		gei 3 to send mail; to post			
+Cantonese::陳奕迅 - 歲月如歌	疲		pei 4 weary; tired; exhausted			
+Cantonese::gareth.t - 勁浪漫 超溫馨	達		daat 6 to achieve; to attain			
+Cantonese::gareth.t - 勁浪漫 超溫馨	搵		wan 2 to search; to look for			
+Cantonese::gareth.t - 勁浪漫 超溫馨	盒		hap 6 box; case			
+Cantonese::gareth.t - 勁浪漫 超溫馨	勁		ging 3 vigor; energy; strength			
+Cantonese::gareth.t - 勁浪漫 超溫馨	物		mat 6 thing, matter			
+Cantonese::gareth.t - 勁浪漫 超溫馨	粒		lap 1 Classifier for small, round objects			
+Cantonese::gareth.t - 勁浪漫 超溫馨	款		fun 2 money (of certain kind)			
+Cantonese::gareth.t - 勁浪漫 超溫馨	零		ling 4 zero			
+Cantonese::gareth.t - 勁浪漫 超溫馨	鬼		gwai 2 ghost; apparition; spirit			
+Cantonese::gareth.t - 勁浪漫 超溫馨	寒		hon 4 cold; wintry; chilly			
+Cantonese::gareth.t - 勁浪漫 超溫馨	搣		mit 1 to break apart with the fingers			
+Cantonese::gareth.t - 勁浪漫 超溫馨	婆		po 2 old woman			
+Cantonese::gareth.t - 勁浪漫 超溫馨	使		sai 2 need to [do something]; have to			
+Cantonese::gareth.t - 勁浪漫 超溫馨	銅		tung 4 copper			
+Cantonese::gareth.t - 勁浪漫 超溫馨	鑼		lo 4 gong			
+Cantonese::gareth.t - 勁浪漫 超溫馨	餸		sung 3 a dish served to accompany rice			
+Cantonese::gareth.t - 勁浪漫 超溫馨	豪		hou 4 great; extraordinary			
+Cantonese::gareth.t - 勁浪漫 超溫馨	殺		saat 3 to kill; to murder			
+Cantonese::gareth.t - 勁浪漫 超溫馨	碌		luk 1  to roll			
+Cantonese::林家謙 - 怪我只敢做好人	震		zan 3 to tremble; to shake; to jolt; to quake			
+Cantonese::林家謙 - 怪我只敢做好人	罪		zeoi 6 crime; vice			
+Cantonese::林家謙 - 怪我只敢做好人	塑		sok 3 plastic			
+Cantonese::林家謙 - 怪我只敢做好人	判		pun 3 to judge			
+Cantonese::林家謙 - 怪我只敢做好人	允		wan 5 fair; just; equitable; even-handed; impartial			
+Cantonese::林家謙 - 怪我只敢做好人	責		zaak 3 to blame; to reproach			
+Cantonese::林家謙 - 怪我只敢做好人	指		zi 2 to point; to point out; to aim			
+Cantonese::林家謙 - 怪我只敢做好人	賄		kui 2 to bribe			
+Cantonese::林家謙 - 怪我只敢做好人	瞓		fan 3 to sleep			
+Cantonese::林家謙 - 怪我只敢做好人	斤		gan 1 a unit of weight			
+Cantonese::林家謙 - 怪我只敢做好人	貨		fo 3 goods; commodities; products			
+Cantonese::林家謙 - 怪我只敢做好人	豈		hei 2 how; how can it be that (used in rhetorical questions)			
+Cantonese::林家謙 - 怪我只敢做好人	負		fu 6 to carry (on the back); to bear (a burden or responsibility)			
+Cantonese::林家謙 - 怪我只敢做好人	聞		man 4 to smell; to detect; to get a sniff at			
+Cantonese::林家謙 - 怪我只敢做好人	拷		haau 2 to interrogate, chiefly by torture; to extract confession			
+Cantonese::Mirror - We Are All	紀		gei 2 rule; discipline			
+Cantonese::Mirror - We Are All	錄		luk 6 to record; write down			
+Cantonese::Mirror - We Are All	匆		cung 1 hasty; hurried			
+Cantonese::Mirror - We Are All	敗		baai 6 to fail			
+Cantonese::Mirror - We Are All	栽		zoi 1 to cultivate; to plant; to grow			
+Cantonese::Mirror - We Are All	梭		so 1 go to and fro			
+Cantonese::Mirror - We Are All	逗		dou 4 to stay; to remain; to stop			
+Cantonese::Mirror - We Are All	漆		cat 1 varnish; lacquer; paint			
+Cantonese::Mirror - We Are All	廝		si 1 mutually; with each other			
+Cantonese::林子祥 - 敢愛敢做	焦		ziu 1 burned; scorched			
+Cantonese::林子祥 - 敢愛敢做	廳		teng 1 hall; large room			
+Cantonese::林子祥 - 敢愛敢做	鬱		wat 1 depressed; gloomy; moody			
+Cantonese::林子祥 - 敢愛敢做	璃		lei 4 second character of glass			
+Cantonese::林子祥 - 敢愛敢做	確		kok 3 real; true			
+Cantonese::林子祥 - 敢愛敢做	撲		pok 3 to beat; to strike			
+Cantonese::林子祥 - 敢愛敢做	嚮		hoeng 3 to turn toward; to approach			
+Cantonese::林子祥 - 敢愛敢做	噸		deon 1 Classifier for metric ton.			
+Cantonese::林子祥 - 敢愛敢做	湧		jung 1 to rush out like water; to gush			
+Cantonese::林子祥 - 敢愛敢做	羈		gei 1 to restrain; to hold; to control			
+Cantonese::林子祥 - 敢愛敢做	鄙		pei 2 mean; ignoble			
+Cantonese::林子祥 - 敢愛敢做	眾		zung 3 masses; people; multitude; crowd; everyone			
+Cantonese::林子祥 - 敢愛敢做	輛		loeng 6 Classifier for wheeled vehicles			
+Cantonese::林子祥 - 敢愛敢做	崔		ceoi 1 high, lofty, towering			
+Cantonese::林子祥 - 敢愛敢做	促		cuk 1 hurried; urgent			
+Cantonese::林子祥 - 敢愛敢做	臂		bei 3 (anatomy) arm			
+Cantonese::林子祥 - 敢愛敢做	箍		ku 1 to bind; to encircle			
+Cantonese::林子祥 - 敢愛敢做	膚		fu 1 skin			
+Cantonese::林子祥 - 敢愛敢做	肌		gei 1 muscle; flesh			
+Cantonese::林子祥 - 敢愛敢做	殞		wan 5 to die; to perish			
+Cantonese::林子祥 - 敢愛敢做	石		sek 6 stone; rock			
+Cantonese::姜濤 - 追	進		zeon 3 to advance; to move forward			
+Cantonese::姜濤 - 追	功		gung 1 achievement; merit; good result			
+Cantonese::姜濤 - 追	標		biu 1 mark; symbol; label; sign; emblem			
+Cantonese::姜濤 - 追	枉		wong 2 in vain; to no avail; for naught			
+Cantonese::姜濤 - 追	瘋		fung 1 mentally unstable; crazy; insane; mad			
+Cantonese::姜濤 - 追	誤		ng 6 incorrect			
+Cantonese::姜濤 - 追	沈		cam 6 to sink; to submerge (into water)			
+Cantonese::洪嘉豪 - 主角光環	罕		hon 2 rare; scarce			
+Cantonese::洪嘉豪 - 主角光環	訪		fong 2 to visit			
+Cantonese::洪嘉豪 - 主角光環	掘		gwat 6 to dig; to excavate			
+Cantonese::洪嘉豪 - 主角光環	率		leot 6 rate; frequency			
+Cantonese::洪嘉豪 - 主角光環	異		ji 6 different; other			
+Cantonese::洪嘉豪 - 主角光環	芒		mong 4 ray; beam (of light)			
+Cantonese::洪嘉豪 - 主角光環	橋		kiu 4 bridge			
+Cantonese::洪嘉豪 - 主角光環	寵		cung 2 favour; love			
+Cantonese::洪嘉豪 - 主角光環	管		gun 2 to concern oneself with; to interfere with			
+Cantonese::洪嘉豪 - 主角光環	寶		bou 2 treasure; riches; valuables; precious thing			
+Cantonese::洪嘉豪 - 主角光環	陷		ham 6 fault; defect; drawback			
+Cantonese::洪嘉豪 - 主角光環	笨		ban 6 stupid; foolish; silly; slow-witted			
+Cantonese::洪嘉豪 - 主角光環	拙		zyut 3 stupid; clumsy			
+Cantonese::洪嘉豪 - 主角光環	環		waan 4 circle; ring; hoop			
+Cantonese::洪嘉豪 - 主角光環	炫		jyun 6 to show off; to boast			
+Cantonese::洪嘉豪 - 主角光環	耀		jiu 6 to shine; to sparkle			
+Cantonese::洪嘉豪 - 主角光環	啞		aa 2 mute; dumb (unable to speak)			
+Cantonese::陳奕迅 - 我的快樂時代	堪		ham 1 may; can; to be capable of; to be able to			
+Cantonese::陳奕迅 - 我的快樂時代	尚		soeng 6 still; yet			
+Cantonese::陳奕迅 - 我的快樂時代	毫		hou 4 slightest bit; least amount			
+Cantonese::陳奕迅 - 我的快樂時代	睡		seoi 6 to sleep			
+Cantonese::Dear Jane - 到底發生過什麼事	喝		hot 3 to drink			
+Cantonese::Dear Jane - 到底發生過什麼事	盈		jing 4 to fill; to be full of; to be filled with			
+Cantonese::Dear Jane - 到底發生過什麼事	啤		be 1 beer			
+Cantonese::Dear Jane - 到底發生過什麼事	瀉		se 3 to pour out; to flow rapidly; to pour down			
+Cantonese::Dear Jane - 到底發生過什麼事	酒		zau 2 alcoholic beverages in general; alcoholic drink			
+Cantonese::Dear Jane - 到底發生過什麼事	吧		baa 6 indicate a suggested action: why don't you ...; let us ...			
+Cantonese::Dear Jane - 到底發生過什麼事	轟		gwang 1 to rumble; to explode; to blast			
+Cantonese::Dear Jane - 到底發生過什麼事	烈		lit 6 fiery; blazing; intense			
+Cantonese::Dear Jane - 到底發生過什麼事	甘		gam 1 willingly; readily			
+Cantonese::Dear Jane - 到底發生過什麼事	宗		zung 1 main purpose			
+Cantonese::Dear Jane - 到底發生過什麼事	旨		zi 2 intention; purpose; aim			
+Cantonese::Dear Jane - 到底發生過什麼事	啟		kai 2 to open			
+Cantonese::Dear Jane - 到底發生過什麼事	齒		ci 2 to utter; to mention			
+Cantonese::Dear Jane - 到底發生過什麼事	詳		coeng 4 detailed; complete; thorough			
+Cantonese::Dear Jane - 到底發生過什麼事	勵		lai 6 to encourage			
+Cantonese::Dear Jane - 到底發生過什麼事	志		zi 3 will; determination; aspiration; ambition			
+Cantonese::Dear Jane - 到底發生過什麼事	番		faan 1 Classifier for different kinds of things: kind; type			
+Cantonese::Dear Jane - 到底發生過什麼事	熬		ngou 4 to cook something on slow fire; to extract something using heat			
+Cantonese::Dear Jane - 到底發生過什麼事	創		cong 1 to injure; to harm; to damage			
+Cantonese::Dear Jane - 到底發生過什麼事	垮		kwaa 1 to collapse; to fall			
+Cantonese::Dear Jane - 到底發生過什麼事	類		leoi 6 Classifier for types of things: type, kind, sort			
+Cantonese::洪嘉豪 - 黑玻璃	潮		ciu 4 trendy; popular			
+Cantonese::洪嘉豪 - 黑玻璃	示		si 6 to show; to reveal; to indicate; to notify; to instruct			
+Cantonese::洪嘉豪 - 黑玻璃	擠		zai 1 to crowd together tightly; to squeeze			
+Cantonese::洪嘉豪 - 黑玻璃	幅		fuk 1 Classifier for textiles and pictures			
+Cantonese::洪嘉豪 - 黑玻璃	盛		sing 6 flourishing; prosperous			
+Cantonese::洪嘉豪 - 黑玻璃	馳		ci 4 to speed; to gallop			
+Cantonese::洪嘉豪 - 黑玻璃	駛		sai 2 to drive (a vehicle); to sail (a vessel); to fly (an aircraft)			
+Cantonese::洪嘉豪 - 黑玻璃	擎		king 4 to prop up; to hold up; to lift up			
+Cantonese::洪嘉豪 - 黑玻璃	攜		kwai 4 to carry; to bear			
+Cantonese::洪嘉豪 - 黑玻璃	曠		kwong 3 broad; vast; extensive			
+Cantonese::洪嘉豪 - 黑玻璃	暴		bou 6 violent; cruel; brutal; tyrannical			
+Cantonese::洪嘉豪 - 黑玻璃	曬		saai 3 (of the sun) to shine on			
+Cantonese::洪嘉豪 - 黑玻璃	遮		ze 1 to block; to obstruct			
+Cantonese::洪嘉豪 - 黑玻璃	料		liu 6 to anticipate; to predict; to foresee; to expect			
+Cantonese::林家謙 - 有你聽我的故事	部		bou 6 part; division; section			
+Cantonese::林家謙 - 有你聽我的故事	珍		zan 1 treasure			
+Cantonese::林家謙 - 有你聽我的故事	垂		seoi 4 to suspend; to hang (down); bend (down)			
+Cantonese::林家謙 - 有你聽我的故事	叮		ding 1 to advise; to urge; to repeat what one says to make sure			
+Cantonese::林家謙 - 有你聽我的故事	囑		zuk 1 to enjoin; to urge; to instruct			
+Cantonese::梁漢文 - 零時十一分	檳		ban 1 second character in champagne			
+Cantonese::梁漢文 - 零時十一分	添		tim 1 to add; to increase; to supplement; to fill			
+Cantonese::梁漢文 - 零時十一分	霄		siu 1 sky; heaven			
+Cantonese::梁漢文 - 零時十一分	辰		san 4 time; day; season			
+Cantonese::梁漢文 - 零時十一分	韻		wan 6 sweet music; melodious tune			
+Cantonese::梁漢文 - 零時十一分	窘		gwan 6 embarrassed			
+Cantonese::梁漢文 - 零時十一分	預		jyu 6 beforehand, in advance			
+Cantonese::梁漢文 - 零時十一分	臨		lam 6 to be faced with; to be confronted by			
+Cantonese::梁漢文 - 零時十一分	際		zai 3 border; boundary; juncture			
+Cantonese::梁漢文 - 零時十一分	既		gei 3 already			
+Cantonese::梁漢文 - 零時十一分	淪		leon 4 ripple; small waves			
+Cantonese::梁漢文 - 零時十一分	憫		man 5 to sympathize; to pity; to feel compassion for			
+Cantonese::Kiri T - 有些話要用英文說	遷		cin 1 to change; to shift; to transfer			
+Cantonese::Kiri T - 有些話要用英文說	宣		syun 1 (literary or in compounds) to declare; to announce; to proclaim			
+Cantonese::Kiri T - 有些話要用英文說	洩		sit 3 to reveal; to divulge (eg. secrets)			
+Cantonese::Kiri T - 有些話要用英文說	準		zeon 2 accurate; exact			
+Cantonese::Kiri T - 有些話要用英文說	齒		ci 2 to utter; to mention			
+Cantonese::Kiri T - 有些話要用英文說	把		baa 2 to hold; to grasp; to take			
+Cantonese::陳卓賢 - Thank You Postman	附		fu 6 to add; to augment; to increase; to raise; to boost			
+Cantonese::陳卓賢 - Thank You Postman	草		cou 2 herbaceous plant; herb; weed; wort; grass; forb			
+Cantonese::陳卓賢 - Thank You Postman	浸		zam 3 to soak; to sit in water (or liquid)			
+Cantonese::陳卓賢 - Thank You Postman	翁		jung 1 elderly man			
+Cantonese::陳卓賢 - Thank You Postman	婦		fu 5 married woman			
+Cantonese::陳卓賢 - Thank You Postman	飾		sik 1 ornament; decorations; adornments			
+Cantonese::陳卓賢 - Thank You Postman	返		faan 2 to return (to); to come or go back (to)			
+Cantonese::陳卓賢 - Thank You Postman	筆		bat 1 writing brush			
+Cantonese::陳卓賢 - Thank You Postman	尖		zim 1 sharp; having a sharp tip; pointy			
+Cantonese::陳卓賢 - Thank You Postman	箱		soeng 1 (large) box; chest; trunk			
+Cantonese::陳卓賢 - Thank You Postman	投		tau 4 to put in; to drop			
+Cantonese::陳卓賢 - Thank You Postman	煮		zyu 2 to boil; to cook			
+Cantonese::陳卓賢 - Thank You Postman	翻		faan 1 to flip over; to turn over; to reverse; to toss			
+Cantonese::陳卓賢 - Thank You Postman	頁		jip 6 page			
+Cantonese::陳卓賢 - Thank You Postman	搜		sau 1 to seek; to look for			
+Cantonese::陳卓賢 - Thank You Postman	教		gau 1 to teach; to instruct			
+Cantonese::陳卓賢 - Thank You Postman	藝		ngai 1 art			
+Cantonese::陳卓賢 - Thank You Postman	術		seot 6 art; craft; skill; technique			
+Cantonese::Yan Ting - 晨星	竭		kit 3 to dry up; to drain			
+Cantonese::Yan Ting - 晨星	惑		waak 6 confused; puzzled; deluded			
+Cantonese::Yan Ting - 晨星	替		tai 3 to substitute for; to displace			
+Cantonese::Yan Ting - 晨星	汗		hon 6 sweat; perspiration			
+Cantonese::Yan Ting - 晨星	燎		liu 4 torch			
+Cantonese::Yan Ting - 晨星	搏		bok 3 to come to blows			
+Cantonese::Yan Ting - 晨星	勝		sing 1 to be able to bear; to be able to withstand			
+Cantonese::Yan Ting - 晨星	枉		wong 2 bent; crooked			
+Cantonese::Yan Ting - 晨星	迎		jing 4 to receive; to welcome; to greet; to meet			
+Cantonese::Yan Ting - 晨星	耀		jiu 6 to shine; to sparkle			
+Cantonese::Yan Ting - 晨星	瑩		jing 4 lustrous and transparent			
+Cantonese::gareth.t - 緊急聯絡人	屬		suk 6 to belong to			
+Cantonese::gareth.t - 緊急聯絡人	刪		saan 1 to delete			
+Cantonese::gareth.t - 緊急聯絡人	絲		si 1 trace; tiny bit			
+Cantonese::gareth.t - 緊急聯絡人	趕		gon 2 to overtake; to catch up with			
+Cantonese::gareth.t - 緊急聯絡人	客		haak 3 guest; visitor			
+Cantonese::gareth.t - 緊急聯絡人	煩		fan 2 to annoy; to bother			
+Cantonese::gareth.t - 緊急聯絡人	諸		zyu 1 many; each; every; all			
+Cantonese::gareth.t - 緊急聯絡人	奇		kei 4 strange; odd; weird; unusual			
+Cantonese::gareth.t - 緊急聯絡人	騷		sou 1 to harass; to bother; to annoy; to disturb; to agitate			
+Cantonese::gareth.t - 緊急聯絡人	絡		lok 3 to enmesh; to wrap around			
+Cantonese::gareth.t - 緊急聯絡人	川		cyun 1 river; stream; brook			
+Cantonese::gareth.t - 緊急聯絡人	鰥		gwaan 1 widower			
+Cantonese::gareth.t - 緊急聯絡人	絆		bun 6 to hinder; to restrain			
+Cantonese::gareth.t - 緊急聯絡人	淡		taam 5 bland; tasteless			
+Cantonese::gareth.t - 緊急聯絡人	藉		ze 6 even if			
+Cantonese::gareth.t - 緊急聯絡人	遺		wai 4 to lose; to lose track of			
+Cantonese::gareth.t - 緊急聯絡人	頑		waan 4 obstinate; stubborn; recalcitran			
+Cantonese::gareth.t - 緊急聯絡人	告		gou 3 to report to			
+Cantonese::gareth.t - 緊急聯絡人	式		sik 1 ritual; ceremony			
+Cantonese::gareth.t - 緊急聯絡人	喪		song 1 mourning; funeral ceremony			
+Cantonese::姜濤 - 岩巉	抽		cau 1 to draw lots			
+Cantonese::姜濤 - 岩巉	懇		han 2 sincere; earnest; cordial			
+Cantonese::姜濤 - 岩巉	巉		caam 4 precipitous; steep			
+Cantonese::姜濤 - 岩巉	納		naap 6 to accept; to take on			
+Cantonese::姜濤 - 岩巉	稜		ling 4 arris; edge; corner			
+Cantonese::姜濤 - 岩巉	獲		wok 6 to catch			
+Cantonese::姜濤 - 岩巉	凸		dat 6 protruding; sticking out			
+Cantonese::姜濤 - 岩巉	凹		nap 1 concave; hollow; sunken; dented			
+Cantonese::姜濤 - 岩巉	瑕		haa 4 flaw; blemish			
+Cantonese::姜濤 - 岩巉	諧		haai 4 to harmonize; to coordinate; to fit together			
+Cantonese::姜濤 - 岩巉	鄰		leon 4 neighbor; neighborhood			
+Cantonese::姜濤 - 岩巉	鎮		zan 3 to press down; to suppress; to repress; to subdue			
+Cantonese::Kiri T - 至少做一件離譜的事+	邪		ce 4 wrong; evil; depraved; vicious; perverse; heterodox			
+Cantonese::Kiri T - 至少做一件離譜的事+	頹		teoi 4 dejected; depressed; down; listless			
+Cantonese::Kiri T - 至少做一件離譜的事+	潘		pun 1 (Greek mythology) Pan			
+Cantonese::Kiri T - 至少做一件離譜的事+	拉		laai 1 to pull; to drag; to tug			
+Cantonese::Kiri T - 至少做一件離譜的事+	蓋		goi 3 cover; cap; lid  koi 3 to cover; to conceal			
+Cantonese::Kiri T - 至少做一件離譜的事+	禮		lai 5 gift			
+Cantonese::Kiri T - 至少做一件離譜的事+	揀		gaan 2 to choose; to pick			
+Cantonese::Kiri T - 至少做一件離譜的事+	控		hung 3 to control; to take charge of			
+Cantonese::Kiri T - 至少做一件離譜的事+	譜		pou 2 register; list; table			
+Cantonese::Kiri T - 至少做一件離譜的事+	罕		hon 2 rare; scarce			
+Cantonese::Kiri T - 至少做一件離譜的事+	荊		ging 1 chaste tree (Vitex); redbud (Cercis)			
+Cantonese::Kiri T - 至少做一件離譜的事+	棘		gik 1 thorny bush; bramble			
+Cantonese::Kiri T - 至少做一件離譜的事+	帳		zoeng 3 tent; curtain			
+Cantonese::Kiri T - 至少做一件離譜的事+	壯		zong 3 strong; robust			
+Cantonese::Kiri T - 至少做一件離譜的事+	揮		fai 1 to direct; to command			
+Cantonese::Kiri T - 至少做一件離譜的事+	棒		paang 5 stick; club; truncheon			
+Cantonese::Kiri T - 至少做一件離譜的事+	碼		maa 5 digit; number; code			
+Cantonese::Kiri T - 至少做一件離譜的事+	降		gong 3 to fall; to drop; to descend; to come down			
+Cantonese::Kiri T - 至少做一件離譜的事+	徒		tou 4 bare; plain			
+Cantonese::Kiri T - 至少做一件離譜的事+	挑		tiu 1 to pick; to select; to choose			
+Cantonese::Kiri T - 至少做一件離譜的事+	碰		pung 3 to collide; to bump; to knock; to touch			
+Cantonese::Kiri T - 至少做一件離譜的事+	瞬		seon 3 instant; moment; blink of an eye			
+Cantonese::Kiri T - 至少做一件離譜的事	邪		ce 4 wrong; evil; depraved; vicious; perverse; heterodox			
+Cantonese::Kiri T - 至少做一件離譜的事	頹		teoi 4 dejected; depressed; down; listless			
+Cantonese::Kiri T - 至少做一件離譜的事	潘		pun 1 (Greek mythology) Pan			
+Cantonese::Kiri T - 至少做一件離譜的事	拉		laai 1 to pull; to drag; to tug			
+Cantonese::Kiri T - 至少做一件離譜的事	蓋		goi 3 cover; cap; lid  koi 3 to cover; to conceal			
+Cantonese::Kiri T - 至少做一件離譜的事	禮		lai 5 gift			
+Cantonese::Kiri T - 至少做一件離譜的事	揀		gaan 2 to choose; to pick			
+Cantonese::Kiri T - 至少做一件離譜的事	控		hung 3 to control; to take charge of			
+Cantonese::Kiri T - 至少做一件離譜的事	譜		pou 2 register; list; table			
+Cantonese::Kiri T - 至少做一件離譜的事	罕		hon 2 rare; scarce			
+Cantonese::Kiri T - 至少做一件離譜的事	荊		ging 1 chaste tree (Vitex); redbud (Cercis)			
+Cantonese::Kiri T - 至少做一件離譜的事	棘		gik 1 thorny bush; bramble			
+Cantonese::Kiri T - 至少做一件離譜的事	帳		zoeng 3 tent; curtain			
+Cantonese::Kiri T - 至少做一件離譜的事	壯		zong 3 strong; robust			
+Cantonese::Kiri T - 至少做一件離譜的事	揮		fai 1 to direct; to command			
+Cantonese::Kiri T - 至少做一件離譜的事	棒		paang 5 stick; club; truncheon			
+Cantonese::Kiri T - 至少做一件離譜的事	碼		maa 5 digit; number; code			
+Cantonese::Kiri T - 至少做一件離譜的事	降		gong 3 to fall; to drop; to descend; to come down			
+Cantonese::Kiri T - 至少做一件離譜的事	徒		tou 4 bare; plain			
+Cantonese::Kiri T - 至少做一件離譜的事	挑		tiu 1 to pick; to select; to choose			
+Cantonese::Kiri T - 至少做一件離譜的事	碰		pung 3 to collide; to bump; to knock; to touch			
+Cantonese::Kiri T - 至少做一件離譜的事	瞬		seon 3 instant; moment; blink of an eye			
+Cantonese::陳卓賢 - 再見 寧靜海	達		daat 6 to reach; to arrive at			
+Cantonese::陳卓賢 - 再見 寧靜海	掙		zaang 1 to earn; to make			
+Cantonese::陳卓賢 - 再見 寧靜海	勝		sing 1 to be able to bear; to be able to withstand			
+Cantonese::陳卓賢 - 再見 寧靜海	取		ceoi 2 to select; to choose			
+Cantonese::陳卓賢 - 再見 寧靜海	消		siu 1 to disappear; to vanish; to die down; to settle down			
+Cantonese::陳卓賢 - 再見 寧靜海	系		hai 6 to belong to; to be part of; to fall under; to be categorised as; to be classified as			
+Cantonese::陳卓賢 - 再見 寧靜海	蜉		fau 4 first character in mayfly (fau 4 jau 4)			
+Cantonese::陳卓賢 - 再見 寧靜海	蝣		jau 4 second character in mayfly (fau 4 jau 4)			
+Cantonese::陳卓賢 - 再見 寧靜海	廻		wui 4 to revolve; to rotate			
+Cantonese::陳卓賢 - 再見 寧靜海	垢		gau 3 filth; dirt			
+Cantonese::Dear Jane - 經過一些秋與冬	拗		aau 3 to defy; to disobey			
+Cantonese::Dear Jane - 經過一些秋與冬	准		zeon 2 to allow; to grant; to permit			
+Cantonese::Dear Jane - 經過一些秋與冬	罵		maa 6 to curse; to swear			
+Cantonese::Dear Jane - 經過一些秋與冬	撤		cit 3 to take away; to remove; to clear away			
+Cantonese::Dear Jane - 經過一些秋與冬	押		aat 6 to arrest; to detain; to guard; to take into custody			
+Cantonese::Dear Jane - 經過一些秋與冬	醜		cau 2 ugly; homely; hideous			
+Cantonese::Beyond - 海闊天空 Flashcards	嘲		zaau 1 to ridicule; to deride; to scorn; to jeer at			
+Cantonese::Beyond - 海闊天空 Flashcards	恍		fong 2 seemingly, as if			
+Cantonese::Beyond - 海闊天空 Flashcards	惚		fat 1 absent-minded; confused			
+Cantonese::馬天佑 - 我們什麼都不是	謊		fong 1 lie; untruth			
+Cantonese::馬天佑 - 我們什麼都不是	射		se 6 to shoot (an arrow); to fire			
+Cantonese::馬天佑 - 我們什麼都不是	處		cyu 2 to reside; to live; to dwell			
+Cantonese::馬天佑 - 我們什麼都不是	緩		wun 6 to postpone; to delay; to have a pause			
+Cantonese::馬天佑 - 我們什麼都不是	執		zap 1 to pick up			
+Cantonese::馬天佑 - 我們什麼都不是	迷		mai 4 to get lost			
+Cantonese::馬天佑 - 我們什麼都不是	究		gau 3 to reach the end or limit; to exhaust			
+Cantonese::馬天佑 - 我們什麼都不是	抑		jik 1 to repress; to suppress; to restrain; to restrict			
+Cantonese::馬天佑 - 我們什麼都不是	揹		bui 3 to carry on the back			
+Cantonese::Gareth T - 用背脊唱情歌	一		yat 1 one			
+Cantonese::Gareth T - 用背脊唱情歌	下		haa 6 below; under; next			
+Cantonese::Gareth T - 用背脊唱情歌	不		bat 1 not			
+Cantonese::Gareth T - 用背脊唱情歌	世		sai 3 world; generation			
+Cantonese::Gareth T - 用背脊唱情歌	中		zung 1 middle; center			
+Cantonese::Gareth T - 用背脊唱情歌	了		liu 5 completed action marker			
+Cantonese::Gareth T - 用背脊唱情歌	事		si 6 affair; matter; thing			
+Cantonese::Gareth T - 用背脊唱情歌	二		ji 6 two			
+Cantonese::Gareth T - 用背脊唱情歌	今		gam 1 today; now			
+Cantonese::Gareth T - 用背脊唱情歌	以		ji 5 using; by means of			
+Cantonese::Gareth T - 用背脊唱情歌	你		nei 5 you			
+Cantonese::Gareth T - 用背脊唱情歌	個		go 3 classifier for people or items			
+Cantonese::Gareth T - 用背脊唱情歌	們		mun 4 plural marker for pronouns			
+Cantonese::Gareth T - 用背脊唱情歌	儍		so 4 foolish; silly			
+Cantonese::Gareth T - 用背脊唱情歌	償		soeng 4 to repay; to compensate			
+Cantonese::Gareth T - 用背脊唱情歌	到		dou 3 to arrive; to reach			
+Cantonese::Gareth T - 用背脊唱情歌	十		sap 6 ten			
+Cantonese::Gareth T - 用背脊唱情歌	可		ho 2 can; may; able to			
+Cantonese::Gareth T - 用背脊唱情歌	喜		hei 2 to be happy; joy			
+Cantonese::Gareth T - 用背脊唱情歌	多		do 1 many; much			
+Cantonese::Gareth T - 用背脊唱情歌	布		bou 3 cloth; fabric			
+Cantonese::Gareth T - 用背脊唱情歌	心		sam 1 heart			
+Cantonese::Gareth T - 用背脊唱情歌	我		ngo 5 I; me			
+Cantonese::Gareth T - 用背脊唱情歌	篤		duk 1 to poke; to jab			
+Cantonese::Gareth T - 用背脊唱情歌	日		jat 6 day; sun			
+Cantonese::Gareth T - 用背脊唱情歌	明		ming 4 bright; clear			
+Cantonese::Gareth T - 用背脊唱情歌	是		si 6 is; are; am			
+Cantonese::Gareth T - 用背脊唱情歌	用		jung 6 to use			
+Cantonese::Gareth T - 用背脊唱情歌	的		dik 1 (possessive particle)			
+Cantonese::Gareth T - 用背脊唱情歌	脊		zek 3 back (of body)			
+Cantonese::Gareth T - 用背脊唱情歌	裸		lo 2 naked; bare			
+Cantonese::Gareth T - 用背脊唱情歌	路		lou 6 road; path			
+Cantonese::MC 張天賦 - 說謊者	力		lik6 power; strength; ability			
+Cantonese::MC 張天賦 - 說謊者	七		cat1 seven			
+Cantonese::MC 張天賦 - 說謊者	天		tin1 day; sky			
+Cantonese::MC 張天賦 - 說謊者	手		sau2 hand			
+Cantonese::MC 張天賦 - 說謊者	方		fong1 method; way; plan			
+Cantonese::MC 張天賦 - 說謊者	看		hon3 to look at; to watch; to observe			
+Cantonese::MC 張天賦 - 說謊者	之		zi1 of; 's (possessive particle)			
+Cantonese::MC 張天賦 - 說謊者	好		hou2 good; well; proper			
+Cantonese::MC 張天賦 - 說謊者	鋼		gong1 steel			
+Cantonese::MC 張天賦 - 說謊者	駁		bok3 to refute; to contradict			
+Cantonese::MC 張天賦 - 說謊者	怯		hip6 timid; cowardly			
+Cantonese::MC 張天賦 - 說謊者	騙		pin3 to deceive; to cheat; to trick			
+Cantonese::MC 張天賦 - 說謊者	子		zi2 child; son; a suffix for nouns			
+Cantonese::MC 張天賦 - 說謊者	瞞		mun4 to deceive; to hide; to conceal			
+Cantonese::MC 張天賦 - 說謊者	他		taa1 he; him; other			
+Cantonese::MC 張天賦 - 說謊者	技		gei6 skill; technique			
+Cantonese::MC 張天賦 - 說謊者	黑		hak1 black; dark			
+Cantonese::MC 張天賦 - 說謊者	逼		bik1 to force; to compel; to press			
+Cantonese::林家謙 - 神奇的糊塗魔藥	遁		deon6 to escape; to hide away (suggesting breaking free from constraints or reality)			
+Cantonese::林家謙 - 神奇的糊塗魔藥	糊		wu4 confused; muddled (part of '糊塗', meaning not thinking clearly or carefree)			
+Cantonese::林家謙 - 神奇的糊塗魔藥	塗		tou4 confused; muddled (part of '糊塗', meaning not thinking clearly or carefree)			
+Cantonese::林家謙 - 神奇的糊塗魔藥	三		saam1 three			
+Cantonese::林家謙 - 神奇的糊塗魔藥	着		zoek6 in the process of; being (used to indicate ongoing action or state, e.g. '忙着', '擺着')			
+Cantonese::林家謙 - 神奇的糊塗魔藥	錶		biu1 watch; timepiece			
+Cantonese::林家謙 - 神奇的糊塗魔藥	問		man6 to ask; to question (as in questioning or wondering about something)			
+Cantonese::林家謙 - 神奇的糊塗魔藥	龍		lung4 dragon (in '烏龍', meaning a blunder or mistake; not literally a dragon)			
+Cantonese::林家謙 - 神奇的糊塗魔藥	名		ming4 fame; reputation (as in '名和利', meaning fame and fortune)			
+Cantonese::林家謙 - 神奇的糊塗魔藥	和		wo4 and (connecting words, as in 'fame and fortune')			
+Cantonese::林家謙 - 神奇的糊塗魔藥	會		wui5 may; might; will (indicating possibility or future action)			
+Cantonese::林家謙 - 神奇的糊塗魔藥	棋		kei4 chess; board game (metaphor for navigating life or making choices)			
+Cantonese::梁漢文 - 衣櫃裡的男人	俬		si1 furniture; household items			
+Cantonese::梁漢文 - 衣櫃裡的男人	兩		loeng5 two; a pair			
+Cantonese::梁漢文 - 衣櫃裡的男人	字		zi6 word; character			
+Cantonese::梁漢文 - 衣櫃裡的男人	因		jan1 reason; cause			
+Cantonese::梁漢文 - 衣櫃裡的男人	弄		nung6 to play with; to toy with (as in '玩弄情感' - to toy with feelings)			
+Cantonese::梁漢文 - 衣櫃裡的男人	戒		gaai3 ring (as in '戒指' - ring, specifically a finger ring)			
+Cantonese::梁漢文 - 衣櫃裡的男人	門		mun4 door; entrance			
+Cantonese::梁漢文 - 衣櫃裡的男人	瀟		siu1 carefree; unrestrained (as in '瀟灑' - graceful and carefree)			
+Cantonese::梁漢文 - 衣櫃裡的男人	太		taai3 too; excessively			
+Cantonese::梁漢文 - 衣櫃裡的男人	緻		zi3 delicate; fine (as in '精緻' - exquisite, refined)			
+Cantonese::梁漢文 - 衣櫃裡的男人	衣		ji1 clothes; clothing (as in '衣櫃' - wardrobe)			
+Cantonese::梁漢文 - 衣櫃裡的男人	櫃		gwai6 cabinet; wardrobe			
+Cantonese::梁漢文 - 衣櫃裡的男人	截		zit6 to cut off; to sever (as in '截斷電源' - cut off the power supply)			
+Cantonese::梁漢文 - 衣櫃裡的男人	墟		heoi1 ruins; deserted place (as in '廢墟' - ruins, a metaphor for emptiness)			
+Cantonese::梁漢文 - 衣櫃裡的男人	男		naam4 man; male (as in '男子' - man)			
+Cantonese::梁漢文 - 衣櫃裡的男人	椅		ji2 chair			
+Cantonese::梁漢文 - 衣櫃裡的男人	仁		jan4 benevolent; kind (as in '仁慈' - benevolence, kindness)			
+Cantonese::梁漢文 - 衣櫃裡的男人	慈		ci4 compassionate; merciful (as in '仁慈' - benevolence, kindness)			
+Cantonese::黎明 - 情深說話未曾講	響		hoéng response; echo (as in 回響, meaning a response or resonance to one's feelings or love)			
+Cantonese::黎明 - 情深說話未曾講	妄		mong vain; unrealistic (as in 妄想, meaning a vain hope or unrealistic wish)			
+Cantonese::黎明 - 情深說話未曾講	頭		tau4 head; beginning; direction (as in 回頭, meaning to turn back or look back)			
+Cantonese::王菲 - 曖昧	甚		sam6 what; anything (used in questions or to express uncertainty)			
+Cantonese::王菲 - 曖昧	唇		seon4 lips			
+Cantonese::王菲 - 曖昧	茶		caa4 tea			
+Cantonese::王菲 - 曖昧	光		gwong1 completely; all (as in 'drink up' or 'finish')			
+Cantonese::王菲 - 曖昧	兜		dau1 to circle around; to go around			
+Cantonese::王菲 - 曖昧	裳		soeng4 clothing; garment (here, referring to '衣裳' as clothes)			
+Cantonese::王菲 - 曖昧	徘		pui4 to pace; to wander (used with '徊' as '徘徊' meaning to hesitate or wander)			
+Cantonese::王菲 - 曖昧	徊		wui4 to go back and forth; to hesitate (used with '徘' as '徘徊')			
+Cantonese::王菲 - 曖昧	曖		oi2 ambiguous; unclear (used with '昧' as '曖昧' meaning ambiguous or unclear relationship)			
+Cantonese::王菲 - 曖昧	昧		mui6 dim; obscure (used with '曖' as '曖昧')			
+Cantonese::王菲 - 曖昧	填		tin4 to fill; to make up for (as in filling a night with borrowed love or affection)			
+Cantonese::王菲 - 曖昧	貪		taam1 to covet; to desire more than one should			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	召		ziu6 to summon; to call upon (as in being called or summoned by fate or circumstance)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	座		zo6 a place; location (as in '銀座', Ginza, symbolizing a grand or prosperous place)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	杖		zoeng6 staff; scepter (symbolizing authority or inheritance)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	立		lap6 to stand; to have a position or stance (as in having a standpoint or opinion)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	入		jap6 to enter; to go into (as in entering the world or society)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	漿		zoeng1 molten liquid; lava (as in '岩漿', lava, symbolizing danger or overwhelming force)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	茅		maau4 thatch; grass (as in '茅盾', a play on '矛盾', meaning contradiction)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	吃		hek3 to eat; to take (as in taking medicine or injections)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	膩		nei6 to be tired of; to be fed up with (as in being bored or sick of something)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	裕		jyu6 abundant; rich (as in '富裕', wealth or affluence)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	生		sang1 life; to live (as in cherishing life or fearing death)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	半		bun3 half; partial (as in '半生', half a lifetime)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	娛		jyu6 to entertain; to amuse (as in using something as entertainment or distraction)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	己		gei2 oneself; self (as in self-reflection or self-indulgence)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	嬌		giu1 delicate; pampered (as in '嬌生慣養', pampered upbringing)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	列		lit6 to arrange; to list (as in arranging or lining up medicine)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	奢		ce1 luxurious; extravagant (as in '奢侈', luxury)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	侈		cí2 extravagant; lavish (as in '奢侈', luxury)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	躁		cou3 restless; agitated (as in '躁動', agitation or restlessness)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	叩		kau3 to knock (as in knocking on a door, symbolizing seeking or entering something new)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	猛		maang5 fierce; intense (as in something happening with intensity or recklessness)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	坐		co5 to sit; to ride (as in sitting or riding, e.g., on a roller coaster)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	山		saan1 mountain (as in '過山車', roller coaster, symbolizing ups and downs)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	車		ce1 vehicle; car (as in '過山車', roller coaster			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	級		kap1 level; rank (as in social or economic status)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	療		liu4 to heal; to cure (as in healing oneself or others)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	斥		cik1 to criticize; to denounce (as in being filled with resentment or blame)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	所		so2 place; location (as in a place or situation)			
+Cantonese::傅珮嘉 x 周國賢 - 快快樂樂病下去	摑		gwaak3 to slap (as in slapping oneself awake; a metaphor for self-realization)			
+Cantonese::許冠傑 - 半斤八兩	工		gung1 work; labor			
+Cantonese::許冠傑 - 半斤八兩	仔		zai2 guy; fellow (colloquial suffix for people, especially men)			
+Cantonese::許冠傑 - 半斤八兩	糴		dik6 to buy rice (here, means hustling or running errands)			
+Cantonese::許冠傑 - 半斤八兩	頭		tau4 head; used in phrases to mean 'completely' or 'totally' (e.g., 直頭 = absolutely)			
+Cantonese::許冠傑 - 半斤八兩	胃		wai6 stomach (referring to physical or emotional strain)			
+Cantonese::許冠傑 - 半斤八兩	揾		wan2 to earn; to look for (money, work, etc.)			
+Cantonese::許冠傑 - 半斤八兩	嗰		go2 that; those (demonstrative)			
+Cantonese::許冠傑 - 半斤八兩	少		siu2 few; little; not much			
+Cantonese::許冠傑 - 半斤八兩	月		jyut6 month (refers to end of the month, payday)			
+Cantonese::許冠傑 - 半斤八兩	奀		an1 thin; weak; scrawny (describing being undernourished or poor)			
+Cantonese::許冠傑 - 半斤八兩	弊		bai6 bad; terrible; disastrous (slang: in trouble, in a bad situation)			
+Cantonese::許冠傑 - 半斤八兩	郁		juk1 to move; to stir (here, means 'to act' or 'to do something')			
+Cantonese::許冠傑 - 半斤八兩	啲		di1 some; a little bit (plural marker or diminutive)			
+Cantonese::許冠傑 - 半斤八兩	威		wai1 powerful; showing off; acting tough			
+Cantonese::許冠傑 - 半斤八兩	雞		gai1 chicken (used in slang to mean crazy or silly)			
+Cantonese::許冠傑 - 半斤八兩	喺		hai2 at; in; on (preposition for location or state)			
+Cantonese::許冠傑 - 半斤八兩	吠		fai6 to bark (metaphorically, to complain or make noise)			
+Cantonese::許冠傑 - 半斤八兩	翳		ai3 to be blocked; to be hindered (here, means to be frustrated or annoyed)			
+Cantonese::許冠傑 - 半斤八兩	薪		san1 salary; pay			
+Cantonese::許冠傑 - 半斤八兩	嗱		naa4 look!; hey! (interjection to draw attention)			
+Cantonese::許冠傑 - 半斤八兩	吓		haa5 a bit; a moment (used for emphasis or to soften a command)			
+Cantonese::許冠傑 - 半斤八兩	八		baat3 eight (used in the idiom 半斤八兩, meaning 'six of one, half a dozen of the other')			
+Cantonese::許冠傑 - 半斤八兩	水		seoi2 water (in slang, means money or something diluted/weak)			
+Cantonese::許冠傑 - 半斤八兩	炮		paau3 cannon; firecracker (in context, refers to firecracker)			
+Cantonese::許冠傑 - 半斤八兩	響		hoeng2 to sound; to make noise (as in a firecracker going off)			
+Cantonese::許冠傑 - 半斤八兩	薑		goeng1 ginger (in slang, means guts or courage)			
+Cantonese::許冠傑 - 半斤八兩	槍		coeng1 gun (literal or metaphorical for force)			
+Cantonese::許冠傑 - 半斤八兩	搶		coeng2 to rob; to snatch; to grab			
+Cantonese::許冠傑 - 半斤八兩	咗		zo2 completed action marker (indicates past tense)			
+Cantonese::許冠傑 - 半斤八兩	攞		lo2 to get; to take; to fetch			
+Cantonese::許冠傑 - 半斤八兩	陣		zan6 period of time; moment (used for 'nowadays' or 'this time')			
+Cantonese::許冠傑 - 半斤八兩	食		sik6 to eat; to make a living (in context: to earn a living)			
+Cantonese::許冠傑 - 半斤八兩	漲		zoeng3 to swell; to inflate (here, means to exaggerate or boast)			
+Cantonese::許冠傑 - 半斤八兩	幣		bai6 currency; money			
+Cantonese::許冠傑 - 半斤八兩	奴		nou4 slave (metaphorically, someone controlled by something)			
+Cantonese::許冠傑 - 半斤八兩	隸		dai6 servant; subordinate (in compound with 奴, means 'slave')			
+Cantonese::許冠傑 - 半斤八兩	嚇		haak3 to scare; to frighten			
+Cantonese::許冠傑 - 半斤八兩	仲		zung6 still; even (indicating continuation or comparison)			
+Cantonese::許冠傑 - 半斤八兩	淥		luk6 to blanch; to scald (as in boiling, referring to hardship)			
+Cantonese::許冠傑 - 半斤八兩	啄		zoek3 to peck (as in a bird pecking, metaphor for picking up scraps)			

@@ -20,6 +20,7 @@ export async function PUT(
   const character = typeof body.character === 'string' ? body.character.trim() : '';
   const jyutping = typeof body.jyutping === 'string' ? body.jyutping.trim() : '';
   const definition = typeof body.definition === 'string' ? body.definition.trim() : '';
+  const source = typeof body.source === 'string' ? body.source.trim() || null : null;
 
   if (!character || !jyutping || !definition) {
     return NextResponse.json(
@@ -29,7 +30,7 @@ export async function PUT(
   }
 
   try {
-    const updated = updateEntry(id, { character, jyutping, definition });
+    const updated = updateEntry(id, { character, jyutping, definition, source });
     return NextResponse.json({ entry: updated });
   } catch (error: any) {
     return NextResponse.json(

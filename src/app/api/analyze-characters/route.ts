@@ -9,7 +9,7 @@ export const maxDuration = 120;
 export async function POST(request: NextRequest) {
   const startTime = Date.now();
   console.log('🟡 [CHARACTER API] Request received');
-  
+
   try {
     const { lyrics, songContext } = await request.json();
     console.log('🟡 [CHARACTER API] Request parsed:', {
@@ -30,7 +30,7 @@ export async function POST(request: NextRequest) {
     const dbStartTime = Date.now();
     const { newCharacters, foundCharacters } = await findNewCharacters(lyrics);
     const dbEndTime = Date.now();
-    
+
     console.log(`🟡 [CHARACTER API] Database analysis completed in ${dbEndTime - dbStartTime}ms:`, {
       newCharactersCount: newCharacters.length,
       foundCharactersCount: foundCharacters.length,
@@ -64,30 +64,30 @@ export async function POST(request: NextRequest) {
     // Generate contextual definitions for new characters
     console.log('🟡 [CHARACTER API] Calling OpenAI for character definitions...');
     const openaiStartTime = Date.now();
-    
+
     // Create a promise that rejects after a timeout
     const timeoutPromise = new Promise((_, reject) => {
       setTimeout(() => {
         reject(new Error('OpenAI API call timed out after 90 seconds'));
       }, 90000);
     });
-    
+
     const completionPromise = openai.chat.completions.create({
       model: "gpt-4.1",
       messages: [
         {
           role: "system",
-          content: `You are a Cantonese language expert. Given a set of Chinese characters and their context from song lyrics, provide definitions that best align with character as used in the song lyrics.
-          
+          content: `You are a Cantonese language expert. Given a set of Chinese characters and their context from song lyrics, provide definitions that best align with the character as used in the song lyrics.
+
           For each character, provide:
-          1. A contextually appropriate definition that fits the song's theme
-          2. A reasonable Cantonese pronunciation (romanized). Use the Jyutping romanization system. 
-          
+          1. A standard common definition of the character that best matches how it is used in the song.
+          2. A reasonable Cantonese pronunciation (romanized). Use the Jyutping romanization system.
+
           Return the result as a JSON array where each object has:
           - "character": the Chinese character
-          - "pronunciation": romanized Cantonese pronunciation  
+          - "pronunciation": romanized Cantonese pronunciation
           - "definition": definition that best matches the usage of the character in the song
-          
+
           Example format:
           [
             {"character": "愛", "pronunciation": "oi3", "definition": "love; affection"},
@@ -97,7 +97,7 @@ export async function POST(request: NextRequest) {
         {
           role: "user",
           content: `Please provide definitions for these characters found in Cantonese song lyrics:
-          
+
 Characters: ${newCharacters.join(', ')}
 
 Song lyrics context:
@@ -121,7 +121,7 @@ ${songContext ? `Additional context: ${songContext}` : ''}`
       contentLength: definitionContent?.length || 0,
       contentPreview: definitionContent?.substring(0, 200) + '...'
     });
-    
+
     if (!definitionContent) {
       console.log('❌ [CHARACTER API] No content received from OpenAI');
       throw new Error('No definitions received from OpenAI');

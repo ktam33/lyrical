@@ -6,6 +6,7 @@ export interface Entry {
   character: string;
   jyutping: string;
   definition: string;
+  source: string | null;
 }
 
 let db: Database.Database | null = null;
@@ -74,13 +75,13 @@ export function getEntryById(id: number): Entry | undefined {
 
 export function updateEntry(
   id: number,
-  fields: { character: string; jyutping: string; definition: string }
+  fields: { character: string; jyutping: string; definition: string; source: string | null }
 ): Entry | undefined {
   const database = getDb();
-  const { character, jyutping, definition } = fields;
+  const { character, jyutping, definition, source } = fields;
   database
-    .prepare('UPDATE entries SET character = ?, jyutping = ?, definition = ? WHERE id = ?')
-    .run(character, jyutping, definition, id);
+    .prepare('UPDATE entries SET character = ?, jyutping = ?, definition = ?, source = ? WHERE id = ?')
+    .run(character, jyutping, definition, source, id);
   return getEntryById(id);
 }
 

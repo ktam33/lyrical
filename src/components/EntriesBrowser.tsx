@@ -7,6 +7,7 @@ interface Entry {
   character: string;
   jyutping: string;
   definition: string;
+  source: string | null;
 }
 
 interface ListResponse {
@@ -28,7 +29,12 @@ export default function EntriesBrowser() {
   const [error, setError] = useState('');
 
   const [editingId, setEditingId] = useState<number | null>(null);
-  const [editForm, setEditForm] = useState({ character: '', jyutping: '', definition: '' });
+  const [editForm, setEditForm] = useState({
+    character: '',
+    jyutping: '',
+    definition: '',
+    source: '',
+  });
   const [saving, setSaving] = useState(false);
   const [saveError, setSaveError] = useState('');
 
@@ -85,6 +91,7 @@ export default function EntriesBrowser() {
       character: entry.character,
       jyutping: entry.jyutping,
       definition: entry.definition,
+      source: entry.source ?? '',
     });
   };
 
@@ -141,6 +148,7 @@ export default function EntriesBrowser() {
               <th className="px-4 py-2 text-sm font-semibold text-gray-600 w-20">Character</th>
               <th className="px-4 py-2 text-sm font-semibold text-gray-600 w-32">Jyutping</th>
               <th className="px-4 py-2 text-sm font-semibold text-gray-600">Definition</th>
+              <th className="px-4 py-2 text-sm font-semibold text-gray-600 w-48">Source</th>
               <th className="px-4 py-2 text-sm font-semibold text-gray-600 w-32">Actions</th>
             </tr>
           </thead>
@@ -179,6 +187,13 @@ export default function EntriesBrowser() {
                         />
                       </td>
                       <td className="px-4 py-2">
+                        <input
+                          value={editForm.source}
+                          onChange={(e) => setEditForm((f) => ({ ...f, source: e.target.value }))}
+                          className="w-full px-2 py-1 border border-gray-300 rounded bg-white text-gray-900"
+                        />
+                      </td>
+                      <td className="px-4 py-2">
                         <div className="flex gap-2">
                           <button
                             onClick={() => saveEditing(entry.id)}
@@ -203,6 +218,7 @@ export default function EntriesBrowser() {
                       <td className="px-4 py-2 text-2xl text-gray-900">{entry.character}</td>
                       <td className="px-4 py-2 text-gray-800">{entry.jyutping}</td>
                       <td className="px-4 py-2 text-gray-800">{entry.definition}</td>
+                      <td className="px-4 py-2 text-gray-800 text-sm">{entry.source}</td>
                       <td className="px-4 py-2">
                         <button
                           onClick={() => startEditing(entry)}
@@ -218,7 +234,7 @@ export default function EntriesBrowser() {
             })}
             {!loading && entries.length === 0 && (
               <tr>
-                <td colSpan={4} className="px-4 py-8 text-center text-gray-500">
+                <td colSpan={5} className="px-4 py-8 text-center text-gray-500">
                   No entries found.
                 </td>
               </tr>
