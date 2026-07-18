@@ -39,15 +39,15 @@ export function listEntries({
     const like = `%${trimmedSearch}%`;
     const total = database
       .prepare(
-        'SELECT COUNT(*) as count FROM entries WHERE character LIKE ? OR jyutping LIKE ? OR definition LIKE ?'
+        'SELECT COUNT(*) as count FROM entries WHERE character LIKE ? OR jyutping LIKE ? OR definition LIKE ? OR source LIKE ?'
       )
-      .get(like, like, like) as { count: number };
+      .get(like, like, like, like) as { count: number };
 
     const entries = database
       .prepare(
-        'SELECT * FROM entries WHERE character LIKE ? OR jyutping LIKE ? OR definition LIKE ? ORDER BY id LIMIT ? OFFSET ?'
+        'SELECT * FROM entries WHERE character LIKE ? OR jyutping LIKE ? OR definition LIKE ? OR source LIKE ? ORDER BY id LIMIT ? OFFSET ?'
       )
-      .all(like, like, like, pageSize, offset) as Entry[];
+      .all(like, like, like, like, pageSize, offset) as Entry[];
 
     return { entries, total: total.count, page, pageSize };
   }
@@ -86,4 +86,33 @@ export function findEntriesByCharacter(character: string): Entry[] {
   return database
     .prepare('SELECT * FROM entries WHERE character = ? ORDER BY id')
     .all(character) as Entry[];
+}
+
+export function insertEntries(entries: Omit<Entry, 'id'>[]): Entry[] {
+  const database = getDb();
+  const insert = database.prepare(
+    'INSERT INTO entries (character, jyutping, definition, source) VALUES (?, ?, ?, ?)'
+  );
+  const insertMany = database.transaction((rows: Omit<Entry, 'id'>[]) => {
+    return rows.map((row) => insert.run(row.character, row.jyutping, row.definition, row.source)
+      .lastInsertRowid as number);
+  });
+  const ids = insertMany(entries);
+  return ids.map((id) => getEntryById(id)!);
+}
+
+export function deleteEntriesBySource(source: string): number {
+  const database = getDb();
+  const info = database.prepare('DELETE FROM entries WHERE source = ?').run(source);
+  return info.changes;
+}
+
+export function listSources(): string[] {
+  const database = getDb();
+  const rows = database
+    .prepare(
+      "SELECT DISTINCT source FROM entries WHERE source IS NOT NULL AND source != '' ORDER BY source"
+    )
+    .all() as { source: string }[];
+  return rows.map((r) => r.source);
 }

@@ -32,6 +32,35 @@ export default function EntriesBrowser() {
   const [saving, setSaving] = useState(false);
   const [saveError, setSaveError] = useState('');
 
+  const [refreshKey, setRefreshKey] = useState(0);
+
+  const [sources, setSources] = useState<string[]>([]);
+  const [sourceQuery, setSourceQuery] = useState('');
+  const [showSourceSuggestions, setShowSourceSuggestions] = useState(false);
+  const [deleting, setDeleting] = useState(false);
+  const [deleteError, setDeleteError] = useState('');
+
+  const trimmedSourceQuery = sourceQuery.trim();
+  const filteredSources = trimmedSourceQuery
+    ? sources.filter((s) => s.toLowerCase().includes(trimmedSourceQuery.toLowerCase()))
+    : sources;
+  const isValidSource = sources.includes(trimmedSourceQuery);
+
+  const loadSources = () => {
+    fetch('/api/entries/sources')
+      .then((res) => res.json())
+      .then((data: { sources: string[] }) => {
+        setSources(data.sources || []);
+      })
+      .catch(() => {
+        // Non-critical; the delete-by-source control will just show no options.
+      });
+  };
+
+  useEffect(() => {
+    loadSources();
+  }, []);
+
   useEffect(() => {
     const timeout = setTimeout(() => {
       setDebouncedSearch(search);
@@ -74,7 +103,7 @@ export default function EntriesBrowser() {
     return () => {
       cancelled = true;
     };
-  }, [debouncedSearch, page]);
+  }, [debouncedSearch, page, refreshKey]);
 
   const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
 
@@ -109,10 +138,40 @@ export default function EntriesBrowser() {
       }
       setEntries((prev) => prev.map((e) => (e.id === id ? data.entry : e)));
       setEditingId(null);
+      loadSources();
     } catch (err: any) {
       setSaveError(err.message);
     } finally {
       setSaving(false);
+    }
+  };
+
+  const deleteBySource = async () => {
+    if (!isValidSource) return;
+
+    const confirmed = window.confirm(
+      `Delete all entries with source "${trimmedSourceQuery}"? This cannot be undone.`
+    );
+    if (!confirmed) return;
+
+    setDeleting(true);
+    setDeleteError('');
+    try {
+      const res = await fetch(`/api/entries?source=${encodeURIComponent(trimmedSourceQuery)}`, {
+        method: 'DELETE',
+      });
+      const data = await res.json();
+      if (!res.ok) {
+        throw new Error(data.error || 'Failed to delete entries');
+      }
+      setSourceQuery('');
+      loadSources();
+      setPage(1);
+      setRefreshKey((k) => k + 1);
+    } catch (err: any) {
+      setDeleteError(err.message || 'Failed to delete entries');
+    } finally {
+      setDeleting(false);
     }
   };
 
@@ -123,10 +182,52 @@ export default function EntriesBrowser() {
           type="text"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
-          placeholder="Search by character, jyutping, or definition..."
+          placeholder="Search by character, jyutping, definition, or source..."
           className="flex-1 px-4 py-2 border border-gray-300 rounded-lg bg-white text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-400"
         />
         <span className="text-sm text-gray-500 whitespace-nowrap">{total} entries</span>
+      </div>
+
+      <div className="mb-4 flex items-start gap-3">
+        <div className="relative w-72">
+          <input
+            type="text"
+            value={sourceQuery}
+            onChange={(e) => {
+              setSourceQuery(e.target.value);
+              setShowSourceSuggestions(true);
+              setDeleteError('');
+            }}
+            onFocus={() => setShowSourceSuggestions(true)}
+            onBlur={() => setTimeout(() => setShowSourceSuggestions(false), 150)}
+            placeholder="Delete by source..."
+            className="w-full px-3 py-2 border border-gray-300 rounded-lg bg-white text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-400"
+          />
+          {showSourceSuggestions && filteredSources.length > 0 && (
+            <ul className="absolute z-10 mt-1 w-full max-h-56 overflow-auto bg-white border border-gray-300 rounded-lg shadow-lg">
+              {filteredSources.map((s) => (
+                <li
+                  key={s}
+                  onMouseDown={() => {
+                    setSourceQuery(s);
+                    setShowSourceSuggestions(false);
+                  }}
+                  className="px-3 py-2 text-sm text-gray-800 hover:bg-blue-50 cursor-pointer"
+                >
+                  {s}
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+        <button
+          onClick={deleteBySource}
+          disabled={!isValidSource || deleting}
+          className="px-3 py-2 text-sm bg-red-600 text-white rounded hover:bg-red-700 disabled:opacity-50"
+        >
+          {deleting ? 'Deleting...' : 'Delete Source'}
+        </button>
+        {deleteError && <p className="text-sm text-red-600">{deleteError}</p>}
       </div>
 
       {error && (
