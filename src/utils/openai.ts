@@ -4,24 +4,31 @@ import type { ChatCompletionMessageParam } from 'openai/resources/chat/completio
 interface RequestChatCompletionJsonOptions {
   messages: ChatCompletionMessageParam[];
   model?: string;
-  temperature?: number;
   timeoutMs: number;
   heartbeatMs?: number;
   logPrefix: string;
+  /** Name for the JSON schema passed to the API (structured outputs). */
+  schemaName: string;
+  /** JSON schema for the root response object, e.g. { type: 'object', properties: { items: {...} }, required: ['items'], additionalProperties: false }. */
+  schema: Record<string, unknown>;
+  /** Key within the parsed root object holding the array/value to return. */
+  resultKey: string;
 }
 
 /**
- * Calls the OpenAI chat completions API expecting a JSON array response,
- * with a timeout race and tolerant parsing (some models wrap the JSON in
- * prose despite being asked not to).
+ * Calls the OpenAI chat completions API using Structured Outputs (strict JSON
+ * schema), so the response is guaranteed to match `schema` rather than relying
+ * on prompt instructions and tolerant parsing.
  */
 export async function requestChatCompletionJson<T>({
   messages,
-  model = 'gpt-4.1',
-  temperature = 0.3,
+  model = 'gpt-5.6-terra',
   timeoutMs,
   heartbeatMs,
   logPrefix,
+  schemaName,
+  schema,
+  resultKey,
 }: RequestChatCompletionJsonOptions): Promise<T> {
   const openai = new OpenAI({
     apiKey: process.env.OPENAI_API_KEY,
@@ -37,7 +44,18 @@ export async function requestChatCompletionJson<T>({
     }, heartbeatMs);
   }
 
-  const completionPromise = openai.chat.completions.create({ model, messages, temperature });
+  const completionPromise = openai.chat.completions.create({
+    model,
+    messages,
+    response_format: {
+      type: 'json_schema',
+      json_schema: {
+        name: schemaName,
+        strict: true,
+        schema,
+      },
+    },
+  });
   const timeoutPromise = new Promise<never>((_, reject) => {
     setTimeout(() => {
       reject(new Error(`OpenAI API call timed out after ${Math.round(timeoutMs / 1000)} seconds`));
@@ -60,17 +78,6 @@ export async function requestChatCompletionJson<T>({
     throw new Error('No content received from OpenAI');
   }
 
-  return parseJsonFromContent<T>(content);
-}
-
-function parseJsonFromContent<T>(content: string): T {
-  try {
-    return JSON.parse(content) as T;
-  } catch {
-    const jsonMatch = content.match(/\[[\s\S]*\]/);
-    if (jsonMatch) {
-      return JSON.parse(jsonMatch[0]) as T;
-    }
-    throw new Error('Could not parse OpenAI response as JSON');
-  }
+  const parsed = JSON.parse(content) as Record<string, unknown>;
+  return parsed[resultKey] as T;
 }

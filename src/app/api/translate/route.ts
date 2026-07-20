@@ -33,6 +33,27 @@ export async function POST(request: NextRequest) {
       timeoutMs: 180000,
       heartbeatMs: 10000,
       logPrefix: '[TRANSLATE API]',
+      schemaName: 'translation_result',
+      resultKey: 'translation',
+      schema: {
+        type: 'object',
+        properties: {
+          translation: {
+            type: 'array',
+            items: {
+              type: 'object',
+              properties: {
+                originalLine: { type: 'string' },
+                translatedLine: { type: 'string' },
+              },
+              required: ['originalLine', 'translatedLine'],
+              additionalProperties: false,
+            },
+          },
+        },
+        required: ['translation'],
+        additionalProperties: false,
+      },
       messages: [
         {
           role: 'system',
@@ -43,13 +64,7 @@ export async function POST(request: NextRequest) {
           1. Translate each line preserving the poetic and emotional meaning
           2. Consider the context of the entire song when translating each line
           3. Use natural English that flows well and maintains the song's sentiment
-          4. Return the translation as a JSON array where each object has "originalLine" and "translatedLine" properties
-
-          Example format:
-          [
-            {"originalLine": "原文第一行", "translatedLine": "English translation of first line"},
-            {"originalLine": "原文第二行", "translatedLine": "English translation of second line"}
-          ]`,
+          4. Return one entry per lyric line with "originalLine" and "translatedLine" properties`,
         },
         {
           role: 'user',
