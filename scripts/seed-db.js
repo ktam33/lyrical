@@ -1,0 +1,104 @@
+#!/usr/bin/env node
+// Parses data/Cantonese_Anki.txt into data/lyrical.db (sqlite), table `entries`
+// with columns: character, jyutping, definition, source.
+//
+// Each line is tab-separated as:
+//   Cantonese::<song source>\t<character>\t[<jyutping + definition>]\t...
+// A handful of lines have an extra empty field between the character and the
+// jyutping/definition text, and some lines use two literal spaces instead of
+// a tab between the character and jyutping/definition. A few entries are also
+// missing a tone number on the jyutping. This parser is tolerant of all of
+// that.
+//
+// The same (character, jyutping, definition) can appear under multiple songs;
+// only the first source encountered is kept.
+
+const fs = require('fs');
+const path = require('path');
+const Database = require('better-sqlite3');
+
+const ANKI_PATH = path.join(__dirname, '..', 'data', 'Cantonese_Anki.txt');
+const DB_PATH = path.join(__dirname, '..', 'data', 'lyrical.db');
+
+const DECK_PREFIX = 'Cantonese::';
+const JYUTPING_RE = /^([a-zà-ÿ]+)\s?([1-6])\b\s*/i;
+
+function parseRest(rest) {
+  const match = rest.match(JYUTPING_RE);
+  if (match) {
+    return {
+      jyutping: match[1].toLowerCase() + match[2],
+      definition: rest.slice(match[0].length).trim(),
+    };
+  }
+  const parts = rest.split(/\s+/);
+  return {
+    jyutping: parts[0],
+    definition: rest.slice(parts[0].length).trim(),
+  };
+}
+
+function parseLine(line) {
+  const fields = line.split('\t');
+  if (fields.length < 3) return null;
+
+  const source = fields[0].startsWith(DECK_PREFIX)
+    ? fields[0].slice(DECK_PREFIX.length).trim()
+    : fields[0].trim();
+  const character = fields[1].trim();
+  if (!character) return null;
+
+  const rest = fields.slice(2).find((f) => f.trim())?.trim();
+  if (!rest) return null;
+
+  const { jyutping, definition } = parseRest(rest);
+  if (!jyutping || !definition) return null;
+
+  return { character, jyutping, definition, source };
+}
+
+function main() {
+  const content = fs.readFileSync(ANKI_PATH, 'utf-8');
+  const lines = content.split('\n').slice(3); // skip #separator/#html/#deck header lines
+
+  const seen = new Set();
+  const entries = [];
+  for (const raw of lines) {
+    const line = raw.replace(/\r$/, '');
+    if (!line.trim()) continue;
+    const parsed = parseLine(line);
+    if (!parsed) continue;
+
+    const key = `${parsed.character} ${parsed.jyutping} ${parsed.definition}`;
+    if (seen.has(key)) continue; // first source wins for repeated entries
+    seen.add(key);
+    entries.push(parsed);
+  }
+
+  if (fs.existsSync(DB_PATH)) fs.unlinkSync(DB_PATH);
+  const db = new Database(DB_PATH);
+
+  db.exec(`
+    CREATE TABLE entries (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      character TEXT NOT NULL,
+      jyutping TEXT NOT NULL,
+      definition TEXT NOT NULL,
+      source TEXT
+    );
+    CREATE INDEX idx_entries_character ON entries(character);
+  `);
+
+  const insert = db.prepare(
+    'INSERT INTO entries (character, jyutping, definition, source) VALUES (?, ?, ?, ?)'
+  );
+  const insertMany = db.transaction((rows) => {
+    for (const row of rows) insert.run(row.character, row.jyutping, row.definition, row.source);
+  });
+  insertMany(entries);
+
+  console.log(`Seeded ${entries.length} entries into ${path.relative(process.cwd(), DB_PATH)}`);
+  db.close();
+}
+
+main();

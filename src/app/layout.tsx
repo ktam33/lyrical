@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { TranslatorProvider } from "@/context/TranslatorContext";
 
 export const metadata: Metadata = {
   title: "Cantonese Lyrics Translator",
@@ -17,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="antialiased">
-        {children}
+        <TranslatorProvider>{children}</TranslatorProvider>
       </body>
     </html>
   );

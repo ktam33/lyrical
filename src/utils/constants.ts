@@ -1,0 +1,2 @@
+export const ENTRIES_DEFAULT_PAGE_SIZE = 50;
+export const ENTRIES_MAX_PAGE_SIZE = 200;
