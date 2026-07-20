@@ -16,6 +16,16 @@ export default function CharacterAnalysis({
   const [saving, setSaving] = useState(false);
   const [saveError, setSaveError] = useState('');
   const [saved, setSaved] = useState(false);
+  const [copied, setCopied] = useState(false);
+
+  const handleCopy = async () => {
+    const text = suggestedDefinitions
+      .map((char) => `${char.character}\t${char.pronunciation} ${char.definition}`)
+      .join('\n');
+    await navigator.clipboard.writeText(text);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
 
   useEffect(() => {
     setSource('');
@@ -100,16 +110,26 @@ export default function CharacterAnalysis({
       <div className="mt-4 p-3 bg-blue-50 rounded-md border border-blue-200">
         <p className="text-blue-800 text-sm">
           💡 <strong>Note:</strong> These definitions are contextually generated for this song.
-          You can copy the lines below to add to your character database:
+          You can copy the lines below to add to your character database (tab-delimited, ready for Quizlet import):
         </p>
       </div>
 
-      <div className="mt-3 bg-gray-900 text-green-400 p-4 rounded-md font-mono text-sm">
-        {suggestedDefinitions.map((char) => (
-          <div key={char.character}>
-            {char.character}	{char.pronunciation} {char.definition}
-          </div>
-        ))}
+      <div className="mt-3 bg-gray-900 text-green-400 p-4 rounded-md">
+        <div className="flex justify-end mb-2">
+          <button
+            onClick={handleCopy}
+            className="px-3 py-1 text-sm bg-gray-700 text-gray-100 rounded hover:bg-gray-600"
+          >
+            {copied ? 'Copied!' : 'Copy'}
+          </button>
+        </div>
+        <div className="font-mono text-sm whitespace-pre">
+          {suggestedDefinitions.map((char) => (
+            <div key={char.character}>
+              {char.character}{'\t'}{char.pronunciation} {char.definition}
+            </div>
+          ))}
+        </div>
       </div>
 
       <div className="mt-4 p-4 bg-white rounded-md border border-yellow-300">
