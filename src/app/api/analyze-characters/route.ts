@@ -52,6 +52,28 @@ export async function POST(request: NextRequest) {
     const suggestedDefinitions = await requestChatCompletionJson<CantoneseCharacter[]>({
       timeoutMs: 90000,
       logPrefix: '[CHARACTER API]',
+      schemaName: 'character_definitions',
+      resultKey: 'characters',
+      schema: {
+        type: 'object',
+        properties: {
+          characters: {
+            type: 'array',
+            items: {
+              type: 'object',
+              properties: {
+                character: { type: 'string' },
+                pronunciation: { type: 'string' },
+                definition: { type: 'string' },
+              },
+              required: ['character', 'pronunciation', 'definition'],
+              additionalProperties: false,
+            },
+          },
+        },
+        required: ['characters'],
+        additionalProperties: false,
+      },
       messages: [
         {
           role: 'system',
@@ -61,16 +83,10 @@ export async function POST(request: NextRequest) {
           1. A standard common definition of the character that best matches how it is used in the song. Do not relate directly to song passages.
           2. A reasonable Cantonese pronunciation (romanized). Use the Jyutping romanization system.
 
-          Return the result as a JSON array where each object has:
+          Return one entry per character with:
           - "character": the Chinese character
           - "pronunciation": romanized Cantonese pronunciation
-          - "definition": definition that best matches the usage of the character in the song
-
-          Example format:
-          [
-            {"character": "愛", "pronunciation": "oi3", "definition": "love; affection"},
-            {"character": "心", "pronunciation": "sam1", "definition": "heart; mind; feelings"}
-          ]`,
+          - "definition": definition that best matches the usage of the character in the song`,
         },
         {
           role: 'user',
