@@ -4,7 +4,6 @@ import type { ChatCompletionMessageParam } from 'openai/resources/chat/completio
 interface RequestChatCompletionJsonOptions {
   messages: ChatCompletionMessageParam[];
   model?: string;
-  temperature?: number;
   timeoutMs: number;
   heartbeatMs?: number;
   logPrefix: string;
@@ -24,7 +23,6 @@ interface RequestChatCompletionJsonOptions {
 export async function requestChatCompletionJson<T>({
   messages,
   model = 'gpt-5.6-terra',
-  temperature = 0.3,
   timeoutMs,
   heartbeatMs,
   logPrefix,
@@ -49,7 +47,6 @@ export async function requestChatCompletionJson<T>({
   const completionPromise = openai.chat.completions.create({
     model,
     messages,
-    temperature,
     response_format: {
       type: 'json_schema',
       json_schema: {
